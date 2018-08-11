@@ -15,10 +15,10 @@ cd medicalapp
 If at all possible, we recommend you use git to download code rather than zips of a repository.  This is prefereable because if the repo is updated, then syncing those changes requires just one command (`git pull`) and usually any merging can be done automatically.  Git is very powerful and we heartily encourages you to become familiar with it.
 
 
-Alternatively you may download and unpack the [zip](https://github.com/asmi0408/medicalapp/archive/medicalapp.zip)
+Alternatively you may download and unpack the [zip](https://github.com/asmi0408/medicalapp/blob/master/archive/medicalapp.zip)
 which on linux can be achieved using
 ```bash
-wget https://github.com/asmi0408/medicalapp/archive/medicalapp.zip
+wget https://github.com/asmi0408/medicalapp/blob/master/archive/medicalapp.zip
 unzip medicalapp.zip
 cd medicalapp
 ```
@@ -41,17 +41,6 @@ Navigate to the medicalapp directory (the location where you unzip or git pull)
 npm install
 node app 
 ```
-
-Running Examples
-----------------
-
-Examples are placed in the `examples` folder for you to investigate, to run the hello world example (`hw.js`) you could type:
-
-```bash
-cd examples
-node hw
-```
-
 
 Successful initialization
 -------------
