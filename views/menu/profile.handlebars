@@ -1,0 +1,45 @@
+{{#user}}
+<h1>Welcome to your Profile page, {{name}}!</h1>
+<div class="card card-body">
+  <form action="/menu/profile/{{id}}?_method=PUT" method="post">
+  <input type="hidden" name="_method" value="PUT">
+    <div class="form-group">
+      <div class="form-group">
+        <label for="name">Name</label>
+        <input type="text" class="form-control" name="name" value="{{name}}">
+      </div>
+      <div class="form-group">
+        <label for="Email">Email Address</label>
+        <input type="text" class="form-control" name="email" value="{{email}}">
+      </div>
+      <div class="form-group">
+        <div class="form-group">
+          <label for="Departmentname">Department</label>
+          <select class="form-control" type="text" name="department" required>
+            {{#select department}}
+              <option value="Accounting">Accounting</option>
+              <option value="Operations">Operations</option>
+              <option value="Procurement">Procurement</option>
+            {{/select}}
+          </select>
+        </div>
+      </div>{{/user}}
+        <div class="form-group">
+          <label for="Supervisor">Supervisor</label>
+          <select class="form-control" type="text" name="supervisor" required>
+            {{#user}}
+            {{#supervisor}}
+            {{#select _id}}
+             {{#each ../../users}}
+              <option value="{{_id}}">{{name}}</option>
+              {{/each}}
+              {{/select}}
+              {{/supervisor}}
+              {{/user}}
+          </select>
+        </div>
+      </div>
+        <button type="submit" class="btn btn-primary">Update Profile</button>
+      </div>
+  </form>
+  </div>

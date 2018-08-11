@@ -1,0 +1,44 @@
+<nav class="navbar navbar-expand-sm navbar-dark bg-primary mb-3">
+  <div class="container">
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false"
+      aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+          {{#if user}}
+      <a class="navbar-brand mr-auto" href="/status">Asmi Corporation</a>
+      {{else}}
+      <a class="navbar-brand mr-auto" href="/users/login">Asmi Corporation</a>
+      {{/if}}
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="nav navbar-nav ml-auto">
+        {{#if user}}
+        <li class="nav-item dropdown">
+          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" id="navbarDropdownMenuLink">Menu</a>
+          <div class="dropdown-menu">
+            <a href="/menu/profile" class="dropdown-item">Profile</a>
+            <a href="/menu/request/" class="dropdown-item">Request Time-off</a>
+          </div>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/status">Status</a>
+        </li>
+        <li class="nav-item">
+          <a href="/users/logout" class="nav-link">Logout
+          </a>
+        </li>
+        {{else}}
+        <ul class="nav navbar-nav navbar-right">
+        <li class="nav-item">
+          <a href="/users/login" class="nav-link">Login
+          </a>
+        </li>
+        <li class="nav-item">
+          <a href="/users/register" class="nav-link">Register
+          </a>
+        </li>
+        </ul>
+        {{/if}}
+      </ul>
+    </div>
+  </div>
+</nav>

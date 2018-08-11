@@ -1,0 +1,6254 @@
+[
+  {
+    "area": "ALEXANDRA",
+    "clinic_code": "SGP000368",
+    "clinic": "TOWN HALL CLINIC (ALEXANDRA)",
+    "address": "438A ALEXANDRA  ROAD #B1-02 ALEXANDRA TECHNOPARK  BLOCK A",
+    "postal": 119967,
+    "tel": 62788088,
+    "fax": 62728778,
+    "operating_hours_mon___fri": "8.30AM-12.00PM  \n2.00PM-4.15PM",
+    "sat": "8.30AM-10.15AM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.277325,
+      "lng": 103.800274
+    }
+  },
+  {
+    "area": "ALJUNIED",
+    "clinic_code": "SGP000396",
+    "clinic": "YSL ALJUNIED CLINIC & SURGERY PTE LTD",
+    "address": "BLK 5 UPPER ALJUNIED LANE #01-42",
+    "postal": 360005,
+    "tel": 63430626,
+    "fax": 63430625,
+    "operating_hours_mon___fri": "8.30AM-3.00PM   \n6.30PM-9.00PM",
+    "sat": "8.30AM-12.30PM",
+    "sun": "8.30AM-12.30PM",
+    "public_holiday": "8.30AM-12.30PM",
+    "remarks": "Closed on Christmas and Chinese New Year's Day",
+    "location": {
+      "lat": 1.334119,
+      "lng": 103.879544
+    }
+  },
+  {
+    "area": "ALJUNIED",
+    "clinic_code": "SGP000008",
+    "clinic": "ANTEH DISPENSARY  PTE LTD",
+    "address": "368 GEYLANG ROAD",
+    "postal": 389381,
+    "tel": 67441809,
+    "fax": 68418948,
+    "operating_hours_mon___fri": "9.00AM-12.00PM   \n2.00PM-5.00PM",
+    "sat": "9.00AM-12.00PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.31291,
+      "lng": 103.88136
+    }
+  },
+  {
+    "area": "ALJUNIED",
+    "clinic_code": "SGP000301",
+    "clinic": "S T MEDICAL CENTRE",
+    "address": "BLK 95 ALJUNIED CRESCENT #01-521",
+    "postal": 380095,
+    "tel": 67458119,
+    "fax": 67458119,
+    "operating_hours_mon___fri": "9.00AM-1.00PM,\n6.30PM-8.30PM (CLOSED ON TUE & THU NIGHTS)",
+    "sat": "9.00AM-12.00PM",
+    "sun": "9.30AM-12.00PM",
+    "public_holiday": "9.30AM-12.00PM",
+    "remarks": "TEMPORARY  CLOSURE FROM 20-25 OCTOBER\n2015.",
+    "location": {
+      "lat": 1.321563,
+      "lng": 103.886362
+    }
+  },
+  {
+    "area": "ALJUNIED",
+    "clinic_code": "SGP000715",
+    "clinic": "ACCESS MEDICAL (CIRCUIT ROAD)",
+    "address": "88 CIRCUIT ROAD #01-965",
+    "postal": 370088,
+    "tel": 65478840,
+    "fax": 65478842,
+    "operating_hours_mon___fri": "7.00AM-1.00PM,\n6.00PM-12.00AM",
+    "sat": "7.00AM-1.00PM,\n6.00PM-12.00AM",
+    "sun": "7.00AM-1.00PM,\n6.00PM-12.00AM",
+    "public_holiday": "7.00AM-1.00PM,\n6.00PM-12.00AM",
+    "location": {
+      "lat": 1.323564,
+      "lng": 103.88585
+    }
+  },
+  {
+    "area": "ANG MO KIO",
+    "clinic_code": "SGP000005",
+    "clinic": "AMK FAMILY CLINIC PTE LTD",
+    "address": "51 ANG MO KIO AVENUE 3 #01-01",
+    "postal": 569922,
+    "tel": 64544204,
+    "fax": 64538327,
+    "operating_hours_mon___fri": "MON-FRI: 8.30AM-\n3.00PM   MON-WED:\n6.00PM-10.00PM THU-FRI: 7.00PM-\n10.00PM",
+    "sat": "9.00AM-12.00PM,\n2.00PM-5.00PM,\n6.00PM-10.00PM",
+    "sun": "2.00PM-7.00PM",
+    "public_holiday": "SELECTED",
+    "remarks": "LAST REGISTRATION HALF HOUR BEFORE CLOSING.",
+    "location": {
+      "lat": 1.369149,
+      "lng": 103.847207
+    }
+  },
+  {
+    "area": "ANG MO KIO",
+    "clinic_code": "SGP000138",
+    "clinic": "HEALTHLINK  (AMK) MEDICAL CENTRE PTE LTD",
+    "address": "BLK 108 ANG MO KIO AVENUE 4 #01-86",
+    "postal": 560108,
+    "tel": 64571636,
+    "fax": 64563605,
+    "operating_hours_mon___fri": "8.45AM-12.30PM   \n2.00PM-4.30PM   \n6.45PM-8.30PM",
+    "sat": "8.45AM-12.00PM",
+    "sun": "8.45AM-12.00PM",
+    "public_holiday": "8.45AM-12.00PM",
+    "location": {
+      "lat": 1.371119,
+      "lng": 103.838173
+    }
+  },
+  {
+    "area": "ANG MO KIO",
+    "clinic_code": "SGP000006",
+    "clinic": "ANG MO KIO MEDICAL CENTRE",
+    "address": "BLK 157 ANG MO KIO AVENUE 4 #01-558",
+    "postal": 560157,
+    "tel": 64570273,
+    "fax": 67528637,
+    "operating_hours_mon___fri": "8.30AM-12.30PM   \n2.30PM-6.00PM   \n7.00PM-9.00PM (ONLY ON MON EVENING)  \nFRI: \n8.30AM-12.00PM",
+    "sat": "8.30AM-12.00PM",
+    "sun": "9.00AM-12.00PM",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.37526,
+      "lng": 103.839382
+    }
+  },
+  {
+    "area": "CLEMENTI",
+    "clinic_code": "SGP000385",
+    "clinic": "WEST COAST CLINIC & SURGERY",
+    "address": "BLK 722 CLEMENTI WEST STREET 2 #01-162",
+    "postal": 120722,
+    "tel": 67770183,
+    "fax": 67770183,
+    "operating_hours_mon___fri": "8.30AM-12.15PM   \n2.00PM-4.15PM   \n6.30PM-8.15PM",
+    "sat": "8.30AM-12.15PM",
+    "sun": "9.00AM-12.15PM",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.302909,
+      "lng": 103.763786
+    }
+  },
+  {
+    "area": "CLEMENTI",
+    "clinic_code": "SGP000565",
+    "clinic": "CENTRAL CLINIC & SURGERY 24HR (CLEMENTI)",
+    "address": "BLK 450 CLEMENTI AVENUE 3 #01-291",
+    "postal": 120450,
+    "tel": 67732925,
+    "fax": 67732927,
+    "operating_hours_mon___fri": "24 HOURS",
+    "sat": "24 HOURS",
+    "sun": "24 HOURS",
+    "public_holiday": "24 HOURS",
+    "location": {
+      "lat": 1.313578,
+      "lng": 103.765368
+    }
+  },
+  {
+    "area": "CLEMENTI",
+    "clinic_code": "SGP000693",
+    "clinic": "LC CLINIC MEDICAL SURGERY AESTHETICS",
+    "address": "BLK 446 CLEMENTI AVENUE 3 #01-191",
+    "postal": 120446,
+    "tel": 64562448,
+    "fax": 64571129,
+    "operating_hours_mon___fri": "8.00AM-10.00PM",
+    "sat": "8.00AM-10.00PM",
+    "sun": "10.30AM-10.00PM",
+    "public_holiday": "8.00AM-10.00PM",
+    "location": {
+      "lat": 1.312444,
+      "lng": 103.764777
+    }
+  },
+  {
+    "area": "COMMONWEA LTH",
+    "clinic_code": "SGP000472",
+    "clinic": "MEDICAL CENTRE @ COMMONWEALTH",
+    "address": "BLK 88 TANGLIN HALT ROAD #01-03",
+    "postal": 141088,
+    "tel": 64756116,
+    "fax": 64766116,
+    "operating_hours_mon___fri": "8.30AM-12.30PM,\n1.30PM-5.00PM,\n6.30PM-9.00PM",
+    "sat": "9.00AM-2.00PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.302208,
+      "lng": 103.797717
+    }
+  },
+  {
+    "area": "DOVER",
+    "clinic_code": "SGP000066",
+    "clinic": "DOVER CLINIC AND SURGERY PTE LTD",
+    "address": "BLK 28 DOVER CRESCENT #01-89",
+    "postal": 130028,
+    "tel": 67757410,
+    "fax": 67762851,
+    "operating_hours_mon___fri": "8.30AM-5.00PM   \n7.00PM-9.00PM",
+    "sat": "8.30AM-2.00PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.304381,
+      "lng": 103.781952
+    }
+  },
+  {
+    "area": "DOVER",
+    "clinic_code": "SGP000067",
+    "clinic": "DOVER MEDICAL CENTRE",
+    "address": "BLK 69 AYER RAJAH CRESCENT #01-03 AYER RAJAH AMENITY CENTRE",
+    "postal": 139961,
+    "tel": 67756266,
+    "fax": 67756966,
+    "operating_hours_mon___fri": "8.30AM-5.30PM",
+    "sat": "CLOSED",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.296167,
+      "lng": 103.787009
+    }
+  },
+  {
+    "area": "DOVER",
+    "clinic_code": "SGP000523",
+    "clinic": "TRINITY MEDICAL CLINIC",
+    "address": "BLK 19A DOVER CRESCENT #01-01 DOVER VILLE",
+    "postal": 131019,
+    "tel": 67788868,
+    "fax": 67788868,
+    "operating_hours_mon___fri": "9.00AM-5.30PM",
+    "sat": "9.00AM-4.00PM",
+    "sun": "9.00AM-11.30AM",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.307379,
+      "lng": 103.784569
+    }
+  },
+  {
+    "area": "EAST COAST",
+    "clinic_code": "SGP000120",
+    "clinic": "FRANKEL CLINIC",
+    "address": "697 EAST COAST ROAD #01-01",
+    "postal": 459060,
+    "tel": 64455457,
+    "fax": 64455457,
+    "operating_hours_mon___fri": "9.15AM-12.15PM   \n2.30PM-4.15PM   \n7.00PM-8.30PM",
+    "sat": "9.15AM-12.15PM",
+    "sun": "9.15AM-12.15PM",
+    "public_holiday": "9.15AM-12.15PM",
+    "location": {
+      "lat": 1.3116969,
+      "lng": 103.922154
+    }
+  },
+  {
+    "area": "EAST COAST",
+    "clinic_code": "SGP000202",
+    "clinic": "LIANG CLINIC",
+    "address": "695D EAST COAST ROAD",
+    "postal": 459059,
+    "tel": 62415944,
+    "fax": 64450141,
+    "operating_hours_mon___fri": "8.30AM-12.00PM,\n2.00PM-5.00PM (CLOSED ON WED AFTERNOON)",
+    "sat": "8.30AM-12.00PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.311679,
+      "lng": 103.92209
+    }
+  },
+  {
+    "area": "EAST COAST",
+    "clinic_code": "SGP000029",
+    "clinic": "C & K FAMILY CLINIC PTE LTD",
+    "address": "108 UPPER EAST COAST ROAD",
+    "postal": 455297,
+    "tel": 62429588,
+    "fax": 62429277,
+    "operating_hours_mon___fri": "9.00AM-12.00PM,\n6.00PM-9.00PM",
+    "sat": "9.00AM-12.00PM",
+    "sun": "9.00AM-12.00PM",
+    "public_holiday": "9.00AM-12.00PM",
+    "remarks": "CLOSED ON CHRISTMAS  AND CHINESE NEW YEAR'S DAY. \nLAST REGISTRATION IS\n30MINS BEFORE CLOSING TIME.",
+    "location": {
+      "lat": 1.313281,
+      "lng": 103.92879
+    }
+  },
+  {
+    "area": "EAST COAST",
+    "clinic_code": "SGP000038",
+    "clinic": "CHAN FAMILY CLINIC",
+    "address": "865 MOUNTBATTEN ROAD #02-81H KATONG SHOPPING CENTRE",
+    "postal": 437844,
+    "tel": 63454683,
+    "operating_hours_mon___fri": "9.00AM-4.00PM",
+    "sat": "9.00AM-1.00PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.303746,
+      "lng": 103.901182
+    }
+  },
+  {
+    "area": "EAST COAST",
+    "clinic_code": "SGP000093",
+    "clinic": "EAST COAST FAMILY CLINIC PTE LTD",
+    "address": "121 MEYER ROAD #01-05 THE MAKENA",
+    "postal": 437932,
+    "tel": 64404556,
+    "fax": 63483858,
+    "operating_hours_mon___fri": "MON/TUE/THU/FRI:\n8.30AM-3.00PM,\n6.30PM-8.30PM (CLOSED FRI NIGHT) WED: 8.30AM-\n12.30PM, 6.30PM-\n8.30PM",
+    "sat": "9.00AM-12.30PM",
+    "sun": "9.00AM-12.30PM",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.297985,
+      "lng": 103.894436
+    }
+  },
+  {
+    "area": "FARRER",
+    "clinic_code": "SGP000390",
+    "clinic": "YAP MEDICARE CLINIC PTE LTD",
+    "address": "BLK 8 EMPRESS ROAD #01-03",
+    "postal": 260008,
+    "tel": 64712338,
+    "fax": 64763371,
+    "operating_hours_mon___fri": "8.30AM-11.45AM   \n2.00PM-3.45PM   \n7.00PM-8.30PM",
+    "sat": "8.30AM-11.45AM",
+    "sun": "8.30AM-11.45AM",
+    "remarks": "Closed on Chinese New Year's Day, Christmas, New Year's Day's Day & National Day",
+    "location": {
+      "lat": 1.317179,
+      "lng": 103.806296
+    }
+  },
+  {
+    "area": "GEYLANG",
+    "clinic_code": "SGP000311",
+    "clinic": "SIMS DRIVE MEDICAL CLINIC",
+    "address": "BLK 53 SIMS PLACE #01-174",
+    "postal": 380053,
+    "tel": 67411607,
+    "fax": 67411607,
+    "operating_hours_mon___fri": "8.30AM-12.30PM  \n2.00PM-4.30PM   \n7.00PM-9.00PM",
+    "sat": "8.30AM-12.30PM\n \n7.00PM-9.00PM",
+    "sun": "8.30AM-12.30PM",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.317801,
+      "lng": 103.880004
+    }
+  },
+  {
+    "area": "GEYLANG",
+    "clinic_code": "SGP000721",
+    "clinic": "TJ MEDICAL CLINIC & SURGERY",
+    "address": "48 SIMS PLACE #01-167",
+    "postal": 380048,
+    "tel": 67424413,
+    "fax": 67483813,
+    "operating_hours_mon___fri": "8.30AM-12.30PM,\n2.00PM-4.30PM,\n7.00PM-9.00PM (CLOSED ON FRI NIGHT)",
+    "sat": "8.30AM-12.30PM",
+    "sun": "8.30AM-12.30PM",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.317613,
+      "lng": 103.8793589
+    }
+  },
+  {
+    "area": "HARBOURFRO NT",
+    "clinic_code": "SGP000075",
+    "clinic": "CLIFFORD DISPENSARY  PTE LTD",
+    "address": "3 HARBOURFRONT PLACE #04-01 HARBOURFRONT TOWER TWO",
+    "postal": 99254,
+    "tel": 63760788,
+    "fax": 63760775,
+    "operating_hours_mon___fri": "8.30AM-1.00PM   \n2.00PM-5.30PM",
+    "sat": "CLOSED",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.26448,
+      "lng": 103.818704
+    }
+  },
+  {
+    "area": "HARBOURFRO NT",
+    "clinic_code": "SGP000604",
+    "clinic": "MINT MEDICAL CENTRE",
+    "address": "1 HARBOURFRONT PLACE #01-10 HARBOURFRONT TOWER ONE",
+    "postal": 98633,
+    "tel": 62729372,
+    "fax": 62729218,
+    "operating_hours_mon___fri": "8.30AM-6.00PM (LAST REGISTRATION 15\nMINS BEFORE CLOSING)",
+    "sat": "9.30AM-12.00PM (LAST REGISTRATION 15\nMINS BEFORE CLOSING)",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.265267,
+      "lng": 103.818927
+    }
+  },
+  {
+    "area": "HOLLAND",
+    "clinic_code": "SGP000305",
+    "clinic": "SEFTON MEDICAL CENTRE PTE LTD",
+    "address": "BLK 41 HOLLAND DRIVE #01-25",
+    "postal": 270041,
+    "tel": 64764476,
+    "fax": 64768476,
+    "operating_hours_mon___fri": "8.30AM-12.30PM,\n1.30PM-4.00PM,\n7.00PM-9.00PM (CLOSED ON FRI AFTERNOON  & NIGHT)",
+    "sat": "8.30AM-12.30PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "remarks": "- PATIENT TO ARRIVE AT LEAST 15 MINS BEFORE CLOSING. \n- TEMPORARY CLOSURE FROM 7-16\nNOVEMBER  2015.",
+    "location": {
+      "lat": 1.307571,
+      "lng": 103.793427
+    }
+  },
+  {
+    "area": "HOLLAND",
+    "clinic_code": "SGP000227",
+    "clinic": "MAY MEDICAL CLINIC & SURGERY",
+    "address": "BLK 41 HOLLAND DRIVE #01-19",
+    "postal": 270041,
+    "tel": 67743318,
+    "fax": 67743329,
+    "operating_hours_mon___fri": "8.00AM-12.30PM",
+    "sat": "8.00AM-12.30PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "remarks": "FOR OCT14-DEC14\nSOME OF THE DAY THERE WILL BE NO LOCUM DOCTOR, PLEASE CALL CLINIC TO CHECK.",
+    "location": {
+      "lat": 1.307571,
+      "lng": 103.793427
+    }
+  },
+  {
+    "area": "HOLLAND",
+    "clinic_code": "SGP000343",
+    "clinic": "THE ARCADIA CLINIC",
+    "address": "2 PANDAN VALLEY #01-211 ACACIA COURT",
+    "postal": 597626,
+    "tel": 64695122,
+    "fax": 64695762,
+    "operating_hours_mon___fri": "9.00AM-12.30PM   \n2.00PM-4.30PM   \n6.30PM-8.30PM",
+    "sat": "9.00AM-12.30PM",
+    "sun": "9.00AM-12.30PM",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.320431,
+      "lng": 103.778992
+    }
+  },
+  {
+    "area": "HOLLAND",
+    "clinic_code": "SGP000560",
+    "clinic": "HEALTHWAY  MEDICAL CLINIC (HOLLAND DRIVE)",
+    "address": "BLK 45 HOLLAND DRIVE #01-353",
+    "postal": 270045,
+    "tel": 67789793,
+    "fax": 67789521,
+    "operating_hours_mon___fri": "8.30AM-1.00PM,\n2.00PM-4.30PM,\n6.00PM-8.00PM (CLOSED ON TUE/THU EVENINGS)",
+    "sat": "8.30AM-12.30PM",
+    "sun": "9.00AM-12.00PM",
+    "public_holiday": "9.00AM-12.00PM",
+    "location": {
+      "lat": 1.308583,
+      "lng": 103.792897
+    }
+  },
+  {
+    "area": "HOLLAND",
+    "clinic_code": "SGP000680",
+    "clinic": "HOLLAND CLOSE CLINIC PTE. LTD.",
+    "address": "BLK 31 HOLLAND CLOSE #01-231",
+    "postal": 270031,
+    "tel": 67792921,
+    "operating_hours_mon___fri": "9.00AM-1.00PM,\n6.00PM-9.00PM",
+    "sat": "9.00AM-1.00PM",
+    "sun": "6.00PM-9.00PM",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.307083,
+      "lng": 103.796985
+    }
+  },
+  {
+    "area": "HOUGANG",
+    "clinic_code": "SGP000181",
+    "clinic": "K P TAN MEDICAL CLINIC",
+    "address": "BLK 811 HOUGANG CENTRAL #01-192",
+    "postal": 530811,
+    "tel": 63823673,
+    "fax": 63856483,
+    "operating_hours_mon___fri": "8.30AM-12.30PM  \n2.00PM-4.30PM   \n6.30PM-8.30PM",
+    "sat": "8.30AM-12.30PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "remarks": "Closed on Wed. Remarks: Clinic very crowded",
+    "location": {
+      "lat": 1.371823,
+      "lng": 103.893725
+    }
+  },
+  {
+    "area": "HOUGANG",
+    "clinic_code": "SGP000189",
+    "clinic": "KING GEORGE'S MEDICAL CENTRE (HG) PTE LTD",
+    "address": "BLK 916 HOUGANG AVENUE 9 #01-08",
+    "postal": 530916,
+    "tel": 63855177,
+    "fax": 63124792,
+    "operating_hours_mon___fri": "8.30AM-12.30PM,\n2.00PM-4.30PM,\n6.30PM-8.30PM (CLOSED ON FRI EVENING)",
+    "sat": "8.30AM-12.30PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.374913,
+      "lng": 103.884238
+    }
+  },
+  {
+    "area": "HOUGANG",
+    "clinic_code": "SGP000125",
+    "clinic": "GRACE (SL) MEDICAL CENTRE",
+    "address": "BLK 811 HOUGANG CENTRAL #01-208",
+    "postal": 530811,
+    "tel": 63850400,
+    "fax": 63851461,
+    "operating_hours_mon___fri": "9.00AM-12.00PM   \n6.00PM-8.00PM (CLOSED ON WED EVENING)",
+    "sat": "9.00AM-12.00PM",
+    "sun": "9.00AM-12.00PM",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.371823,
+      "lng": 103.893725
+    }
+  },
+  {
+    "area": "HOUGANG",
+    "clinic_code": "SGP000082",
+    "clinic": "DRS LIM & CHAN CLINIC (HOUGANG)",
+    "address": "BLK 106 HOUGANG AVENUE 1 #01-1235",
+    "postal": 530106,
+    "tel": 62800990,
+    "fax": 62801973,
+    "operating_hours_mon___fri": "8.30AM-12.30PM \n2.00PM-5.00PM (CLOSED ON TUE/WED AFTERNOON)  \n7.00PM-9.00PM (CLOSED ON THU/FRI EVENING)",
+    "sat": "8.30AM-12.30PM",
+    "sun": "8.30AM-12.30PM",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.353777,
+      "lng": 103.890572
+    }
+  },
+  {
+    "area": "HOUGANG",
+    "clinic_code": "SGP000148",
+    "clinic": "HEALTHWAY  MEDICAL CLINIC",
+    "address": "BLK 684 HOUGANG AVENUE 8 #01-965",
+    "postal": 530684,
+    "tel": 63880339,
+    "fax": 63880337,
+    "operating_hours_mon___fri": "8.30AM-12.30PM   \n2.00PM-5.00PM   \n6.30PM-9.30PM",
+    "sat": "8.30AM-12.30PM\n \n6.30PM-9.30PM",
+    "sun": "8.30AM-12.30PM\n \n6.30PM-9.30PM",
+    "public_holiday": "8.30AM-12.30PM\n \n6.30PM-9.30PM",
+    "location": {
+      "lat": 1.373235,
+      "lng": 103.886822
+    }
+  },
+  {
+    "area": "HOUGANG",
+    "clinic_code": "SGP000656",
+    "clinic": "HALLEY MEDICAL CLINIC",
+    "address": "1 HOUGANG STREET 91, HOUGANG 1 #01-21",
+    "postal": 538692,
+    "tel": 63122632,
+    "fax": 63122732,
+    "operating_hours_mon___fri": "8.30AM-1.00PM,\n2.00PM-5.00PM,\n7.00PM-9.00PM",
+    "sat": "8.30AM-1.00PM,\n2.00PM-5.00PM,\n7.00PM-9.00PM",
+    "sun": "8.30AM-1.00PM,\n2.00PM-5.00PM,\n7.00PM-9.00PM",
+    "public_holiday": "8.30AM-1.00PM,\n2.00PM-5.00PM,\n7.00PM-9.00PM",
+    "location": {
+      "lat": 1.376022,
+      "lng": 103.879482
+    }
+  },
+  {
+    "area": "HOUGANG",
+    "clinic_code": "SGP000303",
+    "clinic": "SEAH CLINIC",
+    "address": "BLK 311 HOUGANG AVENUE 5 #01-183",
+    "postal": 530311,
+    "tel": 62827254,
+    "fax": 62828769,
+    "operating_hours_mon___fri": "8.30AM-12.00PM,\n2.30PM-5.00PM",
+    "sat": "8.30AM-12.00PM",
+    "sun": "8.30AM-12.00PM",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.365636,
+      "lng": 103.894723
+    }
+  },
+  {
+    "area": "HOUGANG",
+    "clinic_code": "SGP000219",
+    "clinic": "LONDON (MH) CLINIC & SURGERY",
+    "address": "BLK 104 HOUGANG AVENUE 1 #01-1123",
+    "postal": 530104,
+    "tel": 62807262,
+    "fax": 62807262,
+    "operating_hours_mon___fri": "9.00AM-12.00PM  \n2.00PM-3.45PM   \n6.00PM-8.30PM (CLOSED ON WED/FRI EVENING)",
+    "sat": "9.00AM-11.30PM",
+    "sun": "CLOSED",
+    "public_holiday": "SELECTED",
+    "location": {
+      "lat": 1.354793,
+      "lng": 103.890305
+    }
+  },
+  {
+    "area": "HOUGANG",
+    "clinic_code": "SGP000228",
+    "clinic": "MEDICA CLINIC",
+    "address": "BLK 681 HOUGANG AVENUE 8 #01-837",
+    "postal": 530681,
+    "tel": 63862187,
+    "fax": 63879543,
+    "operating_hours_mon___fri": "8.30AM-12.00PM,\n2.00PM-4.00PM,\n7.00PM-8.30PM (CLOSED TUE/WED/THU NIGHT)",
+    "sat": "8.30AM-12.00PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.373235,
+      "lng": 103.886822
+    }
+  },
+  {
+    "area": "HOUGANG",
+    "clinic_code": "SGP000290",
+    "clinic": "PRIMECARE  MEDICAL CLINIC",
+    "address": "BLK 681 HOUGANG AVENUE 8 #01-823",
+    "postal": 530681,
+    "tel": 63863007,
+    "fax": 63865529,
+    "operating_hours_mon___fri": "8.30AM-12.30PM  \n2.00PM-4.30PM   \n7.00PM-9.00PM (CLOSED ON FRI EVENING)",
+    "sat": "8.30AM-12.30PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.373235,
+      "lng": 103.886822
+    }
+  },
+  {
+    "area": "HOUGANG",
+    "clinic_code": "SGP000578",
+    "clinic": "GOH CLINIC & SURGERY",
+    "address": "BLK 204 HOUGANG STREET 21 #01-101",
+    "postal": 530204,
+    "tel": 63863836,
+    "fax": 62840594,
+    "operating_hours_mon___fri": "9.00AM-12.30PM,\n2.00PM-4.00PM,\n6.30PM-8.30PM (CLOSED ON FRI NIGHT)",
+    "sat": "9.00AM-12.30PM",
+    "sun": "10.00AM-12.00PM (PLS CALL BEFORE CONSULTATION)",
+    "public_holiday": "10.00AM-12.00PM (PLS CALL BEFORE CONSULTATION)",
+    "location": {
+      "lat": 1.358853,
+      "lng": 103.884919
+    }
+  },
+  {
+    "area": "HOUGANG",
+    "clinic_code": "SGP000551",
+    "clinic": "MEDLIFE CLINIC & SURGERY",
+    "address": "BLK 684 HOUGANG AVENUE 8 #01-985",
+    "postal": 530684,
+    "tel": 63850836,
+    "fax": 63852463,
+    "operating_hours_mon___fri": "8.30AM-3.30PM   \n6.30PM-9.30PM",
+    "sat": "9.00AM-1.00PM",
+    "sun": "9.00AM-1.00PM   \n7.00PM-9.00PM",
+    "public_holiday": "9.00AM-1.00PM",
+    "location": {
+      "lat": 1.373235,
+      "lng": 103.886822
+    }
+  },
+  {
+    "area": "HOUGANG",
+    "clinic_code": "SGP000566",
+    "clinic": "CENTRAL 24-HR CLINIC (HOUGANG)",
+    "address": "BLK 681 HOUGANG AVENUE 8 #01-831",
+    "postal": 530681,
+    "tel": 63876965,
+    "fax": 63868052,
+    "operating_hours_mon___fri": "24 HOURS",
+    "sat": "24 HOURS",
+    "sun": "24 HOURS",
+    "public_holiday": "24 HOURS",
+    "location": {
+      "lat": 1.373235,
+      "lng": 103.886822
+    }
+  },
+  {
+    "area": "HOUGANG",
+    "clinic_code": "SGP000598",
+    "clinic": "S. LEE CLINIC",
+    "address": "BLK 644 HOUGANG AVENUE 8 #01-265",
+    "postal": 530644,
+    "tel": 63861632,
+    "fax": 63865935,
+    "operating_hours_mon___fri": "9.00AM-12.30PM   \n2.30PM-4.30PM   \n7.00PM-9.00PM",
+    "sat": "9.00AM-12.30PM",
+    "sun": "9.00AM-12.30PM",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.37148,
+      "lng": 103.881255
+    }
+  },
+  {
+    "area": "HOUGANG",
+    "clinic_code": "SGP000713",
+    "clinic": "ONECARE CLINIC HOUGANG PTE LTD",
+    "address": "104 HOUGANG AVENUE 1 #01-1125",
+    "postal": 530104,
+    "tel": 65250325,
+    "fax": 65250396,
+    "operating_hours_mon___fri": "8.00AM-10.00PM",
+    "sat": "8.00AM-10.00PM",
+    "sun": "8.00AM-10.00PM",
+    "public_holiday": "8.00AM-10.00PM",
+    "location": {
+      "lat": 1.354793,
+      "lng": 103.890305
+    }
+  },
+  {
+    "area": "HOUGANG",
+    "clinic_code": "SGP000709",
+    "clinic": "PROCROSS MEDICAL CENTRE (HOUGANG)",
+    "address": "BLK 449 HOUGANG AVENUE 10 #B1-509",
+    "postal": 530449,
+    "tel": 67022848,
+    "fax": 67022840,
+    "operating_hours_mon___fri": "12.30PM-4.30PM,\n7.30PM-9.30PM",
+    "sat": "9.00AM-12.00PM",
+    "sun": "9.00AM-12.00PM",
+    "public_holiday": "9.00AM-12.00PM",
+    "location": {
+      "lat": 1.378798,
+      "lng": 103.895177
+    }
+  },
+  {
+    "area": "JURONG",
+    "clinic_code": "SGP000633",
+    "clinic": "CARING FAMILY CLINIC",
+    "address": "BLK 501 JURONG WEST STREET 51 #01-271",
+    "postal": 640501,
+    "tel": 65645677,
+    "fax": 65692776,
+    "operating_hours_mon___fri": "8.30AM-12.00PM,\n1.00PM-5.00PM",
+    "sat": "8.30AM-1.00PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.350092,
+      "lng": 103.719126
+    }
+  },
+  {
+    "area": "JURONG",
+    "clinic_code": "SGP000084",
+    "clinic": "DRS OH, LIM, WONG AND PARTNERS",
+    "address": "BLK 959 JURONG WEST STREET 92 #01-154",
+    "postal": 640959,
+    "tel": 67913988,
+    "fax": 67918802,
+    "operating_hours_mon___fri": "MON/WED/THU:\n8.30AM-8.30PM TUE/FRI: 8.30AM-\n5.00PM",
+    "sat": "8.30AM-12.00PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.341514,
+      "lng": 103.690502
+    }
+  },
+  {
+    "area": "JURONG",
+    "clinic_code": "SGP000159",
+    "clinic": "HEALTHWAY  MEDICAL CLINIC",
+    "address": "BLK 960 JURONG WEST STREET 92 #01-166",
+    "postal": 640960,
+    "tel": 67915680,
+    "fax": 67918133,
+    "operating_hours_mon___fri": "8.30AM-12.30PM   \n2.00PM-4.30PM   \n6.30PM-9.00PM",
+    "sat": "8.30AM-12.30PM\n \n6.30PM-9.00PM",
+    "sun": "8.30AM-12.30PM",
+    "public_holiday": "8.30AM-12.30PM\n \n6.30PM-9.00PM",
+    "location": {
+      "lat": 1.341406,
+      "lng": 103.691314
+    }
+  },
+  {
+    "area": "JURONG",
+    "clinic_code": "SGP000533",
+    "clinic": "PIONEER MEDICAL CENTRE PTE LTD",
+    "address": "BLK 651 JURONG WEST STREET 61 #01-06",
+    "postal": 640651,
+    "tel": 67907668,
+    "fax": 67907228,
+    "operating_hours_mon___fri": "MON/TUE: 8.00AM-\n2.30PM, 6.30PM-\n10.00PM   WED:\n8.00AM-12.00PM,\n3.00PM-5.30PM,\n6.30PM-10.30PM THU/FRI: 8.00AM-\n12.00PM, 2.30PM-\n4.30PM, 6.30PM-\n10.00PM",
+    "sat": "8.00AM-12.00PM",
+    "sun": "8.00AM-12.00PM,\n7.00PM-10.00PM",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.337112,
+      "lng": 103.697111
+    }
+  },
+  {
+    "area": "JURONG",
+    "clinic_code": "SGP000218",
+    "clinic": "LOI + WONG CLINIC & SURGERY",
+    "address": "BLK 492 JURONG WEST STREET 41 #01-08",
+    "postal": 640492,
+    "tel": 65626676,
+    "fax": 65626676,
+    "operating_hours_mon___fri": "8.30AM-3.00PM   \n7.00PM-9.30PM",
+    "sat": "8.30AM-12.30PM",
+    "sun": "8.30AM-12.30PM\n \n7.00PM-9.30PM",
+    "public_holiday": "8.30AM-12.30PM\n \n7.00PM-9.30PM",
+    "remarks": "OPEN ON THE 1ST &\n3RD SUNDAY MORNINGS OF THE MONTH",
+    "location": {
+      "lat": 1.350203,
+      "lng": 103.724268
+    }
+  },
+  {
+    "area": "JURONG",
+    "clinic_code": "SGP000254",
+    "clinic": "NANYANG CENTRE CLINIC",
+    "address": "BLK 959 JURONG WEST STREET 92 #01-162",
+    "postal": 640959,
+    "tel": 67910962,
+    "fax": 67926005,
+    "operating_hours_mon___fri": "8.30AM-12.30PM,\n2.00PM-4.30PM,\n7.00PM-9.00PM (CLOSED ON FRI NIGHT)",
+    "sat": "8.30AM-12.00PM",
+    "sun": "8.30AM-12.00PM",
+    "public_holiday": "8.30AM-12.00PM",
+    "location": {
+      "lat": 1.341514,
+      "lng": 103.690502
+    }
+  },
+  {
+    "area": "JURONG",
+    "clinic_code": "SGP000476",
+    "clinic": "ICON MEDICAL CLINIC",
+    "address": "BLK 517 JURONG WEST STREET 52 #01-99",
+    "postal": 640517,
+    "tel": 65600521,
+    "fax": 65691075,
+    "operating_hours_mon___fri": "8.30AM-2.00PM,\n6.00PM-9.00PM",
+    "sat": "8.30AM-12.30PM",
+    "sun": "8.30AM-12.30PM",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.345807,
+      "lng": 103.719694
+    }
+  },
+  {
+    "area": "JURONG EAST",
+    "clinic_code": "SGP000320",
+    "clinic": "SUMMIT MEDICAL CLINIC",
+    "address": "BLK 134 JURONG GATEWAY ROAD #01-307",
+    "postal": 600134,
+    "tel": 65673003,
+    "fax": 65673003,
+    "operating_hours_mon___fri": "MON/TUE/WED/FRI\n: 9.00AM-12.00PM,\n2.00PM-5.00PM,\n7.00PM-11.00PM (TUE NIGHT CLOSED)   THU:\n2.00PM-5.00PM,\n7.00PM-11.00PM",
+    "sat": "9.00AM-12.00PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "remarks": "CLINIC TEMPORARY CLOSURE ON JUNE\n2015, ONLY OPEN ON CERTAIN SHIFT KINDLY CALL CLINIC BEFORE CONSULTATION.",
+    "location": {
+      "lat": 1.334023,
+      "lng": 103.738849
+    }
+  },
+  {
+    "area": "JURONG EAST",
+    "clinic_code": "SGP000443",
+    "clinic": "TRINITY MEDICAL CLINIC",
+    "address": "BLK 130 JURONG GATEWAY ROAD #02-205/207",
+    "postal": 600130,
+    "tel": 65607088,
+    "fax": 65665067,
+    "operating_hours_mon___fri": "9.00AM-12.30PM   \n2.00PM-4.00PM   \n6.00PM-9.00PM",
+    "sat": "9.00AM-12.30PM",
+    "sun": "9.00AM-12.30PM",
+    "public_holiday": "9.00AM-12.30PM",
+    "location": {
+      "lat": 1.334713,
+      "lng": 103.739339
+    }
+  },
+  {
+    "area": "JURONG EAST",
+    "clinic_code": "SGP000482",
+    "clinic": "E J TAN CLINIC & SURGERY",
+    "address": "BLK 104 JURONG EAST STREET 13 #01-100",
+    "postal": 600104,
+    "tel": 65606600,
+    "fax": 65630108,
+    "operating_hours_mon___fri": "8.30AM-12.30PM   \n2.00PM-4.00PM   \n7.00PM-9.30PM",
+    "sat": "8.30AM-12.30PM\n \n7.00PM-9.00PM",
+    "sun": "7.00PM-9.00PM",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.336586,
+      "lng": 103.737616
+    }
+  },
+  {
+    "area": "JURONG EAST",
+    "clinic_code": "SGP000700",
+    "clinic": "BEWELL CLINIC @ DORM PTE LTD",
+    "address": "28 TOH GUAN ROAD EAST  WESTLITE DORMITORY MEZZANINE  FLOOR",
+    "postal": 608596,
+    "tel": 65656338,
+    "fax": 65153105,
+    "operating_hours_mon___fri": "8.30AM-12.30PM,\n2.00PM-4.00PM,\n6.30PM-8.30PM",
+    "sat": "CLOSED",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.336506,
+      "lng": 103.751747
+    }
+  },
+  {
+    "area": "JURONG WEST",
+    "clinic_code": "SGP000090",
+    "clinic": "FULLERTON  HEALTHCARE  GROUP @ DRS TRYTHALL HOY DAVIES, JURONG POINT",
+    "address": "1 JURONG WEST CENTRAL 2 #B1A-19B JURONG POINT",
+    "postal": 648886,
+    "tel": 67930611,
+    "fax": 67931393,
+    "operating_hours_mon___fri": "8.30AM-12.30PM   \n2.00PM-6.00PM",
+    "sat": "8.30AM-1.00PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "remarks": "Patient to arrive at clinic at least 30 mins before closing",
+    "location": {
+      "lat": 1.339874,
+      "lng": 103.706464
+    }
+  },
+  {
+    "area": "JURONG WEST",
+    "clinic_code": "SGP000149",
+    "clinic": "HEALTHWAY  JURONG WEST CLINIC",
+    "address": "BLK 690 JURONG WEST CENTRAL 1 #01-193",
+    "postal": 640690,
+    "tel": 67921812,
+    "fax": 67924480,
+    "operating_hours_mon___fri": "8.30AM-12.30PM   \n2.00PM-6.15PM   \n7.00PM-12.00AM",
+    "sat": "8.30AM-12.30PM  \n7.00PM-12.00AM",
+    "sun": "8.30AM-12.30PM\n \n7.00PM-11.00PM",
+    "public_holiday": "8.30AM-12.30PM\n \n7.00PM-11.00PM",
+    "location": {
+      "lat": 1.341328,
+      "lng": 103.706779
+    }
+  },
+  {
+    "area": "JURONG WEST",
+    "clinic_code": "SGP000348",
+    "clinic": "THE DOCTOR'S CLINIC",
+    "address": "BLK 429 JURONG WEST AVENUE 1 #01-318",
+    "postal": 640429,
+    "tel": 65669901,
+    "operating_hours_mon___fri": "8.30AM-12.30PM,\n2.30PM-4.30PM,\n7.00PM-9.00PM (CLOSED ON WED NIGHT)",
+    "sat": "9.00AM-12.00PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.351884,
+      "lng": 103.7245
+    }
+  },
+  {
+    "area": "JURONG WEST",
+    "clinic_code": "SGP000286",
+    "clinic": "PIER MEDICAL CENTRE",
+    "address": "BLK 725 JURONG WEST AVENUE 5 #B1-164",
+    "postal": 640725,
+    "tel": 67915677,
+    "fax": 67910525,
+    "operating_hours_mon___fri": "MON/TUE/WED/FRI\n: \n8.30AM-5.00PM   \n6.30PM-9.00PM    THU: \n8.30AM-4.30PM",
+    "sat": "8.30AM-1.00PM",
+    "sun": "8.30AM-12.00PM",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.345407,
+      "lng": 103.697774
+    }
+  },
+  {
+    "area": "JURONG WEST",
+    "clinic_code": "SGP000418",
+    "clinic": "HISEMAINN  MEDICAL CLINIC (JURONG WEST)",
+    "address": "BLK 276 JURONG WEST STREET 25 #01-06",
+    "postal": 640276,
+    "tel": 67958990,
+    "fax": 67939134,
+    "operating_hours_mon___fri": "8.30AM-3.30PM,\n6.30PM-9.30PM",
+    "sat": "8.30AM-12.30PM",
+    "sun": "8.30AM-12.30PM",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.35363,
+      "lng": 103.703748
+    }
+  },
+  {
+    "area": "JURONG WEST",
+    "clinic_code": "SGP000543",
+    "clinic": "JURPOINT MEDICARE CLINIC",
+    "address": "1 JURONG WEST CENTRAL 2 #B1A-20B JURONG POINT",
+    "postal": 648886,
+    "tel": 67940070,
+    "fax": 67941171,
+    "operating_hours_mon___fri": "8.30AM-12.00PM\n2.00PM-4.30PM",
+    "sat": "8.30AM-12.00AM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "remarks": "#NAME?",
+    "location": {
+      "lat": 1.339874,
+      "lng": 103.706464
+    }
+  },
+  {
+    "area": "JURONG WEST",
+    "clinic_code": "SGP000678",
+    "clinic": "CENTRAL 24-HR CLINIC (JURONG WEST)",
+    "address": "BLK 492 JURONG WEST STREET 41 #01-54",
+    "postal": 640492,
+    "tel": 65657484,
+    "fax": 65657784,
+    "operating_hours_mon___fri": "24-HOURS",
+    "sat": "24-HOURS",
+    "sun": "24-HOURS",
+    "public_holiday": "24-HOURS",
+    "location": {
+      "lat": 1.350203,
+      "lng": 103.724268
+    }
+  },
+  {
+    "area": "JURONG WEST",
+    "clinic_code": "SGP000685",
+    "clinic": "GJ MEDICAL CLINIC (JURONG POINT)",
+    "address": "1 JURONG WEST CENTRAL 2 #B1A-19A JURONG POINT SHOPPING CENTRE",
+    "postal": 648886,
+    "tel": 67958658,
+    "fax": 67958659,
+    "operating_hours_mon___fri": "9.00AM-1.00PM,\n2.00PM-5.00PM,\n6.00PM-9.00PM (CLOSED ON THU & FRI NIGHT)",
+    "sat": "CLOSED",
+    "sun": "2.00PM-6.00PM",
+    "public_holiday": "CLOSED",
+    "remarks": "LAST REGISTRATION IS\n15MINS BEFORE CLOSING TIME",
+    "location": {
+      "lat": 1.339874,
+      "lng": 103.706464
+    }
+  },
+  {
+    "area": "JURONG WEST",
+    "clinic_code": "SGP000728",
+    "clinic": "TAYKA MEDICAL FAMILY CLINIC (JURONG WEST)",
+    "address": "BLK 526 JURONG WEST STREET 52 #01-323",
+    "postal": 640526,
+    "tel": 65645528,
+    "fax": 65649678,
+    "operating_hours_mon___fri": "9.00AM-12.00PM,\n2.00PM-4.00PM,\n7.00PM-9.00PM",
+    "sat": "CLOSED",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.347625,
+      "lng": 103.717001
+    }
+  },
+  {
+    "area": "KALLANG",
+    "clinic_code": "SGP000049",
+    "clinic": "CHOONG'S CLINIC (21)",
+    "address": "BLK 21 OLD AIRPORT ROAD #01-97",
+    "postal": 390021,
+    "tel": 63442400,
+    "fax": 63442400,
+    "operating_hours_mon___fri": "8.00AM-12.00PM \n2.30PM-4.00PM  \n7.00PM-9.00PM",
+    "sat": "8.30AM-11.30AM",
+    "sun": "8.30AM-11.30AM",
+    "public_holiday": "8.30AM-11.30AM",
+    "location": {
+      "lat": 1.307519,
+      "lng": 103.884504
+    }
+  },
+  {
+    "area": "KALLANG",
+    "clinic_code": "SGP000220",
+    "clinic": "LOW MEDICAL CLINIC",
+    "address": "BLK 67 KALLANG BAHRU #01-447",
+    "postal": 330067,
+    "tel": 62950805,
+    "fax": 62977792,
+    "operating_hours_mon___fri": "MON/WED/THU/FRI\n: \n8.00AM-4.00PM   \n6.30PM-8.00PM (CLOSED ON WED EVENING)    \nTUE: \n8.00AM-6.00PM",
+    "sat": "8.00AM-12.30PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "remarks": "Closed on Wed nights",
+    "location": {
+      "lat": 1.320065,
+      "lng": 103.869493
+    }
+  },
+  {
+    "area": "KALLANG",
+    "clinic_code": "SGP000661",
+    "clinic": "STAR HEALTH FAMILY CLINIC",
+    "address": "57 GEYLANG BAHRU ROAD #01-3505",
+    "postal": 330057,
+    "tel": 62995889,
+    "fax": 62995889,
+    "operating_hours_mon___fri": "1.00PM-5.00PM",
+    "sat": "9.00AM-1.00PM",
+    "sun": "1.00PM-3.00PM",
+    "public_holiday": "1.00PM-3.00PM",
+    "location": {
+      "lat": 1.322958,
+      "lng": 103.869896
+    }
+  },
+  {
+    "area": "KALLANG",
+    "clinic_code": "SGP000582",
+    "clinic": "THE BALMORAL CLINIC @ LEISURE PARK",
+    "address": "5 STADIUM WALK #02-21 LEISURE PARK KALLANG",
+    "postal": 397693,
+    "tel": 63452202,
+    "fax": 62423293,
+    "operating_hours_mon___fri": "9.30AM-12.30PM,\n2.30PM-5.00PM",
+    "sat": "9.00AM-12.30PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.3023579,
+      "lng": 103.876445
+    }
+  },
+  {
+    "area": "KALLANG",
+    "clinic_code": "SGP000420",
+    "clinic": "SPRING MEDICAL CLINIC (OLD AIRPORT ROAD)",
+    "address": "BLK 39 JALAN TIGA #01-03 PINE GREEN",
+    "postal": 390039,
+    "tel": 62477077,
+    "fax": 62479385,
+    "operating_hours_mon___fri": "9.00AM-3.00PM,\n6.30PM-9.30PM (CLOSED ON FRI NIGHT)",
+    "sat": "9.00AM-12.30PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "remarks": "LAST REGISTRATION\n15 MINS BEFORE CLOSING TIME.",
+    "location": {
+      "lat": 1.307846,
+      "lng": 103.884919
+    }
+  },
+  {
+    "area": "KALLANG",
+    "clinic_code": "SGP000711",
+    "clinic": "THE CLINIC @ APERIA",
+    "address": "12 KALLANG AVENUE #03-15 THE APERIA",
+    "postal": 339511,
+    "tel": 63339300,
+    "fax": 63416892,
+    "operating_hours_mon___fri": "9.30AM-1.00PM,\n2.00PM-5.30PM",
+    "sat": "8.30AM-12.30PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+    }
+  },
+  {
+    "area": "KEMBANGAN",
+    "clinic_code": "SGP000153",
+    "clinic": "HEALTHWAY  MEDICAL CLINIC",
+    "address": "BLK 110 LENGKONG  TIGA #01-231",
+    "postal": 410110,
+    "tel": 67494062,
+    "fax": 67476487,
+    "operating_hours_mon___fri": "8.30AM-12.30PM   \n2.00PM-4.30PM   \n6.30PM-9.00PM",
+    "sat": "8.30AM-12.30PM",
+    "sun": "8.30AM-12.30PM",
+    "public_holiday": "8.30AM-12.30PM",
+    "remarks": "Closed on Fri nights.",
+    "location": {
+      "lat": 1.323791,
+      "lng": 103.910782
+    }
+  },
+  {
+    "area": "LAVENDER",
+    "clinic_code": "SGP000190",
+    "clinic": "KING GEORGE'S MEDICAL CENTRE PTE LTD",
+    "address": "BLK 803 KING GEORGE'S AVENUE #01-144",
+    "postal": 200803,
+    "tel": 62939883,
+    "fax": 62954782,
+    "operating_hours_mon___fri": "8.30AM-12.30PM,\n2.00PM-4.30PM,\n6.00PM-8.00PM (CLOSED ON WED & FRI EVENING)",
+    "sat": "8.30AM-12.30PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.307798,
+      "lng": 103.8608749
+    }
+  },
+  {
+    "area": "LAVENDER",
+    "clinic_code": "SGP000342",
+    "clinic": "TEXTILE CENTRE CLINIC",
+    "address": "200 JALAN SULTAN #03-32 TEXTILE CENTRE",
+    "postal": 199018,
+    "tel": 62982400,
+    "fax": 62917933,
+    "operating_hours_mon___fri": "9.00AM-12.00PM,\n2.00PM-4.30PM",
+    "sat": "CLOSED",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.303499,
+      "lng": 103.861257
+    }
+  },
+  {
+    "area": "LITTLE INDIA",
+    "clinic_code": "SGP000439",
+    "clinic": "APOLLO MEDICAL CENTRE",
+    "address": "BLK 668 CHANDER ROAD #01-24",
+    "postal": 210668,
+    "tel": 62962777,
+    "fax": 62964348,
+    "operating_hours_mon___fri": "8.00AM-1.00PM   \n2.00PM-5.00PM   \n6.30PM-9.30PM",
+    "sat": "8.00AM-1.00PM   \n2.00PM-5.00PM   \n6.30PM-9.30PM",
+    "sun": "10.00AM-1.00PM\n \n2.00PM-5.00PM   \n6.30PM-9.30PM",
+    "public_holiday": "10.00AM-1.00PM\n \n2.00PM-5.00PM   \n6.30PM-9.30PM",
+    "location": {
+      "lat": 1.307745,
+      "lng": 103.851086
+    }
+  },
+  {
+    "area": "LITTLE INDIA",
+    "clinic_code": "SGP000535",
+    "clinic": "CARE FAMILY CLINIC",
+    "address": "BLK 663 BUFFALO ROAD #01-12",
+    "postal": 210663,
+    "tel": 62995868,
+    "fax": 62995869,
+    "operating_hours_mon___fri": "8.30AM-12.30PM   \n1.30PM-4.00PM   \n6.00PM-9.00PM",
+    "sat": "8.30AM-12.30PM\n \n1.00PM-4.30PM",
+    "sun": "1.00PM-5.00PM",
+    "public_holiday": "8.30AM-12.30PM",
+    "remarks": "Closed on Fri nights",
+    "location": {
+      "lat": 1.305672,
+      "lng": 103.850873
+    }
+  },
+  {
+    "area": "LITTLE INDIA",
+    "clinic_code": "SGP000737",
+    "clinic": "TAYKA MEDICAL",
+    "address": "29A DESKER ROAD",
+    "postal": 209562,
+    "tel": 63924473,
+    "fax": 63924593,
+    "operating_hours_mon___fri": "2.00PM-10.00PM",
+    "sat": "2.00PM-10.00PM",
+    "sun": "2.00PM-10.00PM",
+    "public_holiday": "2.00PM-10.00PM",
+    "location": {
+      "lat": 1.309344,
+      "lng": 103.854667
+    }
+  },
+  {
+    "area": "MACPHERSON",
+    "clinic_code": "SGP000204",
+    "clinic": "LIFECARE MEDICAL CENTRE",
+    "address": "BLK 36 CIRCUIT ROAD #01-416",
+    "postal": 370036,
+    "tel": 67461533,
+    "fax": 67461533,
+    "operating_hours_mon___fri": "8.30AM-3.00PM   \n6.30PM-9.30PM",
+    "sat": "8.30AM-12.30PM",
+    "sun": "8.30AM-12.30PM",
+    "public_holiday": "8.30AM-12.30PM",
+    "location": {
+      "lat": 1.328989,
+      "lng": 103.886929
+    }
+  },
+  {
+    "area": "MARINA BAY",
+    "clinic_code": "SGP000550",
+    "clinic": "CLINIC @ THE SAIL",
+    "address": "2 MARINA BOULEVARD  #B1-11/12 THE SAIL @ MARINA BAY",
+    "postal": 18987,
+    "tel": 62255410,
+    "fax": 62255910,
+    "operating_hours_mon___fri": "8.00AM-1.00PM,\n2.00PM-5.00PM",
+    "sat": "8.30AM-12.00PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.280783,
+      "lng": 103.85265
+    }
+  },
+  {
+    "area": "MARINE PARADE",
+    "clinic_code": "SGP000115",
+    "clinic": "FAMILY MEDICINE CLINIC",
+    "address": "BLK 58 MARINE TERRACE #01-65",
+    "postal": 440058,
+    "tel": 64491606,
+    "fax": 64491606,
+    "operating_hours_mon___fri": "MON-FRI: 9.00AM-\n12.30PM   MON- THU: 2.30PM-\n4.30PM   MON & WED: 7.00PM-\n9.00PM",
+    "sat": "9.00AM-12.30PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.306093,
+      "lng": 103.9137329
+    }
+  },
+  {
+    "area": "MARINE PARADE",
+    "clinic_code": "SGP000397",
+    "clinic": "MEDILINE WEI MIN CLINIC (MARINE PARADE)",
+    "address": "BLK 81 MARINE PARADE CENTRAL #01-634",
+    "postal": 440081,
+    "tel": 62479221,
+    "fax": 62479392,
+    "operating_hours_mon___fri": "7.00AM-12.00AM",
+    "sat": "7.00AM-12.00AM",
+    "sun": "7.00AM-12.00AM",
+    "public_holiday": "7.00AM-12.00AM",
+    "location": {
+      "lat": 1.30286,
+      "lng": 103.907111
+    }
+  },
+  {
+    "area": "MARINE PARADE",
+    "clinic_code": "SGP000652",
+    "clinic": "TRINITY MEDICAL CENTRE (MARINE PARADE)",
+    "address": "87 MARINE PARADE CENTRAL #02-500A",
+    "postal": 440087,
+    "tel": 63440027,
+    "fax": 63480683,
+    "operating_hours_mon___fri": "8.30AM-12.30PM,\n2.00PM-5.00PM,\n6.00PM-9.00PM",
+    "sat": "8.30AM-12.30PM,\n2.00PM-5.00PM",
+    "sun": "8.30AM-12.30PM,\n2.00PM-5.00PM",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.302638,
+      "lng": 103.905569
+    }
+  },
+  {
+    "area": "MARINE PARADE",
+    "clinic_code": "SGP000226",
+    "clinic": "MARINE PARADE CLINIC",
+    "address": "BLK 59 MARINE TERRACE #01-81",
+    "postal": 440059,
+    "tel": 62419065,
+    "fax": 64434549,
+    "operating_hours_mon___fri": "9.00AM-12.30PM  \n2.30PM-4.30PM   \n7.00PM-8.30PM",
+    "sat": "9.00AM-12.30PM",
+    "sun": "9.00AM-12.30PM",
+    "public_holiday": "CLOSED",
+    "remarks": "Closed on Fri nights",
+    "location": {
+      "lat": 1.30588,
+      "lng": 103.914506
+    }
+  },
+  {
+    "area": "NORTH BRIDGE",
+    "clinic_code": "SGP000414",
+    "clinic": "DRS SINGH & PARTNERS (RAFFLES CITY)",
+    "address": "252 NORTH BRIDGE ROAD #02-16 RAFFLES CITY SHOPPING CENTRE",
+    "postal": 179103,
+    "tel": 63388883,
+    "fax": 63383565,
+    "operating_hours_mon___fri": "9.00AM-1.00PM   \n2.00PM-5.00PM",
+    "sat": "9.00AM-1.00PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "remarks": "Patient to arrive at clinic at least 30mins before closing",
+    "location": {
+      "lat": 1.294149,
+      "lng": 103.852807
+    }
+  },
+  {
+    "area": "NOVENA",
+    "clinic_code": "SGP000364",
+    "clinic": "THE RAFFLESIAN  CLINIC & SURGERY",
+    "address": "10 SINARAN DRIVE #11-06 SQUARE 2",
+    "postal": 307506,
+    "tel": 63382740,
+    "fax": 63386840,
+    "operating_hours_mon___fri": "9.00AM-12.00PM  \n2.00PM-4.00PM",
+    "sat": "10.00AM-2.00PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "remarks": "Please make an appointment  before visit.",
+    "location": {
+      "lat": 1.321061,
+      "lng": 103.844476
+    }
+  },
+  {
+    "area": "ORCHARD",
+    "clinic_code": "SGP000070",
+    "clinic": "DR RICHARD CHOO & PARTNERS PTE LTD",
+    "address": "541 ORCHARD ROAD #10-02 LIAT TOWERS",
+    "postal": 238881,
+    "tel": 67345260,
+    "fax": 67371960,
+    "operating_hours_mon___fri": "9.00AM-1.00PM   \n2.00PM-5.00PM",
+    "sat": "9.00AM-1.00PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.3052919,
+      "lng": 103.830378
+    }
+  },
+  {
+    "area": "ORCHARD",
+    "clinic_code": "SGP000068",
+    "clinic": "GP HEALTH CARE PTE LTD",
+    "address": "5 KOEK ROAD #01-23 CUPPAGE PLAZA",
+    "postal": 228796,
+    "tel": 67336060,
+    "fax": 67385273,
+    "operating_hours_mon___fri": "9.00AM-1.00PM  \n2.00PM-5.30PM",
+    "sat": "9.00AM-1.00PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.301793,
+      "lng": 103.840857
+    }
+  },
+  {
+    "area": "ORCHARD",
+    "clinic_code": "SGP000048",
+    "clinic": "CHONG'S MEDICAL CENTRE",
+    "address": "190 CLEMENCEAU  AVENUE #01-29/30 SINGAPORE SHOPPING CENTRE",
+    "postal": 239924,
+    "tel": 63383297,
+    "fax": 63325629,
+    "operating_hours_mon___fri": "9.00AM-12.30PM   \n2.00PM-5.00PM",
+    "sat": "9.00AM-12.30PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.298146,
+      "lng": 103.8441579
+    }
+  },
+  {
+    "area": "ORCHARD",
+    "clinic_code": "SGP000077",
+    "clinic": "DRS FERNANDEZ  & PARTNERS",
+    "address": "9 PENANG ROAD #07-06 PARK MALL",
+    "postal": 238459,
+    "tel": 63380686,
+    "fax": 63347391,
+    "operating_hours_mon___fri": "9.00AM-1.00PM   \n2.00PM-5.00PM",
+    "sat": "9.00AM-1.00PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "remarks": "Patient to arrive at clinic at least 30mins before closing",
+    "location": {
+      "lat": 1.298048,
+      "lng": 103.844577
+    }
+  },
+  {
+    "area": "ORCHARD",
+    "clinic_code": "SGP000092",
+    "clinic": "FULLERTON  HEALTHCARE  GROUP @ DRS TRYTHALL HOY DAVIES, NGEE ANN CITY",
+    "address": "391B ORCHARD ROAD #25-07 NGEE ANN CITY TOWER B",
+    "postal": 238874,
+    "tel": 68365242,
+    "operating_hours_mon___fri": "8.30AM-1.00PM   \n2.00PM-5.30PM",
+    "sat": "8.30AM-1.00PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "remarks": "Patient to arrive at least 30mins before closing",
+    "location": {
+      "lat": 1.302707,
+      "lng": 103.834289
+    }
+  },
+  {
+    "area": "ORCHARD",
+    "clinic_code": "SGP000525",
+    "clinic": "DR TAN & PARTNERS",
+    "address": "11 UNITY STREET #02-07 ROBERTSON  WALK",
+    "postal": 237995,
+    "tel": 62387810,
+    "fax": 62387812,
+    "operating_hours_mon___fri": "8.00AM-9.00PM",
+    "sat": "9.00AM-2.00PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.2921149,
+      "lng": 103.84128
+    }
+  },
+  {
+    "area": "ORCHARD",
+    "clinic_code": "SGP000259",
+    "clinic": "NEWCASTLE  CLINIC PTE LTD",
+    "address": "541 ORCHARD ROAD #18-02A LIAT TOWERS",
+    "postal": 238881,
+    "tel": 67362322,
+    "fax": 67389186,
+    "operating_hours_mon___fri": "9.00AM-1.00PM   \n2.00PM-6.00PM",
+    "sat": "9.00AM-1.00PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.3052919,
+      "lng": 103.830378
+    }
+  },
+  {
+    "area": "ORCHARD",
+    "clinic_code": "SGP000289",
+    "clinic": "PRIME MEDICAL GROUP PTE LTD",
+    "address": "290 ORCHARD ROAD #09-11/12 PARAGON",
+    "postal": 238859,
+    "tel": 67328096,
+    "fax": 67375841,
+    "operating_hours_mon___fri": "8.30AM-5.00PM",
+    "sat": "8.00AM-1.00PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.30451,
+      "lng": 103.836184
+    }
+  },
+  {
+    "area": "ORCHARD",
+    "clinic_code": "SGP000291",
+    "clinic": "PRIMEHEALTH MEDICAL GROUP PTE LTD",
+    "address": "81 CLEMENCEAU  AVENUE #03-22 UE SQUARE",
+    "postal": 239917,
+    "tel": 67344666,
+    "fax": 67345663,
+    "operating_hours_mon___fri": "9.00AM-12.30PM   \n1.30PM-5.30PM",
+    "sat": "9.00AM-12.30PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "remarks": "Patient to arrive at least 15mins before closing.",
+    "location": {
+      "lat": 1.292157,
+      "lng": 103.842684
+    }
+  },
+  {
+    "area": "ORCHARD",
+    "clinic_code": "SGP000723",
+    "clinic": "DR. TAN & PARTNER @ SCOTTS",
+    "address": "9 SCOTTS ROAD #06-06 PACIFIC PLAZA",
+    "postal": 228210,
+    "tel": 66942348,
+    "fax": 66942358,
+    "operating_hours_mon___fri": "8.00AM-9.00PM",
+    "sat": "8.00AM-1.00PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.306595,
+      "lng": 103.831788
+    }
+  },
+  {
+    "area": "PASIR RIS",
+    "clinic_code": "SGP000061",
+    "clinic": "DAYSPRING  MEDICAL CLINIC (PASIR RIS)",
+    "address": "1 PASIR RIS CENTRAL STREET 3 #05-09 WHITE SANDS",
+    "postal": 518457,
+    "tel": 65850123,
+    "fax": 65850103,
+    "operating_hours_mon___fri": "9.00AM-1.00PM,\n2.00PM-5.00PM,\n6.00PM-9.00PM",
+    "sat": "9.00AM-1.00PM",
+    "sun": "9.00AM-1.00PM",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.372567,
+      "lng": 103.950162
+    }
+  },
+  {
+    "area": "PASIR RIS",
+    "clinic_code": "SGP000147",
+    "clinic": "HEALTHWAY  MEDICAL CLINIC",
+    "address": "BLK 625 ELIAS ROAD #01-322 ELIAS MALL",
+    "postal": 510625,
+    "tel": 65846822,
+    "fax": 65846883,
+    "operating_hours_mon___fri": "8.30AM-12.30PM  \n2.00PM-5.00PM   \n6.30PM-9.00PM",
+    "sat": "8.30AM-12.30PM",
+    "sun": "8.30AM-12.30PM",
+    "public_holiday": "8.30AM-12.30PM",
+    "location": {
+      "lat": 1.378441,
+      "lng": 103.94193
+    }
+  },
+  {
+    "area": "PASIR RIS",
+    "clinic_code": "SGP000214",
+    "clinic": "LILY AW PASIR RIS FAMILY CLINIC & SURGERY",
+    "address": "BLK 446 PASIR RIS DRIVE 6 #01-116",
+    "postal": 510446,
+    "tel": 65822122,
+    "fax": 65842378,
+    "operating_hours_mon___fri": "8.30AM-12.30PM   \n2.00PM-4.30PM   \n6.00PM-9.00PM",
+    "sat": "8.30AM-12.30PM\n \n6.00PM-9.00PM",
+    "sun": "8.30AM-12.30PM",
+    "public_holiday": "8.30AM-12.30PM",
+    "location": {
+      "lat": 1.3703669,
+      "lng": 103.957523
+    }
+  },
+  {
+    "area": "PASIR RIS",
+    "clinic_code": "SGP000221",
+    "clinic": "LOYANG MEDICAL CENTRE",
+    "address": "BOX 5142 LOYANG CRESCENT   LOYANG OFFSHORE SUPPLY BASE",
+    "postal": 508988,
+    "tel": 65431690,
+    "fax": 65422528,
+    "operating_hours_mon___fri": "8.30AM-1.00PM  \n2.00PM-5.00PM",
+    "sat": "9.00AM-12.00PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.38403,
+      "lng": 103.970452
+    }
+  },
+  {
+    "area": "PASIR RIS",
+    "clinic_code": "SGP000279",
+    "clinic": "PARAGON MEDICAL CENTRE PTE LTD",
+    "address": "BLK 258 PASIR RIS STREET 21 #02-323 LOYANG POINT",
+    "postal": 510258,
+    "tel": 65833693,
+    "fax": 65833693,
+    "operating_hours_mon___fri": "9.00AM-1.00PM  \n2.00PM-4.00PM  \n6.30PM-9.00PM",
+    "sat": "9.00AM-1.00PM",
+    "sun": "7.00PM-9.00PM",
+    "public_holiday": "9.00AM-12.00PM",
+    "remarks": "#NAME?",
+    "location": {
+      "lat": 1.367095,
+      "lng": 103.964726
+    }
+  },
+  {
+    "area": "PASIR RIS",
+    "clinic_code": "SGP000270",
+    "clinic": "OEI FAMILY CLINIC",
+    "address": "BLK 625 ELIAS ROAD #02-316 ELIAS MALL",
+    "postal": 510625,
+    "tel": 65810800,
+    "fax": 65830362,
+    "operating_hours_mon___fri": "9.30AM-9.00PM",
+    "sat": "11.00AM-4.00PM",
+    "sun": "CLOSED",
+    "remarks": "Wed & Fri only open in the morning",
+    "location": {
+      "lat": 1.378441,
+      "lng": 103.94193
+    }
+  },
+  {
+    "area": "PASIR RIS",
+    "clinic_code": "SGP000274",
+    "clinic": "OXFORD MEDICAL CENTRE",
+    "address": "BLK 735 PASIR RIS STREET 72 #02-330 PASIR RIS WEST PLAZA",
+    "postal": 510735,
+    "tel": 65851496,
+    "fax": 65851496,
+    "operating_hours_mon___fri": "8.30AM-12.30PM,\n7.00PM-9.00PM",
+    "sat": "8.30AM-12.30PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.379692,
+      "lng": 103.936062
+    }
+  },
+  {
+    "area": "PASIR RIS",
+    "clinic_code": "SGP000562",
+    "clinic": "CENTRAL CLINIC & SURGERY 24HR (PASIR RIS)",
+    "address": "BLK 446 PASIR RIS DRIVE 6 #01-122",
+    "postal": 510446,
+    "tel": 65822640,
+    "fax": 65825045,
+    "operating_hours_mon___fri": "24 HOURS",
+    "sat": "24 HOURS",
+    "sun": "24 HOURS",
+    "public_holiday": "24 HOURS",
+    "location": {
+      "lat": 1.3703669,
+      "lng": 103.957523
+    }
+  },
+  {
+    "area": "PASIR RIS",
+    "clinic_code": "SGP000734",
+    "clinic": "O2 MEDICAL CLINIC",
+    "address": "BLK 527D PASIR RIS STREET 51 #01-05",
+    "postal": 514527,
+    "tel": 63849443,
+    "fax": 63849443,
+    "operating_hours_mon___fri": "8.00AM-3.00PM,\n6.00PM-9.00PM",
+    "sat": "8.00AM-1.00PM",
+    "sun": "8.00AM-1.00PM",
+    "public_holiday": "CLOSED",
+    "location": {
+    }
+  },
+  {
+    "area": "PAYA LEBAR",
+    "clinic_code": "SGP000062",
+    "clinic": "DAYSPRING  MEDICAL CLINIC (HAIG ROAD)",
+    "address": "30 HAIG ROAD",
+    "postal": 438737,
+    "tel": 68469979,
+    "fax": 67423453,
+    "operating_hours_mon___fri": "9.00AM-3.00PM,\n6.00PM-9.00PM (CLOSED ON FRI & SAT NIGHT)",
+    "sat": "9.00AM-1.00PM",
+    "sun": "6.00PM-9.00PM",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.313243,
+      "lng": 103.895793
+    }
+  },
+  {
+    "area": "PAYA LEBAR",
+    "clinic_code": "SGP000194",
+    "clinic": "KONG KIAN CLINIC",
+    "address": "187 UPPER PAYA LEBAR ROAD",
+    "postal": 534869,
+    "tel": 62887101,
+    "fax": 62887101,
+    "operating_hours_mon___fri": "8.30AM-12.30PM,\n2.00PM-5.00PM",
+    "sat": "8.30AM-12.30PM",
+    "sun": "9.00AM-12.00PM",
+    "public_holiday": "9.00AM-12.00PM",
+    "location": {
+      "lat": 1.340096,
+      "lng": 103.885049
+    }
+  },
+  {
+    "area": "PAYA LEBAR",
+    "clinic_code": "SGP000531",
+    "clinic": "TAI SENG CLINIC",
+    "address": "137 UPPER PAYA LEBAR ROAD",
+    "postal": 534844,
+    "tel": 62882434,
+    "fax": 62882434,
+    "operating_hours_mon___fri": "8.30AM-12.30PM,\n2.00PM-4.30PM",
+    "sat": "8.30AM-12.30PM,\n2.00PM-4.00PM",
+    "sun": "8.30AM-11.30AM",
+    "public_holiday": "8.30AM-11.00AM",
+    "location": {
+      "lat": 1.338801,
+      "lng": 103.8861639
+    }
+  },
+  {
+    "area": "PAYA LEBAR",
+    "clinic_code": "SGP000701",
+    "clinic": "PHOENIX MEDICAL GROUP (PAYA LEBAR)",
+    "address": "60 PAYA LEBAR ROAD #02-09 PAYA LEBAR SQUARE",
+    "postal": 409051,
+    "tel": 67022940,
+    "fax": 67022941,
+    "operating_hours_mon___fri": "9.00AM-1.00PM,\n2.00PM-5.30PM",
+    "sat": "9.00AM-1.00PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.318938,
+      "lng": 103.8926112
+    }
+  },
+  {
+    "area": "POTONG PASIR",
+    "clinic_code": "SGP000124",
+    "clinic": "GOH MEDICAL CLINIC",
+    "address": "BLK 136 POTONG PASIR AVENUE 3 #01-164",
+    "postal": 350136,
+    "tel": 62827886,
+    "fax": 62827886,
+    "operating_hours_mon___fri": "8.30AM-12.00PM   \n2.00PM-4.30PM   \n6.30PM-8.30PM",
+    "sat": "8.30AM-12.00PM\n \n2.00PM-4.30PM",
+    "sun": "CLOSED",
+    "public_holiday": "9.00AM-12.00PM",
+    "remarks": "CLOSED ON WED-SAT EVENING",
+    "location": {
+      "lat": 1.334079,
+      "lng": 103.866477
+    }
+  },
+  {
+    "area": "POTONG PASIR",
+    "clinic_code": "SGP000355",
+    "clinic": "THE FAMILY PRACTICE - POTONG PASIR",
+    "address": "BLK 148 POTONG PASIR AVENUE 1 #01-33",
+    "postal": 350148,
+    "tel": 62816906,
+    "fax": 62818602,
+    "operating_hours_mon___fri": "MON-THU: 8.30AM-\n1.00PM, 5.30PM-\n9.30PM   FRI:\n8.30AM-1.00PM",
+    "sat": "8.30AM-1.00PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.332627,
+      "lng": 103.867766
+    }
+  },
+  {
+    "area": "PUNGGOL",
+    "clinic_code": "SGP000639",
+    "clinic": "TRINITY MEDICAL (PUNGGOL)  PTE LTD",
+    "address": "BLK 273C PUNGGOL PLACE #01-880",
+    "postal": 823273,
+    "tel": 66948238,
+    "fax": 66948239,
+    "operating_hours_mon___fri": "8.30AM-12.00PM,\n2.00PM-4.30PM,\n6.00PM-9.30PM",
+    "sat": "8.30AM-12.30PM",
+    "sun": "8.30AM-12.30PM",
+    "public_holiday": "8.30AM-12.30PM (CALL TO CONFIRM)",
+    "location": {
+      "lat": 1.402247,
+      "lng": 103.901371
+    }
+  },
+  {
+    "area": "PUNGGOL",
+    "clinic_code": "SGP000250",
+    "clinic": "MUTUAL HEALTHCARE  PTE LTD",
+    "address": "BLK 106A PUNGGOL FIELD ROAD #01-546",
+    "postal": 821106,
+    "tel": 63155036,
+    "fax": 63155037,
+    "operating_hours_mon___fri": "8.30AM-12.00PM   \n2.00PM-4.00PM   \n6.30PM-9.00PM",
+    "sat": "8.30AM-12.00PM",
+    "sun": "8.30AM-12.00PM",
+    "public_holiday": "8.30AM-12.00PM",
+    "location": {
+      "lat": 1.396765,
+      "lng": 103.908576
+    }
+  },
+  {
+    "area": "PUNGGOL",
+    "clinic_code": "SGP000650",
+    "clinic": "ETERN MEDICAL CLINIC @ PUNGGOL MRT",
+    "address": "70 PUNGGOL CENTRAL #01-05 PUNGGOL MRT STATION",
+    "postal": 828868,
+    "tel": 64259935,
+    "fax": 64259936,
+    "operating_hours_mon___fri": "MON-FRI: 8.30AM-\n1.00PM, 6.30PM-\n9.30PM   MON & TUE: 2.00PM-\n4.30PM",
+    "sat": "8.30AM-1.00PM",
+    "sun": "8.30AM-1.00PM",
+    "public_holiday": "8.30AM-1.00PM",
+    "remarks": "LAST REGISTRATION\n15 MINS BEFORE CLOSING OR EARLIER THAN AS STATED IF REACHED THE MAXIMUM NUMBER OF PATIENTS THAT CAN BE ACCEPTED  FOR THAT SESSION.",
+    "location": {
+      "lat": 1.405158,
+      "lng": 103.901997
+    }
+  },
+  {
+    "area": "PUNGGOL",
+    "clinic_code": "SGP000692",
+    "clinic": "AVENUE K CLINIC @ PUNGGOL PTE LTD",
+    "address": "BLK 615A EDGEFIELD  PLAINS #01-327",
+    "postal": 821615,
+    "tel": 68344843,
+    "operating_hours_mon___fri": "8.30AM-1.00PM,\n2.00PM-4.00PM,\n6.30PM-9.00PM",
+    "sat": "8.30AM-1.30PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.402966,
+      "lng": 103.910372
+    }
+  },
+  {
+    "area": "PUNGGOL",
+    "clinic_code": "SGP000731",
+    "clinic": "PANHEALTH  FAMILY CLINIC",
+    "address": "312B SUMANG LINK #01-03",
+    "postal": 822312,
+    "tel": 69660595,
+    "fax": 69668639,
+    "operating_hours_mon___fri": "8.30AM-12.30PM,\n2.30PM-4.30PM,\n6.30PM-9.30PM",
+    "sat": "8.30AM-12.30PM",
+    "sun": "8.30AM-12.30PM",
+    "public_holiday": "CLOSED",
+    "location": {
+    }
+  },
+  {
+    "area": "QUEENSTOW N",
+    "clinic_code": "SGP000003",
+    "clinic": "ALEXANDRA  FAMILY CLINIC & SURGERY",
+    "address": "BLK 57 DAWSON ROAD #02-02 DAWSON PLACE",
+    "postal": 142057,
+    "tel": 64797022,
+    "fax": 64798366,
+    "operating_hours_mon___fri": "8.00AM-3.00PM   \n6.00PM-9.00PM (CLOSED ON THU EVENINGS)",
+    "sat": "8.00AM-12.00PM",
+    "sun": "8.00AM-12.00PM",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.292802,
+      "lng": 103.810934
+    }
+  },
+  {
+    "area": "QUEENSTOW N",
+    "clinic_code": "SGP000237",
+    "clinic": "MEI LING CLINIC LLP",
+    "address": "BLK 158 MEI LING STREET #01-80",
+    "postal": 140158,
+    "tel": 64741782,
+    "fax": 64749201,
+    "operating_hours_mon___fri": "8.00AM-1.00PM,\n6.00PM-8.30PM",
+    "sat": "8.00AM-11.30AM",
+    "sun": "8.00AM-11.30AM",
+    "public_holiday": "CLOSED",
+    "remarks": "PATIENT TO ARRIVE AT LEAST 15 MINS BEFORE CLOSING. PATIENTS SEEN AFTER NORMAL REGISTRATION AND OPERATING  HOURS WILL BE ON CASH TERMS ONLY.",
+    "location": {
+      "lat": 1.292684,
+      "lng": 103.802744
+    }
+  },
+  {
+    "area": "RAFFLES PLACE",
+    "clinic_code": "SGP000069",
+    "clinic": "DR LIM LEAN HUAT & ASSOCIATES  PTE LTD",
+    "address": "6 SHENTON WAY #40-03 OUE DOWNTOWN  1",
+    "postal": 68809,
+    "tel": 63238611,
+    "fax": 63238011,
+    "operating_hours_mon___fri": "9.00AM-1.00PM   \n3.00PM-6.00PM",
+    "sat": "9.00AM-1.00PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.276805,
+      "lng": 103.848363
+    }
+  },
+  {
+    "area": "RAFFLES PLACE",
+    "clinic_code": "SGP000180",
+    "clinic": "K N CHIN & ASSOCIATES  PTE LTD",
+    "address": "24 RAFFLES PLACE #02-18 CLIFFORD CENTRE",
+    "postal": 48621,
+    "tel": 65389533,
+    "fax": 65365815,
+    "operating_hours_mon___fri": "8.30AM-5.30PM",
+    "sat": "8.30AM-12.30PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.283847,
+      "lng": 103.852123
+    }
+  },
+  {
+    "area": "RAFFLES PLACE",
+    "clinic_code": "SGP000132",
+    "clinic": "HEALTH PARTNERS MEDICAL CLINIC",
+    "address": "100 CECIL STREET #09-01 THE GLOBE",
+    "postal": 69532,
+    "tel": 62255036,
+    "fax": 62255478,
+    "operating_hours_mon___fri": "8.30AM-1.00PM   \n2.00PM-5.30PM",
+    "sat": "8.30AM-12.30PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.281143,
+      "lng": 103.848965
+    }
+  },
+  {
+    "area": "RAFFLES PLACE",
+    "clinic_code": "SGP000074",
+    "clinic": "CLIFFORD DISPENSARY  PTE LTD",
+    "address": "77 ROBINSON ROAD #06-02 ROBINSON 77",
+    "postal": 68809,
+    "tel": 62223181,
+    "fax": 65353231,
+    "operating_hours_mon___fri": "9.00AM-1.00PM   \n2.00PM-5.00PM",
+    "sat": "9.00AM-1.00PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "remarks": "Last registration  at\n4.30pm",
+    "location": {
+      "lat": 1.276805,
+      "lng": 103.848363
+    }
+  },
+  {
+    "area": "RAFFLES PLACE",
+    "clinic_code": "SGP000089",
+    "clinic": "DRS THOMPSON  & THOMSON (RADLINK MEDICARE) PTE LTD",
+    "address": "24 RAFFLES PLACE #02-08 CLIFFORD CENTRE",
+    "postal": 48621,
+    "tel": 65325376,
+    "fax": 65333860,
+    "operating_hours_mon___fri": "8.30AM-5.00PM (LAST REGISTRATION\n15MINS BEFORE CLOSING)",
+    "sat": "8.45AM-11.45AM (NO DOCTOR, FOR ADMIN WORK ONLY)",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.283847,
+      "lng": 103.852123
+    }
+  },
+  {
+    "area": "RAFFLES PLACE",
+    "clinic_code": "SGP000333",
+    "clinic": "NORTHEAST  (TMA) MEDICAL ASSOCIATES  PTE LTD",
+    "address": "20 MALACCA STREET #B1-00",
+    "postal": 48979,
+    "tel": 65572770,
+    "fax": 65361413,
+    "operating_hours_mon___fri": "8.30AM-1.00PM,\n2.00PM-5.30PM (FRIDAY CLOSED AT\n5.00PM)",
+    "sat": "CLOSED",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.283915,
+      "lng": 103.850606
+    }
+  },
+  {
+    "area": "RAFFLES PLACE",
+    "clinic_code": "SGP000359",
+    "clinic": "THE MEDICAL CENTRE CLINIC (HONG LEONG)",
+    "address": "16 RAFFLES QUAY #B1-15 HONG LEONG BUILDING",
+    "postal": 48581,
+    "tel": 62207585,
+    "fax": 62217387,
+    "operating_hours_mon___fri": "8.30AM-5.15PM",
+    "sat": "8.30AM-1.15PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.281304,
+      "lng": 103.850834
+    }
+  },
+  {
+    "area": "RAFFLES PLACE",
+    "clinic_code": "SGP000411",
+    "clinic": "PROVIDENCE  MEDICAL CENTRE PTE LTD",
+    "address": "8 CROSS STREET #01-03 PWC BUILDING",
+    "postal": 48424,
+    "tel": 62262232,
+    "fax": 65362232,
+    "operating_hours_mon___fri": "8.30AM-5.30PM",
+    "sat": "9.00AM-12.30PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.282132,
+      "lng": 103.848925
+    }
+  },
+  {
+    "area": "RAFFLES PLACE",
+    "clinic_code": "SGP000569",
+    "clinic": "THE CLINIC @ ONE GEORGE STREET",
+    "address": "1 GEORGE STREET #05-05",
+    "postal": 49145,
+    "tel": 64385322,
+    "fax": 64381575,
+    "operating_hours_mon___fri": "8.30AM-1.00PM,\n2.00PM-5.30PM",
+    "sat": "CLOSED",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.28566,
+      "lng": 103.847861
+    }
+  },
+  {
+    "area": "RAFFLES PLACE",
+    "clinic_code": "SGP000596",
+    "clinic": "TRINITY MEDICAL (SHENTON)",
+    "address": "6 SHENTON WAY #21-10 OUE DOWNTOWN  TWO",
+    "postal": 68809,
+    "tel": 62279918,
+    "fax": 62272207,
+    "operating_hours_mon___fri": "9.00AM-1.00PM,\n2.00PM-5.30PM",
+    "sat": "CLOSED",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.276805,
+      "lng": 103.848363
+    }
+  },
+  {
+    "area": "RAFFLES PLACE",
+    "clinic_code": "SGP000717",
+    "clinic": "SHENTON MEDICAL GROUP (THE ARCADE)",
+    "address": "11 COLLYER QUAY #19-01 THE ARCADE",
+    "postal": 49317,
+    "tel": 65079730,
+    "fax": 62240608,
+    "operating_hours_mon___fri": "8.30AM-5.30PM",
+    "sat": "8.30AM-12.30PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.283529,
+      "lng": 103.852003
+    }
+  },
+  {
+    "area": "RAFFLES PLACE",
+    "clinic_code": "SGP000736",
+    "clinic": "SMG MEDICAL",
+    "address": "11 COLLYER QUAY #03-28 THE ARCADE",
+    "postal": 49317,
+    "tel": 62211358,
+    "fax": 62212696,
+    "operating_hours_mon___fri": "8.30AM-5.30PM",
+    "sat": "CLOSED",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.283529,
+      "lng": 103.852003
+    }
+  },
+  {
+    "area": "RIVER VALLEY",
+    "clinic_code": "SGP000370",
+    "clinic": "TWIN CITY MEDICAL CENTRE",
+    "address": "1 KIM SENG PROMENADE  #01-32 GREAT WORLD CITY",
+    "postal": 237994,
+    "tel": 62351175,
+    "fax": 62351187,
+    "operating_hours_mon___fri": "9.00AM-12.45PM,\n2.00PM-5.15PM",
+    "sat": "9.00AM-12.45PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.293984,
+      "lng": 103.832088
+    }
+  },
+  {
+    "area": "RIVER VALLEY",
+    "clinic_code": "SGP000732",
+    "clinic": "PINNACLE FAMILY CLINIC",
+    "address": "240 RIVER VALLEY ROAD",
+    "postal": 238297,
+    "tel": 68366986,
+    "fax": 68365969,
+    "operating_hours_mon___fri": "MON-TUE: 8.30AM-\n1.00PM, 2.00PM-\n8.00PM   WED-FRI:\n8.30AM-1.00PM,\n2.00PM-6.30PM",
+    "sat": "9.00AM-1.00PM",
+    "sun": "9.00AM-12.00PM",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.294067,
+      "lng": 103.8422889
+    }
+  },
+  {
+    "area": "SELETAR",
+    "clinic_code": "SGP000733",
+    "clinic": "KANG CLINIC",
+    "address": "229 JALAN KAYU",
+    "postal": 799453,
+    "tel": 64811044,
+    "fax": 67553930,
+    "operating_hours_mon___fri": "8.30AM-12.00PM,\n2.15PM-4.15PM (CLOSED ON TUE & THU)",
+    "sat": "8.30AM-12.00PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.396057,
+      "lng": 103.872912
+    }
+  },
+  {
+    "area": "SEMBAWANG",
+    "clinic_code": "SGP000126",
+    "clinic": "GREENLIFE CLINIC & SURGERY PTE LTD",
+    "address": "11 CANBERRA ROAD #02-01 SEMBAWANG  MRT STATION",
+    "postal": 759775,
+    "tel": 67562676,
+    "fax": 67560016,
+    "operating_hours_mon___fri": "8.00AM-12.00PM   \n2.00PM-4.00PM   \n6.00PM-9.00PM",
+    "sat": "8.00AM-12.00PM\n \n2.00PM-4.00PM",
+    "sun": "6.00PM-8.00PM",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.449009,
+      "lng": 103.819791
+    }
+  },
+  {
+    "area": "SENGKANG",
+    "clinic_code": "SGP000156",
+    "clinic": "HEALTHWAY  MEDICAL CLINIC",
+    "address": "BLK 118 RIVERVALE DRIVE #02-17 RIVERVALE PLAZA",
+    "postal": 540118,
+    "tel": 68812689,
+    "fax": 68812686,
+    "operating_hours_mon___fri": "8.00AM-10.00PM",
+    "sat": "8.00AM-10.00PM",
+    "sun": "8.00AM-1.00PM   \n4.00PM-10.00PM",
+    "public_holiday": "8.00AM-10.00PM",
+    "location": {
+      "lat": 1.385427,
+      "lng": 103.901579
+    }
+  },
+  {
+    "area": "SENGKANG",
+    "clinic_code": "SGP000146",
+    "clinic": "HEALTHWAY  COMPASSVALE CLINIC",
+    "address": "BLK 267 COMPASSVALE LINK #01-04",
+    "postal": 540267,
+    "tel": 63438770,
+    "fax": 63438771,
+    "operating_hours_mon___fri": "8.30AM-12.30PM,\n2.00PM-4.30PM,\n6.30PM-9.30PM",
+    "sat": "8.30AM-12.30PM",
+    "sun": "8.30AM-12.30PM",
+    "public_holiday": "8.30AM-12.30PM",
+    "location": {
+      "lat": 1.38376,
+      "lng": 103.897067
+    }
+  },
+  {
+    "area": "SENGKANG",
+    "clinic_code": "SGP000249",
+    "clinic": "MUTUAL HEALTHCARE  PTE LTD",
+    "address": "BLK 319B ANCHORVALE  DRIVE #01-92",
+    "postal": 542319,
+    "tel": 64893833,
+    "fax": 64893973,
+    "operating_hours_mon___fri": "8.30AM-12.00PM,\n2.00PM-3.30PM,\n6.30PM-9.00PM",
+    "sat": "8.30AM-12.00PM",
+    "sun": "8.30AM-12.00PM",
+    "public_holiday": "8.30AM-12.00PM",
+    "location": {
+      "lat": 1.3915979,
+      "lng": 103.890317
+    }
+  },
+  {
+    "area": "SENGKANG",
+    "clinic_code": "SGP000210",
+    "clinic": "LIFELINE MEDICAL GROUP - SENGKANG  PTE LTD",
+    "address": "BLK 118 RIVERVALE DRIVE #02-18 RIVERVALE PLAZA",
+    "postal": 540118,
+    "tel": 68812392,
+    "fax": 68812393,
+    "operating_hours_mon___fri": "8.00AM-10.00PM",
+    "sat": "8.00AM-10.00PM",
+    "sun": "8.00AM-12.00AM",
+    "public_holiday": "8.00AM-10.00PM",
+    "remarks": "CLOSED ON CHRISTMAS, NEW YEAR'S DAY & CHINESE NEW YEAR'S DAY.",
+    "location": {
+      "lat": 1.385427,
+      "lng": 103.901579
+    }
+  },
+  {
+    "area": "SENGKANG",
+    "clinic_code": "SGP000660",
+    "clinic": "RCMC RIVERVALE CRESCENT MEDICAL CENTRE",
+    "address": "182A RIVERVALE CRESCENT #01-04",
+    "postal": 541182,
+    "tel": 68860772,
+    "fax": 68860773,
+    "operating_hours_mon___fri": "MON, TUE & THU:\n9.00AM-10.00PM, WED & FRI: 9.00AM-\n7.00PM",
+    "sat": "9.00AM-6.00PM",
+    "sun": "2.00PM-8.00PM",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.390561,
+      "lng": 103.908568
+    }
+  },
+  {
+    "area": "SENGKANG",
+    "clinic_code": "SGP000402",
+    "clinic": "THE OLIVE TREE FAMILY CLINIC & SURGERY",
+    "address": "BLK 303 ANCHORVALE  LINK #01-02",
+    "postal": 540303,
+    "tel": 63888697,
+    "fax": 68813202,
+    "operating_hours_mon___fri": "MON-WED: 8.30AM-\n5.00PM, 6.30PM-\n9.30PM   THU:\n8.30AM-2.00PM,\n6.30PM-9.30PM\nFRI: 8.30AM-5.00PM",
+    "sat": "8.30AM-1.00PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.387447,
+      "lng": 103.890621
+    }
+  },
+  {
+    "area": "SENGKANG",
+    "clinic_code": "SGP000430",
+    "clinic": "NORTHEAST  (SENGKANG)  MEDICAL CENTRE PTE LTD",
+    "address": "5 SENGKANG  SQUARE #01-05 SENGKANG  MRT STATION",
+    "postal": 545062,
+    "tel": 68755911,
+    "fax": 68755912,
+    "operating_hours_mon___fri": "8.00AM-11.00PM",
+    "sat": "8.00AM-11.00PM",
+    "sun": "8.00AM-11.00PM",
+    "public_holiday": "8.00AM-11.00PM",
+    "location": {
+      "lat": 1.391809,
+      "lng": 103.895539
+    }
+  },
+  {
+    "area": "SENGKANG",
+    "clinic_code": "SGP000540",
+    "clinic": "ETERN MEDICAL CLINIC (SENGKANG)",
+    "address": "33 SENGKANG  WEST AVE #03-33 THE SELETAR MALL",
+    "postal": 797653,
+    "tel": 64257255,
+    "fax": 64257995,
+    "operating_hours_mon___fri": "9.00AM-1.00PM,\n2.00PM-5.00PM,\n6.30PM-9.30PM",
+    "sat": "9.00AM-3.00PM,\n6.30PM-9.30PM",
+    "sun": "9.00AM-3.00PM,\n6.30PM-9.30PM",
+    "public_holiday": "9.00AM-3.00PM,\n6.30PM-9.30PM",
+    "remarks": "SAT/SUN/PH: 3.00PM -\n6.00PM IS BY APPOINTMENT BASIS ONLY.",
+    "location": {
+    }
+  },
+  {
+    "area": "SENGKANG",
+    "clinic_code": "SGP000537",
+    "clinic": "HEALTHBRIDGE FAMILY CLINIC",
+    "address": "11 RIVERVALE CRESCENT #02-16 RIVERVALE MALL",
+    "postal": 545082,
+    "tel": 64897495,
+    "fax": 64897493,
+    "operating_hours_mon___fri": "8.30AM-12.30PM   \n1.30PM-4.00PM   \n7.00PM-9.00PM (CLOSED ON FRI EVENING)",
+    "sat": "8.30AM-1.00PM",
+    "sun": "CLOSED",
+    "public_holiday": "9.00AM-12.00PM",
+    "remarks": "REGISTRATION CLOSED 30 MINS BEFORE CLOSING TIME",
+    "location": {
+      "lat": 1.392002,
+      "lng": 103.904984
+    }
+  },
+  {
+    "area": "SENGKANG",
+    "clinic_code": "SGP000556",
+    "clinic": "HEALTHWAY  ANCHORVALE  CLINIC",
+    "address": "BLK 308 ANCHORVALE  ROAD #01-03",
+    "postal": 540308,
+    "tel": 63123106,
+    "fax": 63123107,
+    "operating_hours_mon___fri": "8.30AM-12.30PM   \n2.00PM-5.00PM   \n6.00PM-9.00PM",
+    "sat": "8.30AM-12.30PM",
+    "sun": "8.30AM-12.30PM",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.38957,
+      "lng": 103.886444
+    }
+  },
+  {
+    "area": "SENGKANG",
+    "clinic_code": "SGP000623",
+    "clinic": "PHOENIX MEDICAL GROUP",
+    "address": "1 SELETAR ROAD #02-11 GREENWICH  V",
+    "postal": 807011,
+    "tel": 65553512,
+    "fax": 64842240,
+    "operating_hours_mon___fri": "9.00AM-9.00PM",
+    "sat": "9.00AM-9.00PM",
+    "sun": "9.00AM-9.00PM",
+    "public_holiday": "9.00AM-1.00PM",
+    "location": {
+      "lat": 33.890559,
+      "lng": 130.6645036
+    }
+  },
+  {
+    "area": "ANG MO KIO",
+    "clinic_code": "SGP000076",
+    "clinic": "CHUA MEDICO CLINIC LLP",
+    "address": "BLK 529 ANG MO KIO AVENUE 10 #01-2323",
+    "postal": 560529,
+    "tel": 64562275,
+    "fax": 64562275,
+    "operating_hours_mon___fri": "8.30AM-12.30PM,\n2.00PM-4.30PM,\n6.30PM-9.00PM (CLOSED ON FRIDAY NIGHT)",
+    "sat": "8.30AM-12.30PM",
+    "sun": "8.30AM-12.30PM",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.372526,
+      "lng": 103.855671
+    }
+  },
+  {
+    "area": "ANG MO KIO",
+    "clinic_code": "SGP000240",
+    "clinic": "MHC FAMILY CLINIC (AMK)",
+    "address": "BLK 452 ANG MO KIO AVENUE 10 #01-1789",
+    "postal": 560452,
+    "tel": 65534050,
+    "fax": 64525433,
+    "operating_hours_mon___fri": "8.30AM-12.00PM   \n1.00PM-3.30PM   \n7.00PM-9.00PM",
+    "sat": "8.30AM-12.00PM\n \n7.00PM-9.00PM",
+    "sun": "CLOSED",
+    "location": {
+      "lat": 1.368902,
+      "lng": 103.85612
+    }
+  },
+  {
+    "area": "ANG MO KIO",
+    "clinic_code": "SGP000367",
+    "clinic": "TONG CLINIC & SURGERY",
+    "address": "BLK 316B ANG MO KIO STREET 31 #01-05",
+    "postal": 563316,
+    "tel": 64528311,
+    "fax": 64528311,
+    "operating_hours_mon___fri": "8.30AM-12.15PM,\n2.00PM-4.15PM,\n7.00PM-8.45PM (CLOSED ON WED NIGHT)",
+    "sat": "8.30AM-12.15PM",
+    "sun": "8.30AM-12.15PM",
+    "public_holiday": "CLOSED",
+    "remarks": "TEMPORARY  CLOSURE FROM 12-18\nNOVEMBER  2015.",
+    "location": {
+      "lat": 1.3648309,
+      "lng": 103.847772
+    }
+  },
+  {
+    "area": "ANG MO KIO",
+    "clinic_code": "SGP000253",
+    "clinic": "MY FAMILY DOCTOR",
+    "address": "BLK 330 ANG MO KIO AVENUE 1 #01-1803",
+    "postal": 560330,
+    "tel": 65530100,
+    "fax": 64578406,
+    "operating_hours_mon___fri": "8.30AM-12.30PM  \n2.00PM-4.30PM   \n7.00PM-9.00PM",
+    "sat": "8.30AM-12.30PM",
+    "sun": "8.30AM-12.30PM",
+    "public_holiday": "8.30AM-12.30PM",
+    "location": {
+      "lat": 1.362468,
+      "lng": 103.85096
+    }
+  },
+  {
+    "area": "ANG MO KIO",
+    "clinic_code": "SGP000321",
+    "clinic": "SUMMIT MEDICAL CLINIC",
+    "address": "BLK 632 ANG MO KIO AVENUE 4 #01-956",
+    "postal": 560632,
+    "tel": 64560060,
+    "fax": 64532143,
+    "operating_hours_mon___fri": "8.30AM-12.30PM   \n1.30PM-3.30PM   \n6.30PM-8.30PM",
+    "sat": "8.30AM-12.30PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "remarks": "Closed on Thu nights",
+    "location": {
+      "lat": 1.379999,
+      "lng": 103.841406
+    }
+  },
+  {
+    "area": "ANG MO KIO",
+    "clinic_code": "SGP000665",
+    "clinic": "HEALTHPATH  MEDICAL CLINIC AND SURGERY",
+    "address": "BLK 338 ANG MO KIO AVENUE 1 #01-1651",
+    "postal": 560338,
+    "tel": 64832556,
+    "operating_hours_mon___fri": "8.30AM-12.30PM,\n2.00PM-5.00PM,\n6.30PM-9.30PM",
+    "sat": "8.30AM-12.30PM",
+    "sun": "8.30AM-12.30PM",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.363639,
+      "lng": 103.8487619
+    }
+  },
+  {
+    "area": "ANG MO KIO",
+    "clinic_code": "SGP000345",
+    "clinic": "THE CHUNGKIAW  FAMILY PRACTICE PTE LTD",
+    "address": "17 ANG MO KIO AVENUE 9 #01-06 ANG MO KIO- THYE HUA KWAN HOSPITAL",
+    "postal": 569766,
+    "tel": 64551009,
+    "fax": 64550992,
+    "operating_hours_mon___fri": "8.45AM-12.00PM,\n2.00PM-4.00PM",
+    "sat": "8.45AM-12.00PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.38371,
+      "lng": 103.839954
+    }
+  },
+  {
+    "area": "ANG MO KIO",
+    "clinic_code": "SGP000392",
+    "clinic": "YIO CHU KANG MRT CLINIC PTE LTD",
+    "address": "BLK 635 ANG MO KIO AVENUE 6 #01-5125",
+    "postal": 560635,
+    "tel": 64598278,
+    "fax": 64590891,
+    "operating_hours_mon___fri": "8.30AM-12.30PM   \n2.00PM-3.30PM   \n5.30PM-8.30PM",
+    "sat": "8.00AM-12.30PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "remarks": "Patients to be registered 15 mins before closing",
+    "location": {
+      "lat": 1.380811,
+      "lng": 103.842315
+    }
+  },
+  {
+    "area": "ANG MO KIO",
+    "clinic_code": "SGP000586",
+    "clinic": "FRONTIER MEDICAL ASSOCIATES  (AMK)",
+    "address": "BLK 163 ANG MO KIO AVENUE 4 #01-426",
+    "postal": 560163,
+    "tel": 64532571,
+    "fax": 64548425,
+    "operating_hours_mon___fri": "8.30AM-4.30PM,\n6.30PM-9.30PM (CLOSED ON TUE & FRI NIGHT)",
+    "sat": "8.30AM-1.00PM",
+    "sun": "8.30AM-1.00PM",
+    "public_holiday": "CLOSED",
+    "remarks": "IF PH FALLS ON SUN, CLINIC WILL OPEN ON SUN & CLOSE ON FOLLOWING  MON.",
+    "location": {
+      "lat": 1.373542,
+      "lng": 103.838189
+    }
+  },
+  {
+    "area": "ANG MO KIO",
+    "clinic_code": "SGP000508",
+    "clinic": "TNG FAMILY CLINIC",
+    "address": "BLK 347 ANG MO KIO AVENUE 3 #01-2126",
+    "postal": 560347,
+    "tel": 64541203,
+    "fax": 64541203,
+    "operating_hours_mon___fri": "8.30AM-12.30PM,\n2.00PM-4.00PM,\n6.00PM-9.30PM",
+    "sat": "8.30AM-12.30PM",
+    "sun": "8.30AM-12.30PM",
+    "public_holiday": "8.30AM-12.30PM",
+    "location": {
+      "lat": 1.367346,
+      "lng": 103.848598
+    }
+  },
+  {
+    "area": "ANG MO KIO",
+    "clinic_code": "SGP000575",
+    "clinic": "ONEDOCTORS FAMILY CLINIC (AMK)",
+    "address": "BLK 710 ANG MO KIO AVENUE 8 #01-2613",
+    "postal": 560710,
+    "tel": 65542918,
+    "fax": 65542718,
+    "operating_hours_mon___fri": "8.00AM-10.00PM",
+    "sat": "8.00AM-10.00PM",
+    "sun": "8.00AM-10.00PM",
+    "public_holiday": "8.00AM-10.00PM",
+    "location": {
+      "lat": 1.371042,
+      "lng": 103.84818
+    }
+  },
+  {
+    "area": "ANG MO KIO",
+    "clinic_code": "SGP000676",
+    "clinic": "BEWELL CLINIC",
+    "address": "BLK 5012 ANG MO KIO AVE 5 #01-01 ANG MO KIO TECHPLACE  II",
+    "postal": 569876,
+    "tel": 65559038,
+    "fax": 65559048,
+    "operating_hours_mon___fri": "8.30AM-1.00PM,\n2.00PM-5.00PM",
+    "sat": "CLOSED",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.377057,
+      "lng": 103.86546
+    }
+  },
+  {
+    "area": "BEDOK",
+    "clinic_code": "SGP000635",
+    "clinic": "ACCESS MEDICAL BEDOK SOUTH",
+    "address": "59 NEW UPPER CHANGI ROAD #01-1268",
+    "postal": 461059,
+    "tel": 64453100,
+    "fax": 64453200,
+    "operating_hours_mon___fri": "7.00AM-1.00PM,\n6.00PM-12.00AM",
+    "sat": "7.00AM-1.00PM,\n6.00PM-12.00AM",
+    "sun": "7.00AM-1.00PM,\n6.00PM-12.00AM",
+    "public_holiday": "7.00AM-1.00PM,\n6.00PM-12.00AM",
+    "location": {
+      "lat": 1.324047,
+      "lng": 103.940685
+    }
+  },
+  {
+    "area": "BEDOK",
+    "clinic_code": "SGP000182",
+    "clinic": "KCS MEDICAL CENTRE PTE LTD",
+    "address": "BLK 515 BEDOK NORTH AVENUE 2 #01-205",
+    "postal": 460515,
+    "tel": 64438322,
+    "fax": 64418322,
+    "operating_hours_mon___fri": "8.30AM-2.00PM  \n7.00PM-9.00PM",
+    "sat": "8.30AM-12.30PM",
+    "sun": "7.00AM-9.00AM",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.332008,
+      "lng": 103.929827
+    }
+  },
+  {
+    "area": "BEDOK",
+    "clinic_code": "SGP000183",
+    "clinic": "KHO CLINIC",
+    "address": "BLK 537 BEDOK NORTH STREET 3 #01-519",
+    "postal": 460537,
+    "tel": 62428266,
+    "fax": 62432614,
+    "operating_hours_mon___fri": "8.30AM-12.30PM,  \n2.00PM-5.00P,  \n7.00PM-9.00PM (CLOSED ON THURS AFT/EVE)",
+    "sat": "8.30AM-12.30PM",
+    "sun": "8.30AM-12.30PM",
+    "public_holiday": "8.30AM-12.30PM",
+    "location": {
+      "lat": 1.331769,
+      "lng": 103.9242529
+    }
+  },
+  {
+    "area": "SENGKANG",
+    "clinic_code": "SGP000669",
+    "clinic": "FERNVALE FAMILY CLINIC",
+    "address": "BLK 405C FERNVALE LANE #01-101",
+    "postal": 793405,
+    "tel": 68756182,
+    "fax": 68756182,
+    "operating_hours_mon___fri": "8.30AM-12.30PM,\n2.00PM-4.30PM,\n6.00PM-9.00PM (CLOSED ON FRI EVENING)",
+    "sat": "8.30AM-12.30PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.389259,
+      "lng": 103.873532
+    }
+  },
+  {
+    "area": "SENTOSA",
+    "clinic_code": "SGP000683",
+    "clinic": "HEALTHCARE  MEDICAL @ SENTOSA",
+    "address": "31 OCEAN WAY #01-21 QUAYSIDE ISLE",
+    "postal": 98375,
+    "tel": 62684082,
+    "fax": 62684074,
+    "operating_hours_mon___fri": "9.00AM-1.00PM,\n2.00PM-6.00PM",
+    "sat": "9.00AM-1.00PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.2476743,
+      "lng": 103.8420188
+    }
+  },
+  {
+    "area": "SERANGOON",
+    "clinic_code": "SGP000114",
+    "clinic": "FAMILY HEALTHCARE  CLINIC & SURGERY",
+    "address": "BLK 151 SERANGOON  NORTH AVENUE 2 #01-35",
+    "postal": 550151,
+    "tel": 62889557,
+    "fax": 62889557,
+    "operating_hours_mon___fri": "MON-FRI: 8.30AM-\n12.00PM, 6.45PM-\n9.00PM (CLOSED ON THU & FRI EVENINGS)",
+    "sat": "CLOSED",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.36926,
+      "lng": 103.874318
+    }
+  },
+  {
+    "area": "SERANGOON",
+    "clinic_code": "SGP000057",
+    "clinic": "COMFORT CLINIC & SURGERY",
+    "address": "BLK 214 SERANGOON  AVENUE 4 #01-100",
+    "postal": 550214,
+    "tel": 62807271,
+    "fax": 62807271,
+    "operating_hours_mon___fri": "8.30AM-12.30PM   \n2.00PM-4.00PM   \n6.30PM-9.00PM (CLOSED ON FRI EVENING)",
+    "sat": "8.30AM-12.30PM",
+    "sun": "8.30AM-12.30PM",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.357329,
+      "lng": 103.873558
+    }
+  },
+  {
+    "area": "SERANGOON",
+    "clinic_code": "SGP000044",
+    "clinic": "CHEN FAMILY CLINIC",
+    "address": "BLK 153 SERANGOON  NORTH AVENUE 1 #01-490",
+    "postal": 550153,
+    "tel": 62812212,
+    "fax": 62813309,
+    "operating_hours_mon___fri": "8.30AM-12.30PM,\n2.00PM-4.30PM,\n6.30PM-9.00PM (CLOSED ON WED- FRI EVENING)",
+    "sat": "8.30AM-1.00PM",
+    "sun": "8.30AM-1.00PM",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.369972,
+      "lng": 103.872411
+    }
+  },
+  {
+    "area": "SERANGOON",
+    "clinic_code": "SGP000081",
+    "clinic": "DRS LIM & CHAN CLINIC",
+    "address": "BLK 2 LORONG LEW LIAN #01-50",
+    "postal": 531002,
+    "tel": 62803009,
+    "fax": 62832151,
+    "operating_hours_mon___fri": "8.30AM-12.30PM,\n2.00PM-5.00PM (CLOSED ON WED AFTERNOON),\n7.00PM-9.00PM (CLOSED ON TUE/THU/FRI EVENING)",
+    "sat": "8.30AM-12.30PM",
+    "sun": "8.30AM-12.30PM",
+    "public_holiday": "CLOSED",
+    "remarks": "TEMPORARY  CLOSURE FROM 15-25 OCTOBER\n2015.",
+    "location": {
+      "lat": 1.3506689,
+      "lng": 103.875584
+    }
+  },
+  {
+    "area": "SERANGOON",
+    "clinic_code": "SGP000307",
+    "clinic": "SG CLINIC FAMILY PRACTICE",
+    "address": "84 SERANGOON  GARDEN WAY",
+    "postal": 555980,
+    "tel": 63821988,
+    "fax": 62881474,
+    "operating_hours_mon___fri": "9.00AM-12.30PM,\n2.30PM-4.30PM,\n6.30PM-8.30PM",
+    "sat": "9.00AM-12.30PM\n \n9.00AM-12.30PM,\n2.30PM-4.30PM",
+    "sun": "9.00AM-12.30PM",
+    "public_holiday": "9.00AM-12.30PM",
+    "location": {
+      "lat": 1.364134,
+      "lng": 103.864886
+    }
+  },
+  {
+    "area": "SERANGOON",
+    "clinic_code": "SGP000247",
+    "clinic": "MILFORD MEDICAL GROUP",
+    "address": "BLK 237 SERANGOON  AVENUE 3 #01-116",
+    "postal": 550237,
+    "tel": 62869993,
+    "fax": 62824338,
+    "operating_hours_mon___fri": "8.30AM-12.30PM,\n2.00PM-4.00PM (CLOSED ON WED AFTERNOON)",
+    "sat": "8.30AM-12.30PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.354141,
+      "lng": 103.870085
+    }
+  },
+  {
+    "area": "SERANGOON",
+    "clinic_code": "SGP000318",
+    "clinic": "STERLING CLINIC & SURGERY",
+    "address": "BLK 3 LORONG LEW LIAN #01-64",
+    "postal": 531003,
+    "tel": 62849971,
+    "fax": 64874451,
+    "operating_hours_mon___fri": "8.30AM-12.30PM  \n2.00PM-4.30PM   \n7.00PM-9.00PM (CLOSED ON TUE/THU EVENINGS)",
+    "sat": "8.30AM-12.30PM",
+    "sun": "8.30AM-12.30PM",
+    "public_holiday": "8.30AM-12.30PM",
+    "remarks": "Closed on Tue & Thu nights",
+    "location": {
+      "lat": 1.350556,
+      "lng": 103.876088
+    }
+  },
+  {
+    "area": "SERANGOON",
+    "clinic_code": "SGP000539",
+    "clinic": "MEDILINE WEI MIN CLINIC",
+    "address": "14 KENSINGTON  PARK ROAD",
+    "postal": 557265,
+    "tel": 62886029,
+    "fax": 62887623,
+    "operating_hours_mon___fri": "8.00AM-10.00PM",
+    "sat": "8.00AM-10.00PM",
+    "sun": "8.00AM-10.00PM",
+    "public_holiday": "8.00AM-10.00PM",
+    "location": {
+      "lat": 1.365112,
+      "lng": 103.866158
+    }
+  },
+  {
+    "area": "SERANGOON",
+    "clinic_code": "SGP000554",
+    "clinic": "JOASH FAMILY CLINIC & SURGERY",
+    "address": "1030 UPPER SERANGOON  ROAD",
+    "postal": 534767,
+    "tel": 62827371,
+    "fax": 62827371,
+    "operating_hours_mon___fri": "9.00AM-4.00PM,\n6.30PM-9.30PM (CLOSED ON FRI NIGHT)",
+    "sat": "9.00AM-1.00PM",
+    "sun": "9.00AM-1.00PM (CLOSED ON 1ST,\n3RD, 5TH WEEK OF THE MONTH)",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.363024,
+      "lng": 103.888502
+    }
+  },
+  {
+    "area": "SERANGOON",
+    "clinic_code": "SGP000595",
+    "clinic": "KENSINGTON  FAMILY CLINIC (SERANGOON GARDENS) PTE LTD",
+    "address": "14D KENSINGTON  PARK ROAD",
+    "postal": 557265,
+    "tel": 62884882,
+    "fax": 62884112,
+    "operating_hours_mon___fri": "8.00AM-3.00PM,\n6.00PM-10.00PM",
+    "sat": "8.00AM-3.00PM,\n6.00PM-10.00PM",
+    "sun": "8.00AM-3.00PM,\n6.00PM-10.00PM",
+    "public_holiday": "8.00AM-3.00PM,\n6.00PM-10.00PM",
+    "remarks": "LAST REGISTRATION HALF HOUR BEFORE CLOSING.",
+    "location": {
+      "lat": 1.365112,
+      "lng": 103.866158
+    }
+  },
+  {
+    "area": "SERANGOON",
+    "clinic_code": "SGP000698",
+    "clinic": "THE FAMILY PHYSICIAN  CLINIC",
+    "address": "BLK 542B SERANGOON  NORTH AVE 3 #01-02",
+    "postal": 552542,
+    "tel": 65551828,
+    "fax": 65551829,
+    "operating_hours_mon___fri": "8.30AM-4.00PM,\n6.00PM-10.00PM",
+    "sat": "9.00AM-1.00PM",
+    "sun": "9.00AM-1.00PM",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.37338,
+      "lng": 103.871295
+    }
+  },
+  {
+    "area": "SIMEI",
+    "clinic_code": "SGP000053",
+    "clinic": "CHUA MEDICAL CENTRE PTE LTD",
+    "address": "BLK 248 SIMEI STREET 3 #01-134",
+    "postal": 520248,
+    "tel": 67853825,
+    "fax": 67853825,
+    "operating_hours_mon___fri": "9.00AM-12.30PM,\n2.30PM-6.00PM",
+    "sat": "CLOSED",
+    "sun": "9.00AM-3.00PM",
+    "public_holiday": "9.00AM-3.00PM",
+    "remarks": "CLOSED ON CHINESE NEW YEAR'S DAY, GOOD FRIDAY AND CHRISTMAS",
+    "location": {
+      "lat": 1.344085,
+      "lng": 103.953308
+    }
+  },
+  {
+    "area": "SIMEI",
+    "clinic_code": "SGP000310",
+    "clinic": "SIMEI CLINIC & SURGERY",
+    "address": "BLK 248 SIMEI STREET 3 #01-132",
+    "postal": 520248,
+    "tel": 67855021,
+    "fax": 67879220,
+    "operating_hours_mon___fri": "8.30AM-12.30PM,\n2.00PM-5.00PM,\n7.00PM-9.30PM",
+    "sat": "8.30AM-12.30PM,\n2.30PM-5.00PM",
+    "sun": "7.00PM-9.30PM",
+    "public_holiday": "8.30AM-12.30PM",
+    "remarks": "PATIENT TO ARRIVE AT LEAST 30MINS BEFORE CLOSING.",
+    "location": {
+      "lat": 1.344085,
+      "lng": 103.953308
+    }
+  },
+  {
+    "area": "SIMEI",
+    "clinic_code": "SGP000429",
+    "clinic": "NORTHEAST  (SIMEI) MEDICAL CENTRE PTE LTD",
+    "address": "30 SIMEI STREET 3 #02-01 SIMEI MRT STATION",
+    "postal": 529888,
+    "tel": 67838638,
+    "fax": 67835638,
+    "operating_hours_mon___fri": "8.00AM-11.00PM",
+    "sat": "8.00AM-11.00PM",
+    "sun": "8.00AM-11.00PM",
+    "public_holiday": "9.00AM-9.00PM",
+    "location": {
+      "lat": 1.342977,
+      "lng": 103.953583
+    }
+  },
+  {
+    "area": "SIN MING",
+    "clinic_code": "SGP000135",
+    "clinic": "HEALTHCARE  FAMILY CLINIC & SURGERY",
+    "address": "BLK 403 SIN MING AVENUE #01-311",
+    "postal": 570403,
+    "tel": 64542373,
+    "fax": 64550869,
+    "operating_hours_mon___fri": "8.30AM-12.00PM   \n2.00PM-4.00PM   \n7.00PM-9.00PM",
+    "sat": "8.30AM-12.30PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.362925,
+      "lng": 103.833429
+    }
+  },
+  {
+    "area": "TAMPINES",
+    "clinic_code": "SGP000119",
+    "clinic": "F K LIM FAMILY CLINIC",
+    "address": "BLK 267 TAMPINES STREET 21 #01-43",
+    "postal": 520267,
+    "tel": 67860201,
+    "operating_hours_mon___fri": "8.30AM-12.30PM  \n2.00PM-4.30PM   \n7.00PM-9.00PM",
+    "sat": "8.30AM-12.30PM",
+    "sun": "8.30AM-12.30PM",
+    "remarks": "Closed on Wed afternoons",
+    "location": {
+      "lat": 1.350829,
+      "lng": 103.949236
+    }
+  },
+  {
+    "area": "TAMPINES",
+    "clinic_code": "SGP000375",
+    "clinic": "UNITED MEDICAL PRACTITIONERS PTE LTD",
+    "address": "BLK 139 TAMPINES STREET 11 #01-16",
+    "postal": 521139,
+    "tel": 67812281,
+    "fax": 67872315,
+    "operating_hours_mon___fri": "8.30AM-12.30PM,\n2.00PM-4.30PM,\n6.45PM-8.45PM (CLOSED ON THU AFTERNOON)",
+    "sat": "8.30AM-12.30PM",
+    "sun": "8.30AM-12.30PM",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.346653,
+      "lng": 103.944868
+    }
+  },
+  {
+    "area": "TAMPINES",
+    "clinic_code": "SGP000043",
+    "clinic": "CHARIS CLINIC & SURGERY",
+    "address": "BLK 164 TAMPINES STREET 12 #01-295",
+    "postal": 521164,
+    "tel": 67822332,
+    "fax": 67822332,
+    "operating_hours_mon___fri": "8.30AM-12.30PM,\n2.00PM-4.30PM",
+    "sat": "CLOSED",
+    "sun": "8.30AM-12.30PM",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.349683,
+      "lng": 103.945939
+    }
+  },
+  {
+    "area": "TAMPINES",
+    "clinic_code": "SGP000034",
+    "clinic": "CECILIA FAMILY CLINIC & SURGERY",
+    "address": "BLK 484 TAMPINES STREET 43 #01-224",
+    "postal": 520484,
+    "tel": 67883812,
+    "fax": 67883812,
+    "operating_hours_mon___fri": "8.30AM-12.30PM,\n2.00PM-4.30PM",
+    "sat": "8.30AM-12.00PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.361307,
+      "lng": 103.952521
+    }
+  },
+  {
+    "area": "TAMPINES",
+    "clinic_code": "SGP000050",
+    "clinic": "CHOONG'S CLINIC",
+    "address": "BLK 480 TAMPINES STREET 44 #01-261",
+    "postal": 520480,
+    "tel": 67885190,
+    "fax": 67885190,
+    "operating_hours_mon___fri": "8.30AM-11.30PM   \n2.30PM-4.00PM   \n7.00PM-8.30PM",
+    "sat": "8.30AM-11.30AM",
+    "sun": "8.30AM-11.30AM",
+    "public_holiday": "8.30AM-11.30AM",
+    "location": {
+      "lat": 1.361342,
+      "lng": 103.95368
+    }
+  },
+  {
+    "area": "TAMPINES",
+    "clinic_code": "SGP000171",
+    "clinic": "HWANG & LIANG FAMILY CLINIC",
+    "address": "BLK 476 TAMPINES STREET 44 #01-173",
+    "postal": 520476,
+    "tel": 67870778,
+    "fax": 67878777,
+    "operating_hours_mon___fri": "8.30AM-12.00PM  \n2.00PM-4.30PM   \n6.30PM-8.30PM",
+    "sat": "9.00AM-12.30PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.361002,
+      "lng": 103.953814
+    }
+  },
+  {
+    "area": "TAMPINES",
+    "clinic_code": "SGP000192",
+    "clinic": "KOH CLINIC & SURGERY PTE LTD",
+    "address": "BLK 801 TAMPINES AVENUE 4 #01-269",
+    "postal": 520801,
+    "tel": 67822882,
+    "fax": 67864465,
+    "operating_hours_mon___fri": "8.30AM-12.30PM  \n2.00PM-4.30PM   \n7.00PM-9.00PM",
+    "sat": "8.30AM-12.30PM\n \n2.00PM-4.00PM",
+    "sun": "8.30AM-12.30PM",
+    "public_holiday": "8.30AM-12.30PM",
+    "location": {
+      "lat": 1.34703,
+      "lng": 103.937957
+    }
+  },
+  {
+    "area": "TAMPINES",
+    "clinic_code": "SGP000304",
+    "clinic": "SEASONS CLINIC",
+    "address": "BLK 844 TAMPINES STREET 82 #01-139",
+    "postal": 520844,
+    "tel": 67877836,
+    "fax": 67865186,
+    "operating_hours_mon___fri": "8.30AM-12.30PM   \n2.00PM-5.00PM   \n7.00PM-9.00PM",
+    "sat": "8.30AM-12.30PM",
+    "sun": "8.30AM-12.30PM",
+    "public_holiday": "8.30AM-12.30PM",
+    "location": {
+      "lat": 1.352108,
+      "lng": 103.936474
+    }
+  },
+  {
+    "area": "TAMPINES",
+    "clinic_code": "SGP000300",
+    "clinic": "RUBY MEDICAL CENTRE PTE LTD",
+    "address": "BLK 505 TAMPINES CENTRAL 1 #01-339",
+    "postal": 520505,
+    "tel": 67837847,
+    "fax": 67837847,
+    "operating_hours_mon___fri": "8.30AM-12.30PM,\n2.00PM-4.00PM,\n6.30PM-8.30PM",
+    "sat": "8.30AM-12.30PM,\n2.00PM-4.00PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.355612,
+      "lng": 103.945002
+    }
+  },
+  {
+    "area": "TAMPINES",
+    "clinic_code": "SGP000528",
+    "clinic": "NORTHEAST  (TAMPINES)  MEDICAL CENTRE PTE LTD",
+    "address": "20 TAMPINES CENTRAL 1 #01-25 TAMPINES MRT STATION",
+    "postal": 529538,
+    "tel": 67867848,
+    "fax": 67867443,
+    "operating_hours_mon___fri": "8.00AM-10.00PM",
+    "sat": "8.00AM-10.00PM",
+    "sun": "8.00AM-10.00PM",
+    "public_holiday": "9.00AM-6.00PM",
+    "location": {
+      "lat": 1.353448,
+      "lng": 103.945119
+    }
+  },
+  {
+    "area": "TAMPINES",
+    "clinic_code": "SGP000217",
+    "clinic": "LITTLE CROSS FAMILY CLINIC PTE LTD",
+    "address": "BLK 929 TAMPINES STREET 91 #01-445",
+    "postal": 520929,
+    "tel": 65440040,
+    "fax": 65440040,
+    "operating_hours_mon___fri": "8.30AM-3.00PM   \n7.00PM-9.00PM",
+    "sat": "8.30AM-12.30PM\n \n7.00PM-9.00PM",
+    "sun": "CLOSED",
+    "public_holiday": "8.30AM-12.30PM",
+    "remarks": "Closed on Chinese\nNew Year's Day",
+    "location": {
+      "lat": 1.346349,
+      "lng": 103.939481
+    }
+  },
+  {
+    "area": "TAMPINES",
+    "clinic_code": "SGP000229",
+    "clinic": "RADLINK MEDICARE (TAMPINES)  PTE LTD",
+    "address": "5 TAMPINES CENTRAL 6 #01-13 TELEPARK",
+    "postal": 529482,
+    "tel": 67857515,
+    "fax": 67855928,
+    "operating_hours_mon___fri": "8.30AM-4.30PM",
+    "sat": "8.30AM-12.00PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.353247,
+      "lng": 103.942273
+    }
+  },
+  {
+    "area": "TAMPINES",
+    "clinic_code": "SGP000235",
+    "clinic": "MEDICARE ASSOCIATES  PTE LTD",
+    "address": "BLK 482 TAMPINES STREET 43 #01-236",
+    "postal": 520482,
+    "tel": 67880137,
+    "fax": 67880137,
+    "operating_hours_mon___fri": "8.30AM-12.00PM,\n2.00PM-4.00PM,\n6.30PM-9.00PM (CLOSED ON WED EVENINGS)",
+    "sat": "8.30AM-12.00PM",
+    "sun": "8.30AM-12.00PM",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.361307,
+      "lng": 103.952521
+    }
+  },
+  {
+    "area": "TAMPINES",
+    "clinic_code": "SGP000255",
+    "clinic": "NEPTUNE HEALTHCARE  MEDICAL & SURGERY",
+    "address": "BLK 328 TAMPINES STREET 32 #01-362",
+    "postal": 520328,
+    "tel": 67818030,
+    "fax": 67818660,
+    "operating_hours_mon___fri": "9.00AM-11.00PM",
+    "sat": "9.00AM-7.00PM",
+    "sun": "9.00AM-7.00PM",
+    "public_holiday": "PH ON MON-FRI:\n9.00AM-11.00PM PH ON SAT-SUN:\n9.00AM-7.00PM",
+    "location": {
+      "lat": 1.353182,
+      "lng": 103.9583
+    }
+  },
+  {
+    "area": "TAMPINES",
+    "clinic_code": "SGP000324",
+    "clinic": "TAMPINES MEDILIFE CLINIC",
+    "address": "BLK 801 TAMPINES AVENUE 4 #01-263",
+    "postal": 520801,
+    "tel": 67825142,
+    "fax": 67825142,
+    "operating_hours_mon___fri": "8.30AM-12.30PM  \n2.00PM-4.30PM   \n7.00PM-9.00PM",
+    "sat": "8.30AM-12.30PM",
+    "sun": "8.30AM-12.30PM",
+    "public_holiday": "8.30AM-12.30PM",
+    "location": {
+      "lat": 1.34703,
+      "lng": 103.937957
+    }
+  },
+  {
+    "area": "TAMPINES",
+    "clinic_code": "SGP000580",
+    "clinic": "YAO MEDICAL CLINIC",
+    "address": "BLK 419 TAMPINES STREET 41 #01-96",
+    "postal": 520419,
+    "tel": 67830232,
+    "fax": 67830232,
+    "operating_hours_mon___fri": "8.30AM-12.30PM   \n2.00PM-4.00PM   \n7.00PM-9.00PM",
+    "sat": "8.30AM-12.30PM",
+    "sun": "8.30AM-12.30PM",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.357849,
+      "lng": 103.9466659
+    }
+  },
+  {
+    "area": "TAMPINES",
+    "clinic_code": "SGP000354",
+    "clinic": "THE FAMILY MEDICAL CENTRE",
+    "address": "BLK 827 TAMPINES STREET 81 #01-148",
+    "postal": 520827,
+    "tel": 67873328,
+    "fax": 67873328,
+    "operating_hours_mon___fri": "8.30AM-12.30PM  \n2.00PM-4.30PM   \n6.30PM-9.00PM",
+    "sat": "8.30AM-1.00PM",
+    "sun": "8.30AM-1.00PM",
+    "public_holiday": "8.30AM-1.00PM",
+    "location": {
+      "lat": 1.349652,
+      "lng": 103.933901
+    }
+  },
+  {
+    "area": "TAMPINES",
+    "clinic_code": "SGP000474",
+    "clinic": "GSH CLINIC & SURGERY PTE LTD",
+    "address": "BLK 730 TAMPINES STREET 71 #01-51",
+    "postal": 520730,
+    "tel": 62605942,
+    "fax": 62605742,
+    "operating_hours_mon___fri": "MON-THU: 8.30AM-\n1.30PM, 6.00PM-\n9.45PM FRI: CLOSED",
+    "sat": "8.30AM-1.30PM",
+    "sun": "6.00PM-9.45PM (CLOSED ON EVERY FIRST SUN OF THE MONTH)",
+    "public_holiday": "CLOSED",
+    "remarks": "LAST PATIENT REGISTRATION FOR EVENING SESSION WILL BE AT 9.15PM.",
+    "location": {
+      "lat": 1.356734,
+      "lng": 103.933482
+    }
+  },
+  {
+    "area": "TAMPINES",
+    "clinic_code": "SGP000412",
+    "clinic": "KARRI FAMILY CLINIC",
+    "address": "BLK 866A TAMPINES STREET 83 #03-05 TAMPINES CENTRAL COMMUNITY  COMPLEX",
+    "postal": 521866,
+    "tel": 67850311,
+    "fax": 67857511,
+    "operating_hours_mon___fri": "8.30AM-1.00PM,\n6.30PM-9.30PM",
+    "sat": "8.30AM-12.30PM",
+    "sun": "6.30PM-9.30PM",
+    "public_holiday": "8.30AM-12.30PM",
+    "location": {
+      "lat": 1.355507,
+      "lng": 103.934462
+    }
+  },
+  {
+    "area": "TAMPINES",
+    "clinic_code": "SGP000419",
+    "clinic": "VIVA MEDICAL CLINIC",
+    "address": "BLK 450A TAMPINES STREET 42 #01-356",
+    "postal": 521450,
+    "tel": 67828020,
+    "fax": 67848060,
+    "operating_hours_mon___fri": "8.00AM-9.00PM",
+    "sat": "8.00AM-9.00PM",
+    "sun": "8.00AM-9.00PM",
+    "public_holiday": "8.00AM-9.00PM",
+    "location": {
+      "lat": 1.358327,
+      "lng": 103.952125
+    }
+  },
+  {
+    "area": "TAMPINES",
+    "clinic_code": "SGP000467",
+    "clinic": "HONG FAMILY CLINIC",
+    "address": "BLK 282 TAMPINES STREET 22 #01-300",
+    "postal": 520282,
+    "tel": 67843300,
+    "fax": 67843300,
+    "operating_hours_mon___fri": "8.30AM-12.15PM,\n2.00PM-4.15PM,\n6.30PM-8.30PM (CLOSED THU AFTERNOON)",
+    "sat": "8.30AM-12.15PM",
+    "sun": "9.00AM-12.00PM",
+    "public_holiday": "9.00AM-12.00PM",
+    "location": {
+      "lat": 1.347726,
+      "lng": 103.952356
+    }
+  },
+  {
+    "area": "TAMPINES",
+    "clinic_code": "SGP000559",
+    "clinic": "DAYSPRING  MEDICAL CLINIC (TAMPINES)  PTE LTD",
+    "address": "2 TAMPINES CENTRAL 5 #B1-24 CENTURY SQUARE",
+    "postal": 529509,
+    "tel": 67890123,
+    "fax": 67860103,
+    "operating_hours_mon___fri": "9.00AM-1.00PM   \n2.00PM-5.00PM   \n6.00PM-9.00PM",
+    "sat": "9.00AM-1.00PM   \n6.00PM-9.00PM",
+    "sun": "9.00AM-1.00PM",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.352738,
+      "lng": 103.943831
+    }
+  },
+  {
+    "area": "TAMPINES",
+    "clinic_code": "SGP000593",
+    "clinic": "HEALTHWAY  MEDICAL CLINIC (TAMPINES ST 21)",
+    "address": "201D TAMPINES ST 21 #01-1143",
+    "postal": 524201,
+    "tel": 62608801,
+    "fax": 62608802,
+    "operating_hours_mon___fri": "8.00AM-2.00PM   \n6.30PM-9.30PM",
+    "sat": "8.00AM-1.00PM",
+    "sun": "8.00AM-1.00PM",
+    "public_holiday": "8.00AM-1.00PM",
+    "location": {
+      "lat": 1.352255,
+      "lng": 103.953629
+    }
+  },
+  {
+    "area": "TAMPINES",
+    "clinic_code": "SGP000718",
+    "clinic": "VIVA MEDICAL GROUP CLINIC",
+    "address": "519A TAMPINES CENTRAL 8 #01-08",
+    "postal": 521519,
+    "tel": 66357240,
+    "fax": 66357241,
+    "operating_hours_mon___fri": "9.00AM-1.00PM,\n6.00PM-9.00PM",
+    "sat": "9.00AM-4.00PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "remarks": "LAST REGISTRATION\n15 MINS BEFORE CLOSING TIME.",
+    "location": {
+      "lat": 18.1240182,
+      "lng": -94.4331996
+    }
+  },
+  {
+    "area": "TANJONG PAGAR",
+    "clinic_code": "SGP000243",
+    "clinic": "MHC MEDICAL CENTRE (AMARA)",
+    "address": "100 TRAS STREET #15-01 100 AM",
+    "postal": 79027,
+    "tel": 62255220,
+    "fax": 62255426,
+    "operating_hours_mon___fri": "9.00AM-5.00PM",
+    "sat": "9.00AM-1.00PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "remarks": "Pre-appointment ends at 4pm on Weekdays and 12pm on Sat. Last registration  is at\n4.30pm.",
+    "location": {
+      "lat": 1.274929,
+      "lng": 103.843549
+    }
+  },
+  {
+    "area": "TANJONG PAGAR",
+    "clinic_code": "SGP000716",
+    "clinic": "SHENTON MEDICAL GROUP (INTERNATIONAL PLAZA)",
+    "address": "10 ANSON ROAD #36-01 INTERNATIONAL PLAZA",
+    "postal": 79903,
+    "tel": 62202911,
+    "fax": 62246865,
+    "operating_hours_mon___fri": "8.30AM-1.00PM,\n2.00PM-5.30PM",
+    "sat": "8.30AM-12.30PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.276109,
+      "lng": 103.845924
+    }
+  },
+  {
+    "area": "TEBAN",
+    "clinic_code": "SGP000331",
+    "clinic": "TEBAN GARDEN CLINIC",
+    "address": "BLK 61 TEBAN GARDENS ROAD #01-01",
+    "postal": 600061,
+    "tel": 65619052,
+    "fax": 65623906,
+    "operating_hours_mon___fri": "9.00AM-12.30PM,\n2.00PM-5.00PM,\n6.30PM-8.30PM",
+    "sat": "9.00AM-12.30PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.322074,
+      "lng": 103.738573
+    }
+  },
+  {
+    "area": "TEBAN",
+    "clinic_code": "SGP000260",
+    "clinic": "NEWLIFE FAMILY CLINIC & SURGERY PTE LTD",
+    "address": "BLK 61 TEBAN GARDENS ROAD #01-20",
+    "postal": 600061,
+    "tel": 65663770,
+    "fax": 65668941,
+    "operating_hours_mon___fri": "MON-THU: 9.00AM-\n12.00PM, 2.30PM-\n4.30PM, 7.00PM-\n9.00PM (CLOSE ON WED & THU NIGHT) FRI: 9.00AM-\n12.00PM   EVE OF PH: 9.00AM-\n12.00PM",
+    "sat": "9.00AM-12.00PM",
+    "sun": "9.00AM-12.00PM",
+    "public_holiday": "CLOSED",
+    "remarks": "HOLIDAY EVE: 9.00AM-\n12.00PM",
+    "location": {
+      "lat": 1.322074,
+      "lng": 103.738573
+    }
+  },
+  {
+    "area": "TELOK BLANGAH",
+    "clinic_code": "SGP000332",
+    "clinic": "TELOK BLANGAH MEDICAL CENTRE",
+    "address": "BLK 77 TELOK BLANGAH DRIVE #01-244",
+    "postal": 100077,
+    "tel": 62782727,
+    "fax": 62720963,
+    "operating_hours_mon___fri": "8.30AM-1.00PM",
+    "sat": "8.30AM-1.00PM",
+    "sun": "8.30AM-12.30PM",
+    "public_holiday": "8.30AM-12.30PM",
+    "location": {
+      "lat": 1.273906,
+      "lng": 103.808521
+    }
+  },
+  {
+    "area": "TELOK BLANGAH",
+    "clinic_code": "SGP000463",
+    "clinic": "HEALTHPLUS  FAMILY CLINIC & SURGERY",
+    "address": "BLK 78A TELOK BLANGAH STREET 32 #01-02",
+    "postal": 101078,
+    "tel": 62733327,
+    "fax": 62733360,
+    "operating_hours_mon___fri": "8.30AM-12.30PM  \n2.00PM-4.30PM   \n7.00PM-11.00PM",
+    "sat": "8.30AM-12.30PM\n \n7.00PM-11.00PM",
+    "sun": "8.30AM-12.30PM\n \n7.00PM-11.00PM",
+    "public_holiday": "8.30AM-12.30PM\n \n7.00PM-11.00PM",
+    "location": {
+      "lat": 1.273512,
+      "lng": 103.8090239
+    }
+  },
+  {
+    "area": "THOMSON",
+    "clinic_code": "SGP000628",
+    "clinic": "MHC MEDICAL CENTRE (NOVENA)",
+    "address": "10 SINARAN DRIVE #09-10 SQUARE 2",
+    "postal": 307506,
+    "tel": 63976568,
+    "fax": 63976578,
+    "operating_hours_mon___fri": "8.30AM-12.30PM,\n1.30PM-4.30PM",
+    "sat": "CLOSED",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.321061,
+      "lng": 103.844476
+    }
+  },
+  {
+    "area": "THOMSON",
+    "clinic_code": "SGP000047",
+    "clinic": "CHONG'S CLINIC",
+    "address": "234 UPPER THOMSON ROAD",
+    "postal": 574365,
+    "tel": 64536492,
+    "fax": 64536035,
+    "operating_hours_mon___fri": "8.30AM-12.30PM   \n2.00PM-4.00PM  \n6.00PM-9.00PM",
+    "sat": "8.30AM-12.30PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "remarks": "Closed on Wed nights",
+    "location": {
+      "lat": 1.353066,
+      "lng": 103.8349099
+    }
+  },
+  {
+    "area": "THOMSON",
+    "clinic_code": "SGP000151",
+    "clinic": "HEALTHWAY  MEDICAL CENTRE",
+    "address": "238 THOMSON ROAD #03-32A NOVENA SQUARE",
+    "postal": 307683,
+    "tel": 63528696,
+    "fax": 63528695,
+    "operating_hours_mon___fri": "8.30AM-12.30PM   \n2.00PM-5.30PM",
+    "sat": "9.00AM-1.00PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.319826,
+      "lng": 103.843998
+    }
+  },
+  {
+    "area": "THOMSON",
+    "clinic_code": "SGP000606",
+    "clinic": "HILL SPRING MEDICAL",
+    "address": "12 JALAN LEBAN",
+    "postal": 577552,
+    "tel": 64563200,
+    "fax": 64563070,
+    "operating_hours_mon___fri": "8.30AM-4.00PM,\n6.00PM-9.30PM",
+    "sat": "8.30AM-4.00PM",
+    "sun": "8.30AM-4.00PM,\n6.00PM-9.30PM",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.371664,
+      "lng": 103.829143
+    }
+  },
+  {
+    "area": "TIONG BAHRU",
+    "clinic_code": "SGP000634",
+    "clinic": "HEALTH FIRST FAMILY CLINIC",
+    "address": "BLK 26 JALAN MEMBINA #01-06",
+    "postal": 161026,
+    "tel": 67932833,
+    "fax": 67932877,
+    "operating_hours_mon___fri": "8.30AM-4.30PM,\n7.00PM-9.30PM",
+    "sat": "8.30AM-12.30PM",
+    "sun": "8.30AM-12.30PM,\n7.00PM-9.30PM",
+    "public_holiday": "8.30AM-12.30PM,\n7.00PM-9.30PM",
+    "location": {
+      "lat": 1.282517,
+      "lng": 103.825796
+    }
+  },
+  {
+    "area": "TIONG BAHRU",
+    "clinic_code": "SGP000051",
+    "clinic": "CHUA & PARTNERS FAMILY CLINIC",
+    "address": "BLK 18 JALAN MEMBINA #02-05",
+    "postal": 164018,
+    "tel": 62719004,
+    "fax": 62711601,
+    "operating_hours_mon___fri": "8.00AM-3.30PM  \n6.00PM-9.30PM",
+    "sat": "8.00AM-3.30PM  \n6.00PM-9.30PM",
+    "sun": "CLOSED",
+    "public_holiday": "8.00AM-3.00PM",
+    "remarks": "Patients to be registered 30mins before closing",
+    "location": {
+      "lat": 1.28568,
+      "lng": 103.826718
+    }
+  },
+  {
+    "area": "TIONG BAHRU",
+    "clinic_code": "SGP000017",
+    "clinic": "BEO CRESCENT FAMILY CLINIC & SURGERY",
+    "address": "BLK 40 BEO CRESCENT #01-02",
+    "postal": 160040,
+    "tel": 62750269,
+    "fax": 62750062,
+    "operating_hours_mon___fri": "9.00AM-1.00PM\n2.00PM-4.30PM\n6.30PM-9.00PM",
+    "sat": "9.00AM-12.30PM",
+    "sun": "9.00AM-12.30PM",
+    "public_holiday": "9.00AM-12.30PM",
+    "location": {
+      "lat": 1.288999,
+      "lng": 103.827603
+    }
+  },
+  {
+    "area": "TIONG BAHRU",
+    "clinic_code": "SGP000662",
+    "clinic": "FIRSTHEALTH  CLINIC & SURGERY",
+    "address": "126 KIM TIAN ROAD #01-04 MULTISTOREY CARPARK",
+    "postal": 160126,
+    "tel": 66944981,
+    "fax": 66944982,
+    "operating_hours_mon___fri": "8.30AM-1.00PM,\n6.00PM-9.00PM",
+    "sat": "8.30AM-12.30PM",
+    "sun": "9.00AM-1.00PM,\n6.00PM-10.00PM",
+    "public_holiday": "9.00AM-1.00PM,\n6.30PM-9.30PM",
+    "location": {
+      "lat": 1.282525,
+      "lng": 103.8295009
+    }
+  },
+  {
+    "area": "TIONG BAHRU",
+    "clinic_code": "SGP000366",
+    "clinic": "TIONG BAHRU MEDICAL CENTRE PTE LTD",
+    "address": "10 KIM TIAN ROAD  KAI FOOK MANSION",
+    "postal": 169248,
+    "tel": 62727966,
+    "fax": 62787216,
+    "operating_hours_mon___fri": "10.00AM-12.30PM,\n2.00PM-5.30PM",
+    "sat": "10.00AM-12.30PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.2850379,
+      "lng": 103.829342
+    }
+  },
+  {
+    "area": "TIONG BAHRU",
+    "clinic_code": "SGP000391",
+    "clinic": "YIM CLINIC",
+    "address": "11A BOON TIONG ROAD #02-03",
+    "postal": 161011,
+    "tel": 62707587,
+    "fax": 62732316,
+    "operating_hours_mon___fri": "8.00AM-1.00PM,\n1.30PM-5.00PM,\n5.30PM-8.00PM",
+    "sat": "8.00AM-1.00PM",
+    "sun": "8.00AM-1.00PM",
+    "public_holiday": "CLOSED",
+    "location": {
+    }
+  },
+  {
+    "area": "TIONG BAHRU",
+    "clinic_code": "SGP000706",
+    "clinic": "ICARE MEDICAL AND WELLNESS CLINIC",
+    "address": "BLK 22 HAVELOCK  ROAD #01-701",
+    "postal": 160022,
+    "tel": 62746858,
+    "fax": 62746342,
+    "operating_hours_mon___fri": "8.00AM-10.00PM",
+    "sat": "8.00AM-10.00PM",
+    "sun": "10.00AM-10.00PM",
+    "public_holiday": "10.00AM-10.00PM",
+    "location": {
+      "lat": 1.288768,
+      "lng": 103.828705
+    }
+  },
+  {
+    "area": "TOA PAYOH",
+    "clinic_code": "SGP000073",
+    "clinic": "DRS CHAN & TANG FAMILY CLINIC",
+    "address": "BLK 125 LORONG 1 TOA PAYOH #01-549",
+    "postal": 310125,
+    "tel": 62511782,
+    "fax": 62511023,
+    "operating_hours_mon___fri": "8.30AM-12.30PM   \n2.00PM-5.00PM   \n7.00PM-9.00PM (CLOSED ON THU & FRI EVENING)",
+    "sat": "8.30AM-12.30PM",
+    "sun": "8.30AM-12.30PM",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.338334,
+      "lng": 103.845538
+    }
+  },
+  {
+    "area": "TOA PAYOH",
+    "clinic_code": "SGP000056",
+    "clinic": "C K TAN FAMILY CLINIC & SURGERY PTE LTD",
+    "address": "BLK 125 LORONG 1 TOA PAYOH #01-537",
+    "postal": 310125,
+    "tel": 62514438,
+    "fax": 62514438,
+    "operating_hours_mon___fri": "8.30AM-12.00PM   \n1.30PM-4.00PM   \n5.30PM-8.00PM",
+    "sat": "8.30AM-12.30PM",
+    "sun": "8.30AM-12.30PM",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.338334,
+      "lng": 103.845538
+    }
+  },
+  {
+    "area": "TOA PAYOH",
+    "clinic_code": "SGP000045",
+    "clinic": "CHNG CLINIC & SURGERY",
+    "address": "BLK 178 TOA PAYOH CENTRAL #01-236",
+    "postal": 310178,
+    "tel": 62504522,
+    "fax": 62533803,
+    "operating_hours_mon___fri": "8.30AM-12.30PM   \n2.00PM-4.30PM   \n7.00PM-9.00PM (CLOSED ON WED & FRI EVENING)",
+    "sat": "9.00AM-12.30PM",
+    "sun": "9.00AM-12.30PM",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.3332949,
+      "lng": 103.849135
+    }
+  },
+  {
+    "area": "TOA PAYOH",
+    "clinic_code": "SGP000010",
+    "clinic": "ASSOCIATE DISPENSARIES",
+    "address": "BLK 94 LORONG 4 TOA PAYOH #01-20",
+    "postal": 310094,
+    "tel": 62562308,
+    "fax": 62562308,
+    "operating_hours_mon___fri": "MON/THU: \n9.00AM-12.30PM \n2.30PM-5.00PM \n7.00PM-9.00PM    TUE/WED/FRI: \n9.00AM-12.30PM \n2.30PM-5.00PM",
+    "sat": "9.00AM-12.30PM",
+    "sun": "9.00AM-12.30PM",
+    "public_holiday": "9.00AM-12.30PM",
+    "remarks": "Closed on New Year's Day, Labour Day, National Day, Christmas and Chinese New Year's Day",
+    "location": {
+      "lat": 1.338881,
+      "lng": 103.849803
+    }
+  },
+  {
+    "area": "TOA PAYOH",
+    "clinic_code": "SGP000030",
+    "clinic": "CAMRY MEDICAL CENTRE",
+    "address": "BLK 95 LORONG 4 TOA PAYOH #01-66",
+    "postal": 310095,
+    "tel": 62580553,
+    "fax": 62589353,
+    "operating_hours_mon___fri": "8.30AM-12.00PM,\n1.00PM-4.00PM",
+    "sat": "8.30AM-12.00PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.338873,
+      "lng": 103.848997
+    }
+  },
+  {
+    "area": "TOA PAYOH",
+    "clinic_code": "SGP000098",
+    "clinic": "EJ FAMILY CLINIC",
+    "address": "BLK 109 LORONG 1 TOA PAYOH #01-314",
+    "postal": 310109,
+    "tel": 63530811,
+    "fax": 63530811,
+    "operating_hours_mon___fri": "8.00AM-3.00PM,\n6.00PM-10.00PM",
+    "sat": "8.00AM-3.00PM",
+    "sun": "8.00AM-3.00PM,\n6.00PM-10.00PM",
+    "public_holiday": "8.00AM-12.30PM (*CLINIC CLOSE ON CERTAIN PUBLIC HOLIDAYS)",
+    "remarks": "PATIENT TO ARRIVE AT LEAST 15MINS BEFORE CLOSING.",
+    "location": {
+      "lat": 1.341253,
+      "lng": 103.846346
+    }
+  },
+  {
+    "area": "TOA PAYOH",
+    "clinic_code": "SGP000222",
+    "clinic": "MAKE-WELL  FAMILY CLINIC & SURGERY",
+    "address": "BLK 70 LORONG 4 TOA PAYOH #01-351",
+    "postal": 310070,
+    "tel": 62534235,
+    "fax": 63545461,
+    "operating_hours_mon___fri": "10.00AM-12.00PM,\n3.00PM-4.00PM",
+    "sat": "10.00AM-12.00PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.334824,
+      "lng": 103.852258
+    }
+  },
+  {
+    "area": "TOA PAYOH",
+    "clinic_code": "SGP000421",
+    "clinic": "MEI LING CLINIC (TOA PAYOH) LLP",
+    "address": "BLK 500 LORONG 6 TOA PAYOH #04-33 HDB HUB",
+    "postal": 310500,
+    "tel": 62535600,
+    "fax": 62530722,
+    "operating_hours_mon___fri": "9.00AM-1.00PM,\n2.00PM-5.00PM (LAST REGISTRATION 15\nMINS BEFORE CLOSING)",
+    "sat": "9.00AM-12.00PM (LAST REGISTRATION 15\nMINS BEFORE CLOSING)",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "remarks": "(LAST REGISTRATION\n15 MINS BEFORE CLOSING)",
+    "location": {
+      "lat": 1.333005,
+      "lng": 103.847064
+    }
+  },
+  {
+    "area": "TOA PAYOH",
+    "clinic_code": "SGP000427",
+    "clinic": "MEDIVIEW CLINIC AND SURGERY",
+    "address": "BLK 150 LORONG 1 TOA PAYOH #01-999",
+    "postal": 310150,
+    "tel": 62532351,
+    "fax": 64423715,
+    "operating_hours_mon___fri": "MON-TUE: 8.30AM-\n12.30PM, 2.00PM-\n4.00PM, 7.00PM-\n9.00PM   WED-FRI:\n8.30AM-12.30PM,\n2.00PM-5.00PM",
+    "sat": "8.30AM-12.30PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.3339589,
+      "lng": 103.844393
+    }
+  },
+  {
+    "area": "TOA PAYOH",
+    "clinic_code": "SGP000428",
+    "clinic": "TEOH CLINIC FAMILY PRACTICE",
+    "address": "BLK 47 LORONG 6 TOA PAYOH #01-142",
+    "postal": 310047,
+    "tel": 62555188,
+    "fax": 62506070,
+    "operating_hours_mon___fri": "8.30AM-12.30PM   \n2.30PM-4.30PM  \n7.00PM-9.00PM",
+    "sat": "8.30AM-12.00PM",
+    "sun": "10.00AM-12.00PM",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.336919,
+      "lng": 103.853967
+    }
+  },
+  {
+    "area": "TOA PAYOH",
+    "clinic_code": "SGP000485",
+    "clinic": "FAMILYCARE  CLINIC AND SURGERY",
+    "address": "BLK 85C LORONG 4 TOA PAYOH #01-380",
+    "postal": 313085,
+    "tel": 62509033,
+    "fax": 63561521,
+    "operating_hours_mon___fri": "9.00AM-12.30PM,\n2.00PM-4.00PM,\n7.30PM-10.00PM",
+    "sat": "9.00AM-12.30PM",
+    "sun": "9.00AM-12.30PM",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.336315,
+      "lng": 103.847346
+    }
+  },
+  {
+    "area": "TUAS",
+    "clinic_code": "SGP000724",
+    "clinic": "TUAS MEDICAL CENTRE",
+    "address": "70 TUAS SOUTH AVENUE 1 #01-08/09",
+    "postal": 637285,
+    "tel": 63344402,
+    "fax": 63345404,
+    "operating_hours_mon___fri": "6.00PM-9.00PM",
+    "sat": "6.00PM-9.00PM",
+    "sun": "6.00PM-9.00PM",
+    "public_holiday": "6.00PM-9.00PM",
+    "location": {
+    }
+  },
+  {
+    "area": "UBI",
+    "clinic_code": "SGP000002",
+    "clinic": "ADVANCE CLINIC & SURGERY PTE LTD",
+    "address": "BLK 301 UBI AVENUE 1 #01-269",
+    "postal": 400301,
+    "tel": 67421156,
+    "fax": 67426191,
+    "operating_hours_mon___fri": "8.30AM-5.30PM   \n7.00PM-9.00PM",
+    "sat": "8.30AM-1.00PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.330744,
+      "lng": 103.902125
+    }
+  },
+  {
+    "area": "UBI",
+    "clinic_code": "SGP000031",
+    "clinic": "CARITAS CLINIC",
+    "address": "BLK 304 UBI AVENUE 1 #01-127",
+    "postal": 400304,
+    "tel": 67489284,
+    "fax": 67421955,
+    "operating_hours_mon___fri": "MON-THU: \n8.30AM-1.00PM \n2.00PM-4.00PM \n6.00PM-7.30PM    FRI: \n8.30AM-12.00PM \n2.00PM-4.00PM",
+    "sat": "9.30AM-12.00PM",
+    "sun": "9.30AM-12.00PM",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.329443,
+      "lng": 103.901257
+    }
+  },
+  {
+    "area": "WOODLANDS",
+    "clinic_code": "SGP000640",
+    "clinic": "WOODGROVE  MEDICAL",
+    "address": "30 WOODLANDS  AVENUE 1 #02-03/04 THE WOODGROVE",
+    "postal": 739065,
+    "tel": 63668831,
+    "fax": 63669961,
+    "operating_hours_mon___fri": "8.30AM-4.00PM,\n6.00PM-9.30PM",
+    "sat": "8.30AM-4.00PM",
+    "sun": "8.30AM-4.00PM",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.428724,
+      "lng": 103.781141
+    }
+  },
+  {
+    "area": "WOODLANDS",
+    "clinic_code": "SGP000160",
+    "clinic": "HEALTHWAY  MEDICAL CLINIC (WOODLANDS)",
+    "address": "BLK 888 WOODLANDS  DRIVE 50 #02-737 888 Plaza",
+    "postal": 730888,
+    "tel": 63649661,
+    "fax": 63649662,
+    "operating_hours_mon___fri": "8.30AM-1.00PM,\n2.00PM-5.00PM,\n6.30PM-9.30PM (CLOSED ON FRI NIGHT)",
+    "sat": "8.30AM-1.00PM",
+    "sun": "8.30AM-12.30PM",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.437703,
+      "lng": 103.79527
+    }
+  },
+  {
+    "area": "WOODLANDS",
+    "clinic_code": "SGP000166",
+    "clinic": "HOPE FAMILY CLINIC & SURGERY",
+    "address": "BLK 883 WOODLANDS  STREET 82 #01-470\nWOODLANDS  NORTH PLAZA",
+    "postal": 730883,
+    "tel": 63691328,
+    "fax": 63691328,
+    "operating_hours_mon___fri": "8.30AM-12.30PM   \n1.30PM-3.30PM   \n7.00PM-9.00PM",
+    "sat": "8.30AM-12.00PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.442756,
+      "lng": 103.790708
+    }
+  },
+  {
+    "area": "WOODLANDS",
+    "clinic_code": "SGP000299",
+    "clinic": "ROYAL MEDICAL CENTRE",
+    "address": "BLK 111 WOODLANDS  STREET 13 #01-84",
+    "postal": 730111,
+    "tel": 63656855,
+    "fax": 63623254,
+    "operating_hours_mon___fri": "8.30AM-1.00PM   \n2.00PM-4.00PM   \n6.30PM-9.00PM",
+    "sat": "8.30AM-12.30PM",
+    "sun": "9.00AM-12.30PM",
+    "location": {
+      "lat": 1.437911,
+      "lng": 103.78198
+    }
+  },
+  {
+    "area": "WOODLANDS",
+    "clinic_code": "SGP000658",
+    "clinic": "A & A CLINIC",
+    "address": "BLK 570B WOODLANDS  AVE 1 #01-07",
+    "postal": 732570,
+    "tel": 63390883,
+    "operating_hours_mon___fri": "9.00AM-12.30PM,\n6.00PM-8.30PM (CLOSED ON TUE & THU NIGHT)",
+    "sat": "9.00AM-12.30PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.430924,
+      "lng": 103.790837
+    }
+  },
+  {
+    "area": "WOODLANDS",
+    "clinic_code": "SGP000295",
+    "clinic": "REGIONAL PATIENTCARE MEDICAL GROUP PTE LTD",
+    "address": "BLK 678 WOODLANDS  AVENUE 6 #01-726",
+    "postal": 730678,
+    "tel": 63669027,
+    "fax": 68939839,
+    "operating_hours_mon___fri": "MON-THU: 9.00AM-\n9.00PM   FRI:\n9.00AM-5.00PM",
+    "sat": "9.00AM-1.00PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "remarks": "- LAST REGISTRATION\n1 HOUR BEFORE CLOSING TIME.",
+    "location": {
+      "lat": 1.439805,
+      "lng": 103.801588
+    }
+  },
+  {
+    "area": "WOODLANDS",
+    "clinic_code": "SGP000312",
+    "clinic": "SINGAPORE  FAMILY CLINIC & SURGERY (WOODLANDS)",
+    "address": "BLK 717 WOODLANDS  DRIVE 70 #01-114",
+    "postal": 730717,
+    "tel": 63647450,
+    "fax": 63647451,
+    "operating_hours_mon___fri": "8.00AM-1.00PM   \n2.00PM-5.00PM  \n6.00PM-12.00AM",
+    "sat": "8.00AM-1.00PM   \n2.00PM-5.00PM   \n6.00PM-12.00AM",
+    "sun": "8.00AM-1.00PM   \n2.00PM-5.00PM   \n6.00PM-12.00AM",
+    "public_holiday": "8.00AM-1.00PM   \n2.00PM-5.00PM   \n6.00PM-12.00AM",
+    "location": {
+      "lat": 1.441111,
+      "lng": 103.799198
+    }
+  },
+  {
+    "area": "WOODLANDS",
+    "clinic_code": "SGP000338",
+    "clinic": "TEMASEK MEDICAL CENTRE",
+    "address": "BLK 883 WOODLANDS  STREET 82 #01-464\nWOODLANDS  NORTH PLAZA",
+    "postal": 730883,
+    "tel": 63668366,
+    "fax": 62690138,
+    "operating_hours_mon___fri": "8.30AM-12.30PM,\n2.00PM-4.30PM,\n7.00PM-9.00PM (CLOSED ON TUE/WED/FRI EVENING)",
+    "sat": "8.30AM-12.30PM",
+    "sun": "9.00AM-12.00PM",
+    "public_holiday": "CLOSED",
+    "remarks": "CLOSED ON TUE, WED\n& FRI NIGHTS. LAST REGISTRATION 15\nMINS BEFORE CLOSING\nTIME.",
+    "location": {
+      "lat": 1.442756,
+      "lng": 103.790708
+    }
+  },
+  {
+    "area": "WOODLANDS",
+    "clinic_code": "SGP000387",
+    "clinic": "WOODLANDS  FAMILY CLINIC",
+    "address": "BLK 305 WOODLANDS  STREET 31 #01-85",
+    "postal": 730305,
+    "tel": 63654770,
+    "fax": 63658075,
+    "operating_hours_mon___fri": "8.30AM-12.30PM   \n2.00PM-4.30PM   \n6.30PM-9.00PM (CLOSED ON FRI EVENING)",
+    "sat": "8.30AM-12.30PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.430465,
+      "lng": 103.774129
+    }
+  },
+  {
+    "area": "WOODLANDS",
+    "clinic_code": "SGP000388",
+    "clinic": "WOODLANDS  MEDICAL CENTRE",
+    "address": "BLK 210 MARSILING CRESCENT #01-09",
+    "postal": 730210,
+    "tel": 62698888,
+    "fax": 63654119,
+    "operating_hours_mon___fri": "8.30AM-12.15PM   \n2.00PM-4.15PM   \n6.00PM-8.15PM",
+    "sat": "8.30AM-12.15PM",
+    "sun": "8.30AM-12.15PM",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.446698,
+      "lng": 103.773833
+    }
+  },
+  {
+    "area": "WOODLANDS",
+    "clinic_code": "SGP000564",
+    "clinic": "CENTRAL 24-HR CLINIC (WOODLANDS)",
+    "address": "BLK 768 WOODLANDS  AVENUE 6 #02-06A WOODLANDS  MART",
+    "postal": 730768,
+    "tel": 63654895,
+    "fax": 63621895,
+    "operating_hours_mon___fri": "24 HOURS",
+    "sat": "24 HOURS",
+    "sun": "24 HOURS",
+    "public_holiday": "24 HOURS",
+    "location": {
+      "lat": 1.445962,
+      "lng": 103.798159
+    }
+  },
+  {
+    "area": "WOODLANDS",
+    "clinic_code": "SGP000710",
+    "clinic": "PROCROSS MEDICAL CENTRE (WOODLANDS)",
+    "address": "BLK 689A WOODLANDS  DRIVE 75 #01-86",
+    "postal": 731689,
+    "tel": 62199648,
+    "fax": 62199649,
+    "operating_hours_mon___fri": "8.00AM-12.00PM,\n5.00PM-8.00PM",
+    "sat": "12.30PM-3.00PM",
+    "sun": "12.30PM-3.00PM",
+    "public_holiday": "12.30PM-3.00PM",
+    "location": {
+      "lat": 1.444459,
+      "lng": 103.807895
+    }
+  },
+  {
+    "area": "WOODLANDS",
+    "clinic_code": "SGP000729",
+    "clinic": "DR NAH & LEE FAMILY CLINIC",
+    "address": "BLK 780 WOODLANDS  CRESCENT #01-03",
+    "postal": 730780,
+    "tel": 62501528,
+    "fax": 62501779,
+    "operating_hours_mon___fri": "7.00AM-4.00PM,\n6.00PM-9.00PM",
+    "sat": "CLOSED",
+    "sun": "7.00AM-1.00PM",
+    "public_holiday": "CLOSED",
+    "location": {
+    }
+  },
+  {
+    "area": "YISHUN",
+    "clinic_code": "SGP000128",
+    "clinic": "H S LEE CLINIC & SURGERY",
+    "address": "BLK 173 YISHUN AVENUE 7 #01-823",
+    "postal": 760173,
+    "tel": 67550630,
+    "fax": 67555524,
+    "operating_hours_mon___fri": "8.30AM-12.30PM,\n2.00PM-5.00PM,\n7.00PM-9.00PM",
+    "sat": "8.30AM-12.30PM",
+    "sun": "8.30AM-12.30PM",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.43708,
+      "lng": 103.830921
+    }
+  },
+  {
+    "area": "YISHUN",
+    "clinic_code": "SGP000042",
+    "clinic": "CHANLAI HEALTHCARE  CLINIC",
+    "address": "BLK 604 YISHUN STREET 61 #01-325",
+    "postal": 760604,
+    "tel": 67563456,
+    "fax": 67565600,
+    "operating_hours_mon___fri": "MON-THU: 9.00AM-\n12.30PM, 2.30PM-\n4.30PM, 7.00PM-\n9.00PM   FRI:\n9.00AM-12.30PM",
+    "sat": "9.00AM-12.30PM",
+    "sun": "9.00AM-12.30PM",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.4217979,
+      "lng": 103.835421
+    }
+  },
+  {
+    "area": "YISHUN",
+    "clinic_code": "SGP000152",
+    "clinic": "HEALTHWAY  MEDICAL CENTRE",
+    "address": "BLK 417 YISHUN AVENUE 11 #01-322",
+    "postal": 760417,
+    "tel": 67537626,
+    "fax": 67530125,
+    "operating_hours_mon___fri": "8.30AM-12.30PM  \n2.00PM-5.00PM   \n6.30PM-9.00PM",
+    "sat": "8.30AM-12.30PM",
+    "sun": "8.30AM-12.30PM",
+    "public_holiday": "8.30AM-12.30PM",
+    "remarks": "Closed on Wed afternoons.",
+    "location": {
+      "lat": 1.424411,
+      "lng": 103.846319
+    }
+  },
+  {
+    "area": "YISHUN",
+    "clinic_code": "SGP000394",
+    "clinic": "YISHUN CENTRAL MEDICAL CLINIC",
+    "address": "BLK 160 YISHUN STREET 11 #01-212",
+    "postal": 760160,
+    "tel": 67558931,
+    "fax": 67558931,
+    "operating_hours_mon___fri": "8.30AM-12.30PM   \n2.00PM-4.00PM   \n6.30PM-9.00PM",
+    "sat": "8.30AM-12.30PM",
+    "sun": "8.30AM-12.30PM",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.432499,
+      "lng": 103.833132
+    }
+  },
+  {
+    "area": "YISHUN",
+    "clinic_code": "SGP000655",
+    "clinic": "ATRIO FAMILY CLINIC PTE LTD",
+    "address": "291 YISHUN STREET 22 #01-349",
+    "postal": 760291,
+    "tel": 67520838,
+    "fax": 67520838,
+    "operating_hours_mon___fri": "8.00AM-2.00PM,\n5.30PM-10.30PM (LAST REGISTRATION\n1.15PM & 9.45PM)",
+    "sat": "8.00AM-2.00PM,\n5.30PM-10.30PM (LAST REGISTRATION\n1.15PM & 9.45PM)",
+    "sun": "9.00AM-2.00PM,\n5.30PM-10.30PM (LAST REGISTRATION\n1.15PM & 9.45PM)",
+    "public_holiday": "CLOSED",
+    "remarks": "(LAST REGISTRATION\n1.15PM & 9.45PM)",
+    "location": {
+      "lat": 1.436545,
+      "lng": 103.8363959
+    }
+  },
+  {
+    "area": "YISHUN",
+    "clinic_code": "SGP000374",
+    "clinic": "UNITED HEALTH FAMILY CLINIC & SURGERY",
+    "address": "BLK 627 YISHUN STREET 61 #01-63",
+    "postal": 760627,
+    "tel": 62571182,
+    "fax": 62571182,
+    "operating_hours_mon___fri": "8.30AM-12.30PM   \n2.00PM-4.30PM  \n6.30PM-9.00PM",
+    "sat": "8.30AM-12.30PM",
+    "sun": "8.30AM-12.30PM",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.417705,
+      "lng": 103.836588
+    }
+  },
+  {
+    "area": "YISHUN",
+    "clinic_code": "SGP000296",
+    "clinic": "REGIONAL PATIENTCARE MEDICAL GROUP PTE LTD",
+    "address": "BLK 932 YISHUN CENTRAL 1 #01-97",
+    "postal": 760932,
+    "tel": 67561611,
+    "fax": 67568028,
+    "operating_hours_mon___fri": "8.30AM-12.30PM,\n2.00PM-4.00PM,\n6.30PM-8.30PM (CLOSED ON TUE/THU EVENING)",
+    "sat": "8.30AM-12.30PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.426375,
+      "lng": 103.836995
+    }
+  },
+  {
+    "area": "YISHUN",
+    "clinic_code": "SGP000501",
+    "clinic": "PUBLIC MEDICAL CLINIC & SURGERY",
+    "address": "BLK 664 YISHUN AVENUE 4 #01-275",
+    "postal": 760664,
+    "tel": 67556539,
+    "fax": 67552320,
+    "operating_hours_mon___fri": "8.30AM-12.30PM,\n2.30PM-4.30PM,\n7.00PM-9.00PM",
+    "sat": "9.00AM-12.00PM",
+    "sun": "9.00AM-12.00PM",
+    "public_holiday": "9.00AM-12.00PM",
+    "location": {
+      "lat": 1.420297,
+      "lng": 103.841045
+    }
+  },
+  {
+    "area": "YISHUN",
+    "clinic_code": "SGP000567",
+    "clinic": "CENTRAL CLINIC & SURGERY (YISHUN)",
+    "address": "BLK 701A YISHUN AVENUE 5 #01-04",
+    "postal": 761701,
+    "tel": 67597985,
+    "fax": 67597984,
+    "operating_hours_mon___fri": "24 HOURS",
+    "sat": "24 HOURS",
+    "sun": "24 HOURS",
+    "public_holiday": "24 HOURS",
+    "location": {
+      "lat": 1.4299519,
+      "lng": 103.827832
+    }
+  },
+  {
+    "area": "YISHUN",
+    "clinic_code": "SGP000603",
+    "clinic": "GREENLINK  MEDICAL CLINIC PTE LTD",
+    "address": "BLK 807 YISHUN RING ROAD #01-4213",
+    "postal": 760807,
+    "tel": 67552238,
+    "fax": 67552238,
+    "operating_hours_mon___fri": "8.30AM-3.00PM,\n6.30PM-9.00PM",
+    "sat": "8.30AM-12.30PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.4168099,
+      "lng": 103.831389
+    }
+  },
+  {
+    "area": "YISHUN",
+    "clinic_code": "SGP000625",
+    "clinic": "PARSONS MEDICAL CLINIC PTE LTD",
+    "address": "BLK 779 YISHUN AVENUE 2 #01-1541",
+    "postal": 760779,
+    "tel": 64846010,
+    "fax": 64840490,
+    "operating_hours_mon___fri": "MON: CLOSED TUE/WED/FRI:\n9.00AM-12.00PM THU: 3.00PM-\n7.00PM",
+    "sat": "CLOSED",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.422385,
+      "lng": 103.833623
+    }
+  },
+  {
+    "area": "YISHUN",
+    "clinic_code": "SGP000714",
+    "clinic": "ONECARE CLINIC YISHUN PTE LTD",
+    "address": "BLK 431 YISHUN AVENUE 1 #01-04",
+    "postal": 760431,
+    "tel": 63342373,
+    "fax": 63342374,
+    "operating_hours_mon___fri": "8.30AM-2.30PM,\n6.30PM-9.30PM",
+    "sat": "8.30AM-12.30PM",
+    "sun": "8.30AM-12.30PM,\n6.30PM-9.30PM",
+    "public_holiday": "8.30AM-12.30PM (PLEASE CALL CLINIC BEFORE CONSULT)",
+    "location": {
+    }
+  },
+  {
+    "area": "YISHUN",
+    "clinic_code": "SGP000725",
+    "clinic": "HEARTLAND  FAMILY CLINIC",
+    "address": "BLK 333C YISHUN STREET 31 #01-167",
+    "postal": 763333,
+    "tel": 62500655,
+    "fax": 62502803,
+    "operating_hours_mon___fri": "MON-THU: 8.00AM-\n12.30PM, 2.00PM-\n4.00PM, 6.30-\n9.00PM   FRI:\n8.00AM-1.00PM,\n6.00PM-9.00PM",
+    "sat": "8.30AM-1.00PM",
+    "sun": "6.00PM-9.00PM",
+    "public_holiday": "CLOSED",
+    "location": {
+    }
+  },
+  {
+    "area": "YISHUN",
+    "clinic_code": "SGP000727",
+    "clinic": "WELLCARE FAMILY CLINIC",
+    "address": "BLK 747 YISHUN STREET 72 #01-106",
+    "postal": 760747,
+    "tel": 67543740,
+    "fax": 67543742,
+    "operating_hours_mon___fri": "8.30AM-1.00PM,\n6.30PM-9.00PM",
+    "sat": "9.00AM-12.00PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.428283,
+      "lng": 103.833404
+    }
+  },
+  {
+    "area": "JOHOR BAHRU",
+    "location": {
+    }
+  },
+  {
+    "area": "JOHOR BAHRU",
+    "location": {
+    }
+  },
+  {
+    "area": "JOHOR BAHRU",
+    "location": {
+    }
+  },
+  {
+    "area": "JOHOR BAHRU",
+    "location": {
+    }
+  },
+  {
+    "area": "JOHOR BAHRU",
+    "location": {
+    }
+  },
+  {
+    "area": "JOHOR BAHRU",
+    "location": {
+    }
+  },
+  {
+    "area": "JOHOR BAHRU",
+    "location": {
+    }
+  },
+  {
+    "area": "JOHOR BAHRU",
+    "location": {
+    }
+  },
+  {
+    "area": "JOHOR BAHRU",
+    "location": {
+    }
+  },
+  {
+    "area": "JOHOR BAHRU",
+    "location": {
+    }
+  },
+  {
+    "area": "JOHOR BAHRU",
+    "clinic_code": "MGP000255",
+    "clinic": "KLINIK SENTOSA",
+    "address": "43 JALAN SULAM, TAMAN SENTOSA",
+    "postal": 80150,
+    "tel": "07-3337470",
+    "fax": "02-07-\n3348475",
+    "operating_hours_mon___fri": "9.30AM-1.00PM,\n2.30PM-5.00PM,\n7.30PM-9.00PM",
+    "sat": "9.00AM-5.00PM",
+    "sun": "9.00AM-5.00PM",
+    "public_holiday": "CLOSED",
+    "location": {
+    }
+  },
+  {
+    "area": "JOHOR BAHRU",
+    "clinic_code": "MGP000001",
+    "clinic": "KLINIK MESRA LARKIN",
+    "address": "5C-08(A) Pusat Pengangkutan Awam Larkin,  Jln\nGeroda 2 80350 Johor Bahru",
+    "postal": 80350,
+    "tel": "07-2228966",
+    "fax": "07-2228966",
+    "operating_hours_mon___fri": "9.00AM-1.00PM \n2.00PM-5.00PM \n6.00PM-8.00PM",
+    "sat": "9.00AM-1.00PM \n2.00PM-5.00PM \n6.00PM-8.00PM",
+    "sun": "9.00AM-1.00PM",
+    "public_holiday": "CLOSED",
+    "location": {
+    }
+  },
+  {
+    "area": "JOHOR BAHRU",
+    "clinic_code": "MGP000002",
+    "clinic": "KLINIK MESRA TAMPOI",
+    "address": "5 Jalan Persiaran Tanjung Susur 1 Tampoi, 81200\nJohor",
+    "postal": 81200,
+    "tel": "07-2361516",
+    "fax": "07-2361516",
+    "operating_hours_mon___fri": "9.00AM-5.00PM \n7.00PM-9.00PM",
+    "sat": "9.00AM-1.00PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": -23.5014925,
+      "lng": -46.3969211
+    }
+  },
+  {
+    "area": "JOHOR BAHRU",
+    "clinic_code": "MGP000623",
+    "clinic": "KLINIK LEE DAN SURGERI",
+    "address": "14 JALAN INDAH 16/5  TAMAN BUKIT INDAH",
+    "postal": 81200,
+    "tel": "07-2365419",
+    "fax": "07-2365419",
+    "operating_hours_mon___fri": "9.00AM-10.00PM",
+    "sat": "9.00AM-10.00PM",
+    "sun": "9.00AM-10.00PM",
+    "public_holiday": "9.00AM-10.00PM",
+    "location": {
+      "lat": -23.5014925,
+      "lng": -46.3969211
+    }
+  },
+  {
+    "area": "JOHOR BAHRU",
+    "clinic_code": "MGP000645",
+    "clinic": "KLINIK MOHAN",
+    "address": "NO 30A JALAN LEMBAH 3  TAMAN DESA JAYA",
+    "postal": 81100,
+    "tel": "07-3575970",
+    "fax": "07-3575970",
+    "operating_hours_mon___fri": "8.30AM-4.00PM \n6.00PM-9.30PM (CLOSED ON WED EVENING)",
+    "sat": "8.30AM-4.00PM \n6.00PM-9.30PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": -23.5113842,
+      "lng": -46.4002158
+    }
+  },
+  {
+    "area": "JOHOR BAHRU",
+    "clinic_code": "MGP000734",
+    "clinic": "KLINIK LAI & SURGERI",
+    "address": "72 JALAN INDAH 8/15, TAMAN BUKIT INDAH, JOHOR BAHRU",
+    "postal": 81200,
+    "tel": "07-2324686",
+    "fax": "07-2324686",
+    "operating_hours_mon___fri": "8.30AM-4.30PM,\n6.00PM-10.30PM (CLOSED ON TUESDAY)",
+    "sat": "8.30AM-4.30PM,\n6.00PM-10.30PM",
+    "sun": "8.30AM-4.30PM,\n6.00PM-10.30PM",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": -23.5014925,
+      "lng": -46.3969211
+    }
+  },
+  {
+    "area": "JOHOR BAHRU",
+    "clinic_code": "MGP000758",
+    "clinic": "KLINIK ADHAM CAWANGAN  MUTIARA RINI",
+    "address": "NO.19 JALAN JASA 25, PRESINT JASA, TAMAN MUTIARA RINI, SKUDAI JOHOR",
+    "postal": 81300,
+    "tel": "07-5570194",
+    "fax": "07-5570194",
+    "operating_hours_mon___fri": "24HOURS",
+    "sat": "24HOURS",
+    "sun": "24HOURS",
+    "public_holiday": "24HOURS",
+    "location": {
+      "lat": -23.5086259,
+      "lng": -46.3681443
+    }
+  },
+  {
+    "area": "JOHOR BAHRU",
+    "clinic_code": "MGP000689",
+    "clinic": "KLINIK MEDIVIRON  BUKIT INDAH",
+    "address": "87 JALAN INDAH 15/2 TAMAN BUKIT INDAH 81200\nJOHOR BAHRU",
+    "postal": 81200,
+    "tel": "07-2369993",
+    "fax": "07-2369993",
+    "operating_hours_mon___fri": "9.00AM-9.00PM",
+    "sat": "9.00AM-9.00PM",
+    "sun": "CLOSED",
+    "public_holiday": "9.00AM-9.00PM",
+    "location": {
+      "lat": -23.5014925,
+      "lng": -46.3969211
+    }
+  },
+  {
+    "area": "JOHOR BAHRU",
+    "clinic_code": "MGP000770",
+    "clinic": "KLINIK TEOH",
+    "address": "35 JALAN HARMONIUM  23/12, TAMAN DESA TEBRAU",
+    "postal": 81100,
+    "tel": "07-3518985",
+    "fax": "07-3528984",
+    "operating_hours_mon___fri": "7.30AM-12.00AM",
+    "sat": "7.30AM-12.00AM",
+    "sun": "7.30AM-12.00AM",
+    "public_holiday": "7.30AM-12.00AM",
+    "location": {
+      "lat": -23.5113842,
+      "lng": -46.4002158
+    }
+  },
+  {
+    "area": "JOHOR BAHRU",
+    "clinic_code": "MGP000782",
+    "clinic": "POLIKLINIK  CHU SDN BHD",
+    "address": "6 JALAN KEBUDAYAAN  1, TAMAN UNIVERSITI, SKUDAI, JOHOR",
+    "postal": 81300,
+    "tel": "07-5213188",
+    "fax": "07-5213188",
+    "operating_hours_mon___fri": "8.00AM-10.00PM (CLOSED ON FRIDAY)",
+    "sat": "8.00AM-10.00PM",
+    "sun": "8.00AM-10.00PM",
+    "public_holiday": "8.00AM-10.00PM",
+    "location": {
+      "lat": -23.5086259,
+      "lng": -46.3681443
+    }
+  },
+  {
+    "area": "JOHOR BAHRU",
+    "clinic_code": "MGP000773",
+    "clinic": "KLINIK FALCK BESTARI",
+    "address": "NO. 3 JALAN PERMAS UTARA, BANDAR BARU PERMAS JAYA, #G-23 BLOCK A, PERMAS MALL",
+    "postal": 81750,
+    "tel": "07-3862894",
+    "fax": "07-3862894",
+    "operating_hours_mon___fri": "8.00AM-10.00PM",
+    "sat": "8.00AM-10.00PM",
+    "sun": "CLOSED",
+    "public_holiday": "8.00AM-10.00PM",
+    "location": {
+    }
+  },
+  {
+    "area": "JOHOR BAHRU",
+    "clinic_code": "MGP000815",
+    "clinic": "KLINIK KELUARGA DAN SURGERI",
+    "address": "NO 39G SUSUR LARKIN PERDANA 1, JOHOR BAHRU",
+    "postal": 80350,
+    "tel": "07-2340512",
+    "fax": "07-2340512",
+    "operating_hours_mon___fri": "9.00AM-10.30PM",
+    "sat": "9.00AM-10.30PM",
+    "sun": "9.00AM-10.30PM",
+    "public_holiday": "9.00AM-10.30PM",
+    "location": {
+    }
+  },
+  {
+    "area": "JOHOR BAHRU",
+    "clinic_code": "MGP000769",
+    "clinic": "POLIKLINIK  MM FAMILYCARE  & SURGERI",
+    "address": "NO 5 JALAN MUTIARA 1/2, TAMAN MUTIARA MAS, SKUDAI",
+    "postal": 81300,
+    "tel": "07-5590851",
+    "fax": "07-5590851",
+    "operating_hours_mon___fri": "8.00AM-11.30PM",
+    "sat": "8.00AM-11.30PM",
+    "sun": "8.00AM-11.30PM",
+    "public_holiday": "8.00AM-11.30PM",
+    "location": {
+      "lat": -23.5086259,
+      "lng": -46.3681443
+    }
+  },
+  {
+    "area": "JOHOR BAHRU",
+    "clinic_code": "MGP000824",
+    "clinic": "KLINIK SIA DAN SURGERI",
+    "address": "NO.123 JALAN PAHLAWAN  1, TAMAN UNGKU TUN AMINAH, SKUDAI, JOHOR",
+    "postal": 81300,
+    "tel": "07-5563840",
+    "fax": "07-5564551",
+    "operating_hours_mon___fri": "MON-WED & FRI:\n9.00AM-9.30PM THU: 5.30PM-\n9.30PM",
+    "sat": "9.00AM-9.30PM",
+    "sun": "9.00AM-9.30PM",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": -23.5086259,
+      "lng": -46.3681443
+    }
+  },
+  {
+    "area": "JOHOR BAHRU",
+    "clinic_code": "MGP000822",
+    "clinic": "POLIKLINIK  CHU",
+    "address": "NO 4 JALAN NUSARIA 11/7, TAMAN NUSANTARA, GELANG PATAH, JOHOR",
+    "postal": 81550,
+    "tel": "017-\n8866808",
+    "operating_hours_mon___fri": "9.00AM-10.00PM",
+    "sat": "9.00AM-10.00PM",
+    "sun": "9.00AM-10.00PM",
+    "public_holiday": "9.00AM-10.00PM",
+    "location": {
+    }
+  },
+  {
+    "area": "BEDOK",
+    "clinic_code": "SGP000004",
+    "clinic": "ALLIANCE CLINIC & PARTNERS PTE LTD",
+    "address": "BLK 652 JALAN TENAGA #01-50",
+    "postal": 410652,
+    "tel": 68469585,
+    "fax": 68423821,
+    "operating_hours_mon___fri": "8.30AM-12.30PM,\n2.00PM-4.30PM,\n7.00PM-9.00PM (CLOSED ON FRI EVENING)",
+    "sat": "8.30AM-12.30PM",
+    "sun": "8.30AM-12.30PM",
+    "public_holiday": "9.00AM-12.00PM",
+    "location": {
+      "lat": 1.3325959,
+      "lng": 103.907832
+    }
+  },
+  {
+    "area": "BEDOK",
+    "clinic_code": "SGP000014",
+    "clinic": "BEDOK CLINIC & SURGERY",
+    "address": "BLK 17 BEDOK SOUTH ROAD #01-565",
+    "postal": 460017,
+    "tel": 62410943,
+    "fax": 64420966,
+    "operating_hours_mon___fri": "9.00AM-12.30PM   \n2.30PM-5.00PM   \n7.00PM-9.00PM",
+    "sat": "9.00AM-12.30PM",
+    "sun": "9.00AM-12.30PM",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.320175,
+      "lng": 103.935554
+    }
+  },
+  {
+    "area": "BEDOK",
+    "clinic_code": "SGP000015",
+    "clinic": "BEDOK FAMILY CLINIC & SURGERY",
+    "address": "BLK 218 BEDOK NORTH STREET 1 #01-17",
+    "postal": 460218,
+    "tel": 64410236,
+    "fax": 64410276,
+    "operating_hours_mon___fri": "8.00AM-12.45PM   \n2.00PM-4.45PM   \n6.00PM-11.45PM",
+    "sat": "8.00AM-12.45PM\n \n2.00PM-4.45PM   \n6.00PM-11.45PM",
+    "sun": "8.00AM-12.45PM\n \n2.00PM-4.45PM   \n6.00PM-11.45PM",
+    "public_holiday": "8.00AM-12.45PM\n \n2.00PM-4.45PM   \n6.00PM-11.45PM",
+    "location": {
+      "lat": 1.3274919,
+      "lng": 103.933686
+    }
+  },
+  {
+    "area": "BEDOK",
+    "clinic_code": "SGP000165",
+    "clinic": "HONG WHYE CLINIC",
+    "address": "BLK 412 BEDOK NORTH AVENUE 2 #01-144",
+    "postal": 460412,
+    "tel": 64445355,
+    "fax": 64416270,
+    "operating_hours_mon___fri": "9.00AM-12.30PM   \n2.00PM-4.30PM   \n7.00PM-9.00PM",
+    "sat": "9.00AM-12.30PM\n \n2.00PM-4.30PM",
+    "sun": "9.00AM-12.30PM",
+    "public_holiday": "9.00AM-12.30PM",
+    "location": {
+      "lat": 1.330059,
+      "lng": 103.930712
+    }
+  },
+  {
+    "area": "BEDOK",
+    "clinic_code": "SGP000173",
+    "clinic": "ISLAND GROUP CLINIC BEDOK",
+    "address": "BLK 25 NEW UPPER CHANGI ROAD #01-646",
+    "postal": 462025,
+    "tel": 62416666,
+    "fax": 62416102,
+    "operating_hours_mon___fri": "9.00AM-12.30PM   \n2.00PM-5.00PM   \n7.00PM-9.00PM",
+    "sat": "9.00AM-12.30PM",
+    "sun": "9.00AM-12.00PM",
+    "public_holiday": "9.00AM-12.00PM",
+    "location": {
+      "lat": 1.323454,
+      "lng": 103.9334499
+    }
+  },
+  {
+    "area": "BEDOK",
+    "clinic_code": "SGP000177",
+    "clinic": "JOY FAMILY CLINIC",
+    "address": "BLK 703 BEDOK RESERVOIR  ROAD #01-3506",
+    "postal": 470703,
+    "tel": 64422483,
+    "fax": 64428613,
+    "operating_hours_mon___fri": "MON, WED:  \n9.00AM-1.00PM,  \n6.30PM-8.30PM TUE, THU,  \nFRI: 9:00AM-\n1.00PM,  \n2.00PM-4.00PM",
+    "sat": "9.00AM-1.00PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "remarks": "Patient to arrive at least 15mins before closing",
+    "location": {
+      "lat": 1.337138,
+      "lng": 103.919774
+    }
+  },
+  {
+    "area": "BEDOK",
+    "clinic_code": "SGP000199",
+    "clinic": "LEE CLINIC",
+    "address": "BLK 123 BEDOK NORTH STREET 2 #01-156",
+    "postal": 460123,
+    "tel": 62418827,
+    "fax": 62414724,
+    "operating_hours_mon___fri": "9.00AM-1.00PM   \n3.00PM-5.30PM",
+    "sat": "9.00AM-1.00PM",
+    "sun": "9.00AM-12.00PM",
+    "public_holiday": "9.00AM-12.00PM",
+    "location": {
+      "lat": 1.329592,
+      "lng": 103.937359
+    }
+  },
+  {
+    "area": "BEDOK",
+    "clinic_code": "SGP000302",
+    "clinic": "S T MEDICAL CLINIC",
+    "address": "BLK 531 BEDOK NORTH STREET 3 #01-694",
+    "postal": 460531,
+    "tel": 64440159,
+    "fax": 64440159,
+    "operating_hours_mon___fri": "8.30AM-1.00PM,\n2.00PM-4.00PM,\n7.00PM-9.00PM (CLOSED ON FRI NITE)",
+    "sat": "8.30AM-12.00PM",
+    "sun": "9.30AM-12.00PM",
+    "public_holiday": "9.30AM-12.00PM",
+    "remarks": "TEMPORARY  CLOSURE FROM 20-25 OCTOBER\n2015.",
+    "location": {
+      "lat": 1.333222,
+      "lng": 103.926193
+    }
+  },
+  {
+    "area": "BEDOK",
+    "clinic_code": "SGP000285",
+    "clinic": "PHOON CLINIC & SURGERY",
+    "address": "BLK 632 BEDOK RESERVOIR  ROAD #01-828",
+    "postal": 470632,
+    "tel": 64452119,
+    "fax": 64487329,
+    "operating_hours_mon___fri": "9.00AM-12.00PM,\n2.00PM-4.00PM,\n7.00PM-8.30PM",
+    "sat": "9.00AM-12.00PM,\n2.00PM-4.00PM",
+    "sun": "9.00AM-11.30AM",
+    "public_holiday": "9.00AM-11.30AM",
+    "remarks": "TEMPORARY  CLOSURE FROM 15-17 OCT 2015\n& 13-17 DEC 2015.",
+    "location": {
+      "lat": 1.332034,
+      "lng": 103.91397
+    }
+  },
+  {
+    "area": "BEDOK",
+    "clinic_code": "SGP000339",
+    "clinic": "TEMASEK MEDICAL CLINIC",
+    "address": "BLK 86 BEDOK NORTH STREET 4 #01-177",
+    "postal": 460086,
+    "tel": 64430949,
+    "fax": 64430949,
+    "operating_hours_mon___fri": "8.30AM-12.30PM   \n2.00PM-4.00PM  \n7.00PM-9.00PM",
+    "sat": "8.30AM-12.30PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "remarks": "Closed on Fri afternoons",
+    "location": {
+      "lat": 1.332541,
+      "lng": 103.938978
+    }
+  },
+  {
+    "area": "BEDOK",
+    "clinic_code": "SGP000386",
+    "clinic": "WONG FAMILY CLINIC & SURGERY",
+    "address": "BLK 117 BEDOK RESERVOIR  ROAD #01-68",
+    "postal": 470117,
+    "tel": 68461613,
+    "fax": 68486925,
+    "operating_hours_mon___fri": "8.30AM-12.15PM,\n2.00PM-4.45PM,\n7.00PM-9.30PM (CLOSED ON FRI AFTERNOON)",
+    "sat": "8.30AM-12.30PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.331381,
+      "lng": 103.908646
+    }
+  },
+  {
+    "area": "BEDOK",
+    "clinic_code": "SGP000438",
+    "clinic": "BEDOK CENTRAL CLINIC PTE LTD",
+    "address": "BLK 214 BEDOK NORTH STREET 1 #01-161",
+    "postal": 460214,
+    "tel": 62424489,
+    "fax": 62418679,
+    "operating_hours_mon___fri": "8.30AM-2.30PM  \n5.30PM-9.30PM",
+    "sat": "8.30AM-1.00PM",
+    "sun": "9.30AM-12.30PM",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.326024,
+      "lng": 103.93243
+    }
+  },
+  {
+    "area": "BEDOK",
+    "clinic_code": "SGP000454",
+    "clinic": "CLINIC FARIDAH",
+    "address": "BLK 59 NEW UPPER CHANGI ROAD #01-1230",
+    "postal": 461059,
+    "tel": 64427480,
+    "fax": 64427480,
+    "operating_hours_mon___fri": "8.30AM-12.00PM,\n2.00PM-4.00PM",
+    "sat": "8.30AM-12.00PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.324047,
+      "lng": 103.940685
+    }
+  },
+  {
+    "area": "BEDOK",
+    "clinic_code": "SGP000536",
+    "clinic": "HEALTHCREST MEDICAL CENTRE",
+    "address": "349 BEDOK ROAD",
+    "postal": 469536,
+    "tel": 64430642,
+    "fax": 62440814,
+    "operating_hours_mon___fri": "8.00AM-1.00PM   \n7.00PM-9.30PM (CLOSED ON FRI EVENING)",
+    "sat": "8.00AM-1.00PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.3314839,
+      "lng": 103.94732
+    }
+  },
+  {
+    "area": "BEDOK",
+    "clinic_code": "SGP000561",
+    "clinic": "CENTRAL CLINIC & SURGERY (BEDOK)",
+    "address": "BLK 219 BEDOK CENTRAL #01-124",
+    "postal": 460219,
+    "tel": 62476122,
+    "fax": 62476123,
+    "operating_hours_mon___fri": "24 HOURS",
+    "sat": "24 HOURS",
+    "sun": "24 HOURS",
+    "public_holiday": "24 HOURS",
+    "location": {
+      "lat": 1.324961,
+      "lng": 103.932968
+    }
+  },
+  {
+    "area": "BEDOK",
+    "clinic_code": "SGP000719",
+    "clinic": "BEDOK DAY & NIGHT CLINIC",
+    "address": "BLK 418 BEDOK NORTH AVENUE 2 #01-85",
+    "postal": 460418,
+    "tel": 64441104,
+    "fax": 64441104,
+    "operating_hours_mon___fri": "MON/TUE/THU:\n9.00AM-12.30PM,\n1.30PM-3.30PM,\n6.30PM-9.30PM WED: 9.00AM-\n12.30PM, 6.30PM-\n9.30PM FRI: 9.00AM-\n12.30PM, 6.30PM-\n8.30PM",
+    "sat": "9.00AM-12.30PM",
+    "sun": "9.30AM-12.30PM,\n6.30PM-8.30PM",
+    "public_holiday": "9.30AM-12.30PM",
+    "location": {
+      "lat": 1.328627,
+      "lng": 103.92989
+    }
+  },
+  {
+    "area": "BENCOOLEN",
+    "clinic_code": "SGP000675",
+    "clinic": "DR TAN AND PARTNERS",
+    "address": "180 BENCOOLEN  STREET #02-20",
+    "postal": 189646,
+    "tel": 68844119,
+    "fax": 68844187,
+    "operating_hours_mon___fri": "9.00AM-5.00PM",
+    "sat": "CLOSED",
+    "sun": "9.00AM-1.00PM",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.3018829,
+      "lng": 103.853117
+    }
+  },
+  {
+    "area": "BENDEMEER",
+    "clinic_code": "SGP000280",
+    "clinic": "PARIQUA CLINIC",
+    "address": "BLK 47 BENDEMEER  ROAD #01-1463",
+    "postal": 330047,
+    "tel": 62921351,
+    "fax": 62921351,
+    "operating_hours_mon___fri": "8.30AM-12.00PM,\n2.00PM-4.30PM,\n7.00PM-9.00PM",
+    "sat": "8.30AM-12.00PM",
+    "sun": "8.30AM-12.00PM",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.323265,
+      "lng": 103.866596
+    }
+  },
+  {
+    "area": "BISHAN",
+    "clinic_code": "SGP000205",
+    "clinic": "LIFELINE BISHAN MEDICAL CLINIC",
+    "address": "BLK 501 BISHAN STREET 11 #01-376",
+    "postal": 570501,
+    "tel": 62598969,
+    "fax": 63582510,
+    "operating_hours_mon___fri": "8.30AM-12.30PM,\n2.00PM-4.30PM,\n7.00PM-9.00PM",
+    "sat": "9.00AM-12.00PM",
+    "sun": "9.00AM-12.00PM",
+    "public_holiday": "9.00AM-12.00PM",
+    "location": {
+      "lat": 1.348388,
+      "lng": 103.849097
+    }
+  },
+  {
+    "area": "BISHAN",
+    "clinic_code": "SGP000178",
+    "clinic": "RADLINK MEDICARE (BISHAN) PTE LTD",
+    "address": "BLK 503 BISHAN STREET 11 #01-464",
+    "postal": 570503,
+    "tel": 62557545,
+    "fax": 63582830,
+    "operating_hours_mon___fri": "9.00AM-1.00PM   \n2.00PM-4.00PM   \n7.30PM-9.30PM",
+    "sat": "9.00AM-1.00PM",
+    "sun": "9.00AM-12.00PM",
+    "public_holiday": "CLOSED",
+    "remarks": "Patient to arrive at least 15mins before closing",
+    "location": {
+      "lat": 1.349031,
+      "lng": 103.848046
+    }
+  },
+  {
+    "area": "BISHAN",
+    "clinic_code": "SGP000009",
+    "clinic": "ASPEN CLINIC",
+    "address": "BLK 283 BISHAN STREET 22 #01-185",
+    "postal": 570283,
+    "tel": 64553829,
+    "fax": 64567217,
+    "operating_hours_mon___fri": "9.00AM-12.30PM,\n2.00PM-4.30PM,\n7.00PM-9.00PM (CLOSED TUE & FRI NIGHT)",
+    "sat": "9.00AM-12.30PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.358924,
+      "lng": 103.844074
+    }
+  },
+  {
+    "area": "BISHAN",
+    "clinic_code": "SGP000330",
+    "clinic": "TAN'S T&T CLINIC AND SURGERY",
+    "address": "BLK 152 BISHAN STREET 11 #01-213",
+    "postal": 570152,
+    "tel": 63531133,
+    "operating_hours_mon___fri": "8.30AM-12.30PM,\n2.00PM-4.30PM,\n7.00PM-9.00PM (CLOSED ON WED AFTERNOONS)",
+    "sat": "8.30AM-1.00PM",
+    "sun": "9.00AM-12.00PM",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.345631,
+      "lng": 103.854692
+    }
+  },
+  {
+    "area": "BOON KENG",
+    "clinic_code": "SGP000326",
+    "clinic": "TAN-TEOH  CLINIC & SURGERY",
+    "address": "BLK 101 TOWNER ROAD #01-216",
+    "postal": 322101,
+    "tel": 62992292,
+    "fax": 62995662,
+    "operating_hours_mon___fri": "8.30AM-12.30PM   \n2.00PM-6.00PM   \n7.00PM-9.00PM",
+    "sat": "8.30AM-12.30PM\n \n2.00PM-4.00PM",
+    "sun": "8.30AM-12.00PM",
+    "public_holiday": "8.30AM-12.00PM",
+    "remarks": "Patient to arrive at least 15 mins before closing",
+    "location": {
+      "lat": 1.319673,
+      "lng": 103.861129
+    }
+  },
+  {
+    "area": "BOON LAY",
+    "clinic_code": "SGP000058",
+    "clinic": "COMMUNITY  MEDICAL CLINIC",
+    "address": "BLK 221 BOON LAY PLACE #02-160 BOON LAY SHOPPING CENTRE",
+    "postal": 640221,
+    "tel": 62610672,
+    "fax": 62610672,
+    "operating_hours_mon___fri": "8.30AM-12.00PM   \n1.30PM-4.00PM  \n5.30PM-8.00PM",
+    "sat": "8.30AM-12.00PM",
+    "sun": "8.30AM-12.00PM",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.346517,
+      "lng": 103.712422
+    }
+  },
+  {
+    "area": "BOON LAY",
+    "clinic_code": "SGP000023",
+    "clinic": "BOON LAY CLINIC & SURGERY",
+    "address": "BLK 221 BOON LAY PLACE #01-240/244  BOON LAY SHOPPING CENTRE",
+    "postal": 640221,
+    "tel": 62655247,
+    "fax": 62680866,
+    "operating_hours_mon___fri": "9.00AM-12.30PM   \n2.00PM-5.00PM   \n7.00PM-9.00PM",
+    "sat": "9.00AM-1.00PM",
+    "sun": "9.00AM-1.00PM",
+    "public_holiday": "9.00AM-1.00PM",
+    "location": {
+      "lat": 1.346517,
+      "lng": 103.712422
+    }
+  },
+  {
+    "area": "BOON LAY",
+    "clinic_code": "SGP000664",
+    "clinic": "BLESS MEDICAL CENTRE",
+    "address": "BLK 221 BOON LAY PLACE #01-108 BOON LAY SHOPPING CENTRE",
+    "postal": 640221,
+    "tel": 62664119,
+    "fax": 62667855,
+    "operating_hours_mon___fri": "8.00AM-9.30PM",
+    "sat": "8.00AM-9.30PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.346517,
+      "lng": 103.712422
+    }
+  },
+  {
+    "area": "BOON LAY",
+    "clinic_code": "SGP000694",
+    "clinic": "MY DOCTOR @ LAKESIDE",
+    "address": "BLK 201 BOON LAY WAY #01-05 LAKESIDE MRT STATION",
+    "postal": 649845,
+    "tel": 62657270,
+    "fax": 62652170,
+    "operating_hours_mon___fri": "MON-THU: 8.30AM-\n8.30PM   FRI:\n8.30AM-5.00PM",
+    "sat": "8.30AM-5.00PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.344394,
+      "lng": 103.720999
+    }
+  },
+  {
+    "area": "BOON LAY",
+    "clinic_code": "SGP000699",
+    "clinic": "PIONEER MEDICARE",
+    "address": "3 SOON LEE STREET #01-08 PIONEER JUNCTION",
+    "postal": 627606,
+    "tel": 63397422,
+    "fax": 63397427,
+    "operating_hours_mon___fri": "8.00AM-1.00PM,\n2.00PM-6.00PM",
+    "sat": "8.00AM-1.00PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+    }
+  },
+  {
+    "area": "BOON LAY",
+    "clinic_code": "SGP000712",
+    "clinic": "ONECARE CLINIC BOON LAY",
+    "address": "221 BOON LAY PLACE #01-152 BOON LAY SHOPPING CENTRE",
+    "postal": 640221,
+    "tel": 62611580,
+    "fax": 62611584,
+    "operating_hours_mon___fri": "8.00AM-4.00PM,\n5.00PM-11.00PM",
+    "sat": "8.00AM-4.00PM,\n5.00PM-11.00PM",
+    "sun": "8.00AM-4.00PM,\n5.00PM-11.00PM",
+    "public_holiday": "8.00AM-4.00PM,\n5.00PM-11.00PM",
+    "location": {
+      "lat": 1.346517,
+      "lng": 103.712422
+    }
+  },
+  {
+    "area": "BUANGKOK",
+    "clinic_code": "SGP000708",
+    "clinic": "SHENTON MEDICAL GROUP (BUANGKOK)",
+    "address": "10 SENGKANG  CENTRAL #01-04 BUANGKOK BUILDING NEL MRT STATION",
+    "postal": 545061,
+    "tel": 63153671,
+    "fax": 63158190,
+    "operating_hours_mon___fri": "8.30AM-1.00PM,\n2.00PM-5.30PM,\n6.30PM-9.00PM (CLOSED ON FRI NIGHT)",
+    "sat": "8.30AM-12.30PM",
+    "sun": "8.30AM-12.30PM",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.382662,
+      "lng": 103.893007
+    }
+  },
+  {
+    "area": "BUGIS",
+    "clinic_code": "SGP000184",
+    "clinic": "KHOO FAMILY CLINIC & SURGERY",
+    "address": "BLK 2 BEACH ROAD #01-4781",
+    "postal": 190002,
+    "tel": 62955955,
+    "fax": 62955955,
+    "operating_hours_mon___fri": "8.30AM-12.30PM   \n2.00PM-4.00PM   \n6.30PM-9.00PM",
+    "sat": "8.30AM-12.30PM",
+    "sun": "9.00AM-12.00PM",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.30386,
+      "lng": 103.864834
+    }
+  },
+  {
+    "area": "BUKIT BATOK",
+    "clinic_code": "SGP000186",
+    "clinic": "KHOR CLINIC & SURGERY",
+    "address": "BLK 424 BUKIT BATOK WEST AVENUE 2 #01-237",
+    "postal": 650424,
+    "tel": 65631285,
+    "fax": 65617221,
+    "operating_hours_mon___fri": "8.30AM-12.00PM,\n1.00PM-3.00PM,\n7.00PM-8.30PM",
+    "sat": "8.30AM-12.00PM",
+    "sun": "CLOSED",
+    "public_holiday": "9.00AM-12.00PM",
+    "location": {
+      "lat": 1.361923,
+      "lng": 103.74553
+    }
+  },
+  {
+    "area": "BUKIT BATOK",
+    "clinic_code": "SGP000026",
+    "clinic": "BUKIT BATOK MEDICAL CLINIC",
+    "address": "BLK 207 BUKIT BATOK STREET 21 #01-114",
+    "postal": 650207,
+    "tel": 65603311,
+    "fax": 65692400,
+    "operating_hours_mon___fri": "9.00AM-12.30PM   \n2.00PM-4.30PM   \n7.00PM-9.00PM (CLOSED ON WED EVENING)",
+    "sat": "9.00AM-12.30PM",
+    "sun": "9.00AM-12.00PM",
+    "public_holiday": "9.00AM-12.00PM",
+    "remarks": "Closed on Christmas and Chinese New Year's Day",
+    "location": {
+      "lat": 1.3462209,
+      "lng": 103.749347
+    }
+  },
+  {
+    "area": "BUKIT BATOK",
+    "clinic_code": "SGP000654",
+    "clinic": "HISEMAINN  MEDICAL CLINIC (BUKIT BATOK)",
+    "address": "289E BUKIT BATOK STREET 25 #01-160",
+    "postal": 654289,
+    "tel": 65691375,
+    "fax": 65667565,
+    "operating_hours_mon___fri": "8.30AM-3.00PM,\n6.30PM-9.30PM",
+    "sat": "8.30AM-1.00PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "remarks": "LAST REGISTRATION IS\n10 MINS BEFORE CLOSING TIME.",
+    "location": {
+      "lat": 1.3442639,
+      "lng": 103.759165
+    }
+  },
+  {
+    "area": "BUKIT BATOK",
+    "clinic_code": "SGP000196",
+    "clinic": "LAI MEDICAL CLINIC PTE LTD",
+    "address": "BLK 213 BUKIT BATOK STREET 21 #01-209",
+    "postal": 650213,
+    "tel": 65632935,
+    "fax": 65638276,
+    "operating_hours_mon___fri": "8.30AM-12.30PM,\n2.00PM-4.00PM,\n6.30PM-8.30PM (CLOSED ON WED AFTERNOON  & NIGHT AND FRI AFTERNOON)",
+    "sat": "8.30AM-12.30PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.346886,
+      "lng": 103.752431
+    }
+  },
+  {
+    "area": "BUKIT BATOK",
+    "clinic_code": "SGP000211",
+    "clinic": "LIFELINE NEIGHBOURHOOD MEDICAL CLINIC PTE LTD",
+    "address": "BLK 280 BUKIT BATOK EAST AVENUE 3 #01-333",
+    "postal": 650280,
+    "tel": 65678316,
+    "fax": 65678316,
+    "operating_hours_mon___fri": "9.00AM-12.30PM,\n2.00PM-4.00PM,\n6.30PM-8.30PM (CLOSED ON FRI AFTERNOON)",
+    "sat": "9.00AM-12.00PM",
+    "sun": "9.00AM-12.00PM",
+    "public_holiday": "9.00AM-12.00PM",
+    "remarks": "PLEASE CALL TO CONFIRM IF THE CLINIC IS OPENED ON PUBLIC HOLIDAYS.",
+    "location": {
+      "lat": 1.347743,
+      "lng": 103.757137
+    }
+  },
+  {
+    "area": "BUKIT BATOK",
+    "clinic_code": "SGP000365",
+    "clinic": "THONG HOE CLINIC",
+    "address": "BLK 151 BUKIT BATOK STREET 11 #01-252",
+    "postal": 650151,
+    "tel": 65653866,
+    "fax": 65607233,
+    "operating_hours_mon___fri": "9.00AM-12.00PM,\n2.30PM-4.30PM,\n7.30PM-9.00PM (CLOSED ON FRI AFTERNOON  & NIGHT)",
+    "sat": "9.00AM-12.00PM",
+    "sun": "9.00AM-12.00PM",
+    "public_holiday": "9.00AM-12.00PM",
+    "location": {
+      "lat": 1.348739,
+      "lng": 103.744243
+    }
+  },
+  {
+    "area": "BUKIT BATOK",
+    "clinic_code": "SGP000317",
+    "clinic": "STARCARE CLINIC & SURGERY PTE LTD",
+    "address": "BLK 207 BUKIT BATOK STREET 21 #01-108",
+    "postal": 650207,
+    "tel": 65616878,
+    "fax": 65617698,
+    "operating_hours_mon___fri": "8.30AM-12.00PM  \n2.00PM-4.00PM   \n7.30PM-10.00PM (CLOSED ON WED AFTERNOONS  AND NIGHTS)",
+    "sat": "8.30AM-12.00PM",
+    "sun": "8.30AM-12.00PM",
+    "public_holiday": "8.30AM-12.00PM",
+    "remarks": "CLOSED ON WED AFTERNOONS  AND NIGHTS",
+    "location": {
+      "lat": 1.3462209,
+      "lng": 103.749347
+    }
+  },
+  {
+    "area": "BUKIT BATOK",
+    "clinic_code": "SGP000336",
+    "clinic": "TEMASEK MEDICAL CENTRE",
+    "address": "BLK 413 BUKIT BATOK WEST AVENUE 4 #01-214",
+    "postal": 650413,
+    "tel": 65656556,
+    "fax": 65665483,
+    "operating_hours_mon___fri": "8.30AM-1.00PM\n2.00PM-5.00PM",
+    "sat": "8.30AM-12.30PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "remarks": "LAST REGISTRATION\n15 MINS BEFORE CLOSING TIME.",
+    "location": {
+      "lat": 1.363734,
+      "lng": 103.746714
+    }
+  },
+  {
+    "area": "BUKIT BATOK",
+    "clinic_code": "SGP000541",
+    "clinic": "FRONTIER MEDICAL ASSOCIATES",
+    "address": "BLK 528 BUKIT BATOK STREET 51 #01-64",
+    "postal": 650528,
+    "tel": 65665773,
+    "fax": 65665747,
+    "operating_hours_mon___fri": "8.30AM-12.30PM",
+    "sat": "8.30AM-12.30PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.356678,
+      "lng": 103.750976
+    }
+  },
+  {
+    "area": "BUKIT BATOK",
+    "clinic_code": "SGP000696",
+    "clinic": "PHOENIX MEDICAL GROUP",
+    "address": "4 HILLVIEW RISE #02-20 HILLV2",
+    "postal": 667979,
+    "tel": 67107157,
+    "fax": 67107167,
+    "operating_hours_mon___fri": "9.00AM-9.00PM",
+    "sat": "9.00AM-9.00PM",
+    "sun": "9.00AM-9.00PM",
+    "public_holiday": "CLOSED",
+    "location": {
+    }
+  },
+  {
+    "area": "BUKIT BATOK",
+    "clinic_code": "SGP000735",
+    "clinic": "ONECARE CLINIC BUKIT BATOK",
+    "address": "BLK 630 BUKIT BATOK CENTRAL #01-148",
+    "postal": 650630,
+    "tel": 65636913,
+    "fax": 65636973,
+    "operating_hours_mon___fri": "8.00AM-4.00PM,\n5.00PM-10.00PM",
+    "sat": "8.00AM-4.00PM,\n5.00PM-10.00PM",
+    "sun": "8.00AM-4.00PM,\n5.00PM-10.00PM",
+    "public_holiday": "8.00AM-4.00PM,\n5.00PM-10.00PM",
+    "location": {
+      "lat": 1.349812,
+      "lng": 103.7499349
+    }
+  },
+  {
+    "area": "BUKIT MERAH",
+    "clinic_code": "SGP000121",
+    "clinic": "FRIENDSHIP  CLINIC & SURGERY",
+    "address": "BLK 1 JALAN BUKIT MERAH #01-4524",
+    "postal": 150001,
+    "tel": 62726628,
+    "fax": 64760848,
+    "operating_hours_mon___fri": "MON-THU: 8.30AM-\n1.00PM, 5.00PM-\n7.00PM   FRI:\n8.30AM-1.00PM,\n2.00PM-4.00PM",
+    "sat": "8.30AM-1.00PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.28649,
+      "lng": 103.8081
+    }
+  },
+  {
+    "area": "BUKIT MERAH",
+    "clinic_code": "SGP000027",
+    "clinic": "BUKIT MERAH CENTRAL MEDICAL CENTRE",
+    "address": "BLK 165 BUKIT MERAH CENTRAL #03-3683",
+    "postal": 150165,
+    "tel": 62735455,
+    "fax": 62748846,
+    "operating_hours_mon___fri": "8.30AM-1.00PM,\n2.00PM-5.00PM",
+    "sat": "8.30AM-1.00PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.28344,
+      "lng": 103.816199
+    }
+  },
+  {
+    "area": "BUKIT MERAH",
+    "clinic_code": "SGP000079",
+    "clinic": "DRS KOO, KOH & ASSOCIATES  PTE LTD",
+    "address": "BLK 163 BUKIT MERAH CENTRAL #01-3609",
+    "postal": 150163,
+    "tel": 62712395,
+    "fax": 62712396,
+    "operating_hours_mon___fri": "8.30AM-1.30PM,\n2.30PM-4.30PM,\n7.00PM-9.00PM (CLOSED ON TUE/THU/FRI NIGHTS)",
+    "sat": "9.00AM-12.30PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.284152,
+      "lng": 103.816987
+    }
+  },
+  {
+    "area": "BUKIT MERAH",
+    "clinic_code": "SGP000308",
+    "clinic": "SHALOM CLINIC & SURGERY",
+    "address": "BLK 123 BUKIT MERAH LANE 1 #01-104",
+    "postal": 150123,
+    "tel": 62780270,
+    "fax": 62784215,
+    "operating_hours_mon___fri": "9.00AM-12.30PM,\n2.00PM-5.30PM",
+    "sat": "9.00AM-12.30PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.286675,
+      "lng": 103.803776
+    }
+  },
+  {
+    "area": "BUKIT MERAH",
+    "clinic_code": "SGP000201",
+    "clinic": "LEONG CLINIC",
+    "address": "BLK 63B LENGKOK BAHRU #01-366",
+    "postal": 152063,
+    "tel": 64760572,
+    "fax": 64766693,
+    "operating_hours_mon___fri": "9.00AM-1.00PM   \n3.00PM-7.00PM",
+    "sat": "9.00AM-1.00PM",
+    "sun": "9.30AM-12.30PM",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.289137,
+      "lng": 103.815171
+    }
+  },
+  {
+    "area": "BUKIT MERAH",
+    "clinic_code": "SGP000529",
+    "clinic": "LUM CLINIC & SURGERY",
+    "address": "BLK 109 BUKIT PURMEI ROAD #01-149",
+    "postal": 90109,
+    "tel": 62784827,
+    "fax": 62784827,
+    "operating_hours_mon___fri": "MON/WED/FRI: \n9.00AM-12.30PM \n2.00PM-4.30PM \n6.30PM-8.30PM    TUE/THU: \n9.00AM-12.30PM \n2.00PM-7.30PM",
+    "sat": "9.00AM-12.30PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "remarks": "Closed on Tue & Thu nights",
+    "location": {
+      "lat": 1.273916,
+      "lng": 103.825288
+    }
+  },
+  {
+    "area": "BUKIT MERAH",
+    "clinic_code": "SGP000257",
+    "clinic": "NEW HEALTH FAMILY CLINIC PTE LTD",
+    "address": "BLK 108 DEPOT ROAD #01-08 DEPOT HEIGHTS SHOPPING CENTRE",
+    "postal": 100108,
+    "tel": 62786200,
+    "fax": 62767140,
+    "operating_hours_mon___fri": "MON-FRI: 8.00AM-\n1.00PM   MON & WED: 6.00PM-\n7.30PM   TUE & THU: 5.30PM-\n7.30PM",
+    "sat": "8.00AM-11.30AM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "remarks": "NO DOCTOR FROM 15-\n21 OCT 2015.",
+    "location": {
+      "lat": 1.2812349,
+      "lng": 103.8103409
+    }
+  },
+  {
+    "area": "BUKIT MERAH",
+    "clinic_code": "SGP000553",
+    "clinic": "DRS CHUA & PARTNERS (AV) PTE LTD",
+    "address": "BLK 125 BUKIT MERAH LANE 1 #01-174",
+    "postal": 150125,
+    "tel": 63773179,
+    "fax": 63773169,
+    "operating_hours_mon___fri": "MON-FRI: 8.30AM-\n12.30PM, 2.00PM-\n5.00PM   MON:\n7.00PM-9.00PM",
+    "sat": "8.30AM-2.30PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.285815,
+      "lng": 103.802953
+    }
+  },
+  {
+    "area": "BUKIT MERAH",
+    "clinic_code": "SGP000621",
+    "clinic": "FRONTIER MEDICAL ASSOCIATES  (HAVELOCK)",
+    "address": "BLK 51 HAVELOCK  ROAD #01-02",
+    "postal": 161051,
+    "tel": 66843770,
+    "fax": 66843771,
+    "operating_hours_mon___fri": "8.30AM-2.00PM,\n6.00PM-10.00PM",
+    "sat": "8.30AM-12.30PM",
+    "sun": "8.30AM-12.30PM",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.289917,
+      "lng": 103.827693
+    }
+  },
+  {
+    "area": "BUKIT MERAH",
+    "clinic_code": "SGP000697",
+    "clinic": "KL NG MEDICAL CLINIC PTE LTD",
+    "address": "BLK 1 JALAN BUKIT MERAH #01-4530",
+    "postal": 150001,
+    "tel": 62712554,
+    "fax": 62712558,
+    "operating_hours_mon___fri": "8.30AM-4.00PM,\n6.30PM-8.30PM (CLOSED ON FRI NIGHT)",
+    "sat": "8.30AM-12.30PM",
+    "sun": "9.00AM-12.30PM",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.28649,
+      "lng": 103.8081
+    }
+  },
+  {
+    "area": "BUKIT PANJANG",
+    "clinic_code": "SGP000636",
+    "clinic": "NUHEALTH  MEDICAL CENTRE",
+    "address": "1 WOODLANDS  ROAD #01-23 JUNCTION 10",
+    "postal": 677899,
+    "tel": 62199298,
+    "fax": 62199298,
+    "operating_hours_mon___fri": "8.30AM-1.00PM,\n2.00PM-4.30PM,\n6.30PM-10.00PM",
+    "sat": "8.30AM-1.00PM,\n2.00PM-4.30PM,\n6.30PM-10.00PM",
+    "sun": "8.30AM-1.00PM,\n2.00PM-4.30PM,\n6.30PM-10.00PM",
+    "public_holiday": "8.30AM-1.00PM,\n2.00PM-4.30PM",
+    "location": {
+      "lat": 1.37978,
+      "lng": 103.760383
+    }
+  },
+  {
+    "area": "BUKIT PANJANG",
+    "clinic_code": "SGP000206",
+    "clinic": "LIFELINE BUKIT PANJANG MEDICAL CLINIC",
+    "address": "BLK 103 GANGSA ROAD #01-37",
+    "postal": 670103,
+    "tel": 67605788,
+    "fax": 67630717,
+    "operating_hours_mon___fri": "8.30AM-12.00PM,\n2.00PM-4.00PM,\n6.30PM-9.00PM (CLOSED ON TUE & FRI NIGHT)",
+    "sat": "8.30AM-12.00PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.378629,
+      "lng": 103.768434
+    }
+  },
+  {
+    "area": "BUKIT PANJANG",
+    "clinic_code": "SGP000046",
+    "clinic": "CHONG & LIM FAMILY CLINIC",
+    "address": "BLK 103 GANGSA ROAD #01-39",
+    "postal": 670103,
+    "tel": 67626881,
+    "fax": 68937584,
+    "operating_hours_mon___fri": "8.30AM-12.30PM   \n2.00PM-4.00PM  \n6.30PM-9.00PM",
+    "sat": "8.30AM-12.30PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "remarks": "Closed on Fri afternoons and evenings",
+    "location": {
+      "lat": 1.378629,
+      "lng": 103.768434
+    }
+  },
+  {
+    "area": "BUKIT PANJANG",
+    "clinic_code": "SGP000032",
+    "clinic": "CASHEW MEDICAL & SURGERY",
+    "address": "BLK 445 FAJAR ROAD #02-522 FAJAR SHOPPING CENTRE",
+    "postal": 670445,
+    "tel": 67634255,
+    "fax": 67630802,
+    "operating_hours_mon___fri": "8.00AM-4.00PM   \n6.30PM-9.00PM",
+    "sat": "8.00AM-12.00PM\n \n6.30PM-9.00PM",
+    "sun": "8.00AM-12.00PM",
+    "public_holiday": "8.00AM-12.00PM",
+    "remarks": "Patients to be registered 30 mins before closing",
+    "location": {
+      "lat": 1.383802,
+      "lng": 103.770558
+    }
+  },
+  {
+    "area": "BUKIT PANJANG",
+    "clinic_code": "SGP000524",
+    "clinic": "HEALTHSPRINGS MEDICAL CLINIC",
+    "address": "BLK 524A JELAPANG ROAD #02-02 GREENRIDGE SHOPPING CENTRE",
+    "postal": 671524,
+    "tel": 68926681,
+    "fax": 68920061,
+    "operating_hours_mon___fri": "MON-WED: 8.00AM-\n4.00PM, THU-FRI:\n8.00AM-3.00PM, MON-THU: 6.00PM-\n9.30PM",
+    "sat": "8.30AM-1.00PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "remarks": "LAST REGISTRATION IS\n30MINS BEFORE CLOSING TIME.",
+    "location": {
+      "lat": 1.384839,
+      "lng": 103.766361
+    }
+  },
+  {
+    "area": "BUKIT TIMAH",
+    "clinic_code": "SGP000629",
+    "clinic": "ONEDOCTORS FAMILY CLINIC (HOLLAND VILLAGE)",
+    "address": "253 HOLLAND AVENUE #02-01",
+    "postal": 278982,
+    "tel": 64698938,
+    "fax": 64671682,
+    "operating_hours_mon___fri": "9.00AM-3.00PM,\n5.00PM-10.00PM (CLOSED ON FRI EVENING)",
+    "sat": "9.00AM-3.00PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.3113459,
+      "lng": 103.795699
+    }
+  },
+  {
+    "area": "BUKIT TIMAH",
+    "clinic_code": "SGP000054",
+    "clinic": "CHUNGKIAW  CLINIC",
+    "address": "118 UPPER BUKIT TIMAH ROAD  GOH & GOH BUILDING",
+    "postal": 588173,
+    "tel": 64662255,
+    "fax": 64676480,
+    "operating_hours_mon___fri": "MON/WED/FRI:\n9.00AM-12.00PM,\n2.00PM-5.30PM TUE: 9.00AM-\n12.00PM, 2.00PM-\n4.00PM   THU:\n9.00AM-12.00PM",
+    "sat": "CLOSED",
+    "sun": "9.00AM-12.00PM",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.340902,
+      "lng": 103.775963
+    }
+  },
+  {
+    "area": "BUKIT TIMAH",
+    "clinic_code": "SGP000028",
+    "clinic": "BUKIT TIMAH FAMILY CLINIC & SURGERY",
+    "address": "897A BUKIT TIMAH ROAD",
+    "postal": 589617,
+    "tel": 64698816,
+    "fax": 64698817,
+    "operating_hours_mon___fri": "8.30AM-12.30PM   \n2.00PM-5.00PM   \n7.00PM-9.00PM",
+    "sat": "8.30AM-12.30PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.333394,
+      "lng": 103.790179
+    }
+  },
+  {
+    "area": "BUKIT TIMAH",
+    "clinic_code": "SGP000040",
+    "clinic": "CHANG CLINIC",
+    "address": "1 JALAN ANAK BUKIT #B1-08/10 BUKIT TIMAH PLAZA",
+    "postal": 588996,
+    "tel": 64663811,
+    "fax": 64670780,
+    "operating_hours_mon___fri": "8.30AM-12.30PM   \n2.00PM-6.00PM",
+    "sat": "8.30AM-12.30PM",
+    "sun": "8.30AM-12.00PM",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.339001,
+      "lng": 103.778958
+    }
+  },
+  {
+    "area": "BUKIT TIMAH",
+    "clinic_code": "SGP000223",
+    "clinic": "MANDARIN  MEDICAL CENTRE",
+    "address": "66 JALAN JURONG KECHIL  JK BUILDING",
+    "postal": 598586,
+    "tel": 64667822,
+    "fax": 64664353,
+    "operating_hours_mon___fri": "8.30AM-12.00PM,\n2.00PM-4.30PM (CLOSED ON WED AFTERNOON)",
+    "sat": "8.30AM-12.00PM",
+    "sun": "8.30AM-12.00PM",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.340323,
+      "lng": 103.773689
+    }
+  },
+  {
+    "area": "BUKIT TIMAH",
+    "clinic_code": "SGP000347",
+    "clinic": "THE CORONATION  CLINIC",
+    "address": "587 BUKIT TIMAH ROAD #02-01 CORONATION SHOPPING PLAZA",
+    "postal": 269707,
+    "tel": 64686768,
+    "fax": 64686768,
+    "operating_hours_mon___fri": "9.00AM-12.30PM,\n2.00PM-5.00PM",
+    "sat": "9.00AM-12.30PM",
+    "sun": "9.30AM-12.00PM",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.323784,
+      "lng": 103.810236
+    }
+  },
+  {
+    "area": "BUKIT TIMAH",
+    "clinic_code": "SGP000614",
+    "clinic": "RIDGEWOOD  MEDICAL CLINIC",
+    "address": "5 RIDGEWOOD  CLOSE UNIT G4 RIDGEWOOD CONDOMINIUM",
+    "postal": 276696,
+    "tel": 64691666,
+    "fax": 64683575,
+    "operating_hours_mon___fri": "9.00AM-12.30PM,\n2.30PM-5.30PM (CLOSED ON WED & FRI AFTERNOON)",
+    "sat": "9.00AM-12.30PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.316644,
+      "lng": 103.7789729
+    }
+  },
+  {
+    "area": "BUKIT TIMAH",
+    "clinic_code": "SGP000618",
+    "clinic": "HEALTHCARE  MEDICAL @ RAILMALL",
+    "address": "446 UPPER BUKIT TIMAH ROAD  RAIL MALL",
+    "postal": 678067,
+    "tel": 67655733,
+    "fax": 67655377,
+    "operating_hours_mon___fri": "8.30AM-12.30PM,\n2.00PM-4.30PM (CLOSED ON FRI AFTERNOON),\n6.30PM-9.00PM",
+    "sat": "9.30AM-12.30PM",
+    "sun": "9.30AM-12.30PM",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.359595,
+      "lng": 103.767493
+    }
+  },
+  {
+    "area": "BUONA VISTA",
+    "clinic_code": "SGP000379",
+    "clinic": "VISTA MEDICAL CENTRE PTE LTD",
+    "address": "2 PANDAN VALLEY #01-211 ACACIA COURT",
+    "postal": 597626,
+    "tel": 67780822,
+    "fax": 67780722,
+    "operating_hours_mon___fri": "9.00AM-12.30PM,\n2.00PM-4.00PM,\n7.00PM-9.00PM (CLOSED ON WED & FRI NIGHTS)",
+    "sat": "9.00AM-12.30PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.320431,
+      "lng": 103.778992
+    }
+  },
+  {
+    "area": "BUONA VISTA",
+    "clinic_code": "SGP000677",
+    "clinic": "THE CLINIC @ FUSIONOPOLIS",
+    "address": "1 FUSIONOPOLIS WAY #03-10 CONNEXIS",
+    "postal": 138632,
+    "tel": 64660602,
+    "fax": 64660603,
+    "operating_hours_mon___fri": "8.30AM-1.00PM,\n2.00PM-5.30PM",
+    "sat": "8.30AM-12.30PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.299622,
+      "lng": 103.787656
+    }
+  },
+  {
+    "area": "BUONA VISTA",
+    "clinic_code": "SGP000730",
+    "clinic": "FUSION MEDICAL & HEALTH SCREENING  CENTRE",
+    "address": "1 FUSIONOPOLIS LINK #01-05 NEXUS @ONE-NORTH",
+    "postal": 138542,
+    "tel": 62506548,
+    "fax": 62506548,
+    "operating_hours_mon___fri": "8.00AM-4.30PM",
+    "sat": "CLOSED",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+    }
+  },
+  {
+    "area": "CHAI CHEE",
+    "clinic_code": "SGP000137",
+    "clinic": "HEALTHLINE  FAMILY CLINIC & SURGERY",
+    "address": "BLK 25A CHAI CHEE ROAD #01-467",
+    "postal": 461025,
+    "tel": 64463260,
+    "fax": 64463259,
+    "operating_hours_mon___fri": "8.30AM-3.00PM,\n6.00PM-11.00PM",
+    "sat": "8.30AM-3.00PM",
+    "sun": "8.30AM-3.00PM",
+    "public_holiday": "8.30AM-3.00PM",
+    "location": {
+      "lat": 1.323408,
+      "lng": 103.924153
+    }
+  },
+  {
+    "area": "CHAI CHEE",
+    "clinic_code": "SGP000036",
+    "clinic": "CHAI CHEE CLINIC & SURGERY",
+    "address": "BLK 25A CHAI CHEE ROAD #01-453",
+    "postal": 461025,
+    "tel": 62441231,
+    "fax": 62441215,
+    "operating_hours_mon___fri": "9.00AM- 4.00PM",
+    "sat": "9.00AM-12.00PM",
+    "sun": "9.00AM-12.00PM",
+    "public_holiday": "CLOSED",
+    "remarks": "PATIENTS TO REGISTER 30 MINS BEFORE CLOSING.",
+    "location": {
+      "lat": 1.323408,
+      "lng": 103.924153
+    }
+  },
+  {
+    "area": "CHAI CHEE",
+    "clinic_code": "SGP000215",
+    "clinic": "LIM CLINIC & SURGERY",
+    "address": "BLK 20 CHAI CHEE ROAD #01-418/420",
+    "postal": 461020,
+    "tel": 62412211,
+    "fax": 62412268,
+    "operating_hours_mon___fri": "9.00AM-12.00PM   \n2.00PM-5.00PM",
+    "sat": "9.00AM-12.00PM",
+    "sun": "9.00AM-12.00PM",
+    "public_holiday": "CLOSED",
+    "remarks": "Closed on Christmas and Chinese New Year's Day",
+    "location": {
+      "lat": 1.32635,
+      "lng": 103.922814
+    }
+  },
+  {
+    "area": "CHANGI",
+    "clinic_code": "SGP000674",
+    "clinic": "LIM CLINIC",
+    "address": "295 CHANGI ROAD",
+    "postal": 419773,
+    "tel": 67426335,
+    "fax": 67427574,
+    "operating_hours_mon___fri": "MON/TUE/THU/FRI:\n9.00AM-1.00PM,\n2.00PM-5.00PM WED: 9.00AM-\n1.00PM",
+    "sat": "9.00AM-12.00PM",
+    "sun": "9.00AM-12.00PM",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.31809,
+      "lng": 103.907292
+    }
+  },
+  {
+    "area": "CHANGI",
+    "clinic_code": "SGP000682",
+    "clinic": "SHENTON MEDICAL GROUP (UE BIZHUB EAST)",
+    "address": "2 CHANGI BUSINESS PARK AVE 1 #01-03 UE BIZHUB PARK EAST",
+    "postal": 486015,
+    "tel": 66362490,
+    "fax": 65436410,
+    "operating_hours_mon___fri": "8.30AM-1.00PM,\n2.00PM-5.30PM",
+    "sat": "CLOSED",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.336124,
+      "lng": 103.963437
+    }
+  },
+  {
+    "area": "CHINATOWN",
+    "clinic_code": "SGP000594",
+    "clinic": "MW MEDICAL CENTRE",
+    "address": "18 CROSS STREET #02-09 CHINA SQUARE CENTRAL",
+    "postal": 48423,
+    "tel": 62500625,
+    "fax": 62500665,
+    "operating_hours_mon___fri": "8.30AM-6.30PM",
+    "sat": "8.30AM-6.30PM",
+    "sun": "9.00AM-8.00PM (APPOINTMENT BASIS ONLY)",
+    "public_holiday": "APPOINTMENT BASIS ONLY",
+    "location": {
+      "lat": 1.283384,
+      "lng": 103.846868
+    }
+  },
+  {
+    "area": "CHOA CHU KANG",
+    "clinic_code": "SGP000100",
+    "clinic": "EVERCARE MEDICAL CLINIC",
+    "address": "BLK 253 CHOA CHU KANG AVENUE 1 #01-14A KEAT HONG SHOPPING CENTRE",
+    "postal": 680253,
+    "tel": 67699655,
+    "fax": 67664935,
+    "operating_hours_mon___fri": "8.30AM-12.30PM,\n2.00PM-4.30PM,\n7.00PM-9.00PM",
+    "sat": "8.30AM-12.30PM",
+    "sun": "9.00AM-12.00PM",
+    "public_holiday": "9.00AM-12.00PM",
+    "remarks": "CLINIC LAST REGISTRATION IS 15\nMINS BEFORE CLOSING TIME OR EARLIER\nTHAN AS STATED IF WE HAVE REACHED THE MAXIMUM NUMBER OF PATIENTS THAT CAN BE ACCEPTED  FOR THAT SESSION.",
+    "location": {
+      "lat": 1.377542,
+      "lng": 103.744413
+    }
+  },
+  {
+    "area": "CHOA CHU KANG",
+    "clinic_code": "SGP000101",
+    "clinic": "EVERCARE MEDICAL CLINIC (475) PTE LTD",
+    "address": "BLK 475 CHOA CHU KANG AVENUE 3 #02-02\nSUNSHINE PLACE",
+    "postal": 680475,
+    "tel": 67666465,
+    "fax": 67690767,
+    "operating_hours_mon___fri": "8.30AM-12.30PM,\n2.00PM-4.30PM,\n7.00PM-9.00PM",
+    "sat": "8.30AM-12.30PM",
+    "sun": "9.00AM-12.00PM",
+    "public_holiday": "9.00AM-12.00PM",
+    "remarks": "- LAST REGISTRATION\n15 MINS BEFORE CLOSING OR EARLIER IF MAXIMUM NUMBER OF PATIENTS REACHED FOR THAT SESSION. \n- TEMPORARY CLOSURE FROM 15-21\nOCTOBER 2015.",
+    "location": {
+      "lat": 1.377746,
+      "lng": 103.73862
+    }
+  },
+  {
+    "area": "CHOA CHU KANG",
+    "clinic_code": "SGP000403",
+    "clinic": "CLINICAL ASSOCIATES  MEDICAL CENTRE",
+    "address": "BLK 137 TECK WHYE LANE #01-313",
+    "postal": 680137,
+    "tel": 67624180,
+    "fax": 67624152,
+    "operating_hours_mon___fri": "8.30AM-12.30PM,\n2.00PM-5.00PM,\n7.00PM-9.00PM",
+    "sat": "8.30AM-12.30PM",
+    "sun": "8.30AM-12.30PM",
+    "public_holiday": "8.30AM-12.30PM",
+    "remarks": "Closed on Labour Day, Christmas, New Year's Day & Chinese New Year's Day",
+    "location": {
+      "lat": 1.380057,
+      "lng": 103.752243
+    }
+  },
+  {
+    "area": "CHOA CHU KANG",
+    "clinic_code": "SGP000424",
+    "clinic": "LIN & SONS CLINIC & SURGERY PTE LTD",
+    "address": "BLK 18 TECK WHYE LANE #01-97",
+    "postal": 680018,
+    "tel": 67690554,
+    "fax": 67696459,
+    "operating_hours_mon___fri": "8.30AM-1.00PM,\n2.00PM-5.00PM,\n6.30PM-9.30PM",
+    "sat": "8.30AM-1.00PM,\n2.00PM-5.00PM",
+    "sun": "9.00AM-1.00PM",
+    "public_holiday": "9.00AM-1.00PM",
+    "location": {
+      "lat": 1.378346,
+      "lng": 103.754037
+    }
+  },
+  {
+    "area": "CHOA CHU KANG",
+    "clinic_code": "SGP000456",
+    "clinic": "HARMONY FAMILY CLINIC",
+    "address": "BLK 235 CHOA CHU KANG CENTRAL #B1-25",
+    "postal": 680235,
+    "tel": 67623979,
+    "fax": 67621293,
+    "operating_hours_mon___fri": "9.00AM-12.30PM,\n2.00PM-4.30PM",
+    "sat": "9.00AM-12.30PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.379759,
+      "lng": 103.748745
+    }
+  },
+  {
+    "area": "CHOA CHU KANG",
+    "clinic_code": "SGP000462",
+    "clinic": "TEMASEK MEDICAL CENTRE",
+    "address": "BLK 624 CHOA CHU KANG STREET 62 #01-226 YEW TEE SHOPPING CENTRE",
+    "postal": 680624,
+    "tel": 67665766,
+    "fax": 67665800,
+    "operating_hours_mon___fri": "8.30AM-12.30PM   \n2.00PM-4.30PM   \n6.30PM-9.00PM",
+    "sat": "8.30AM-12.30PM",
+    "sun": "9.00AM-1.00PM",
+    "public_holiday": "9.00AM-12.00PM",
+    "remarks": "LAST REGISTRATION\n15 MINS BEFORE CLOSING TIME.",
+    "location": {
+      "lat": 1.398094,
+      "lng": 103.7468279
+    }
+  },
+  {
+    "area": "CHOA CHU KANG",
+    "clinic_code": "SGP000507",
+    "clinic": "THE PREMIER MEDICAL CLINIC",
+    "address": "BLK 304 CHOA CHU KANG AVENUE 4 #01-651",
+    "postal": 680304,
+    "tel": 67600643,
+    "fax": 67631712,
+    "operating_hours_mon___fri": "8.30AM-12.30PM   \n2.00PM-4.30PM   \n6.30PM-9.00PM",
+    "sat": "8.30AM-12.00PM",
+    "sun": "9.00AM-12.00PM",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.38426,
+      "lng": 103.743096
+    }
+  },
+  {
+    "area": "CHOA CHU KANG",
+    "clinic_code": "SGP000679",
+    "clinic": "HEALTHWERKZ MEDICAL CENTRE (CCK) PTE LTD",
+    "address": "BLK 225 CHOA CHU KANG CENTRAL #01-199",
+    "postal": 680225,
+    "tel": 67662827,
+    "fax": 67660568,
+    "operating_hours_mon___fri": "8.30AM-2.00PM,\n7.00PM-9.00PM",
+    "sat": "8.30AM-12.30PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.380992,
+      "lng": 103.744864
+    }
+  },
+  {
+    "area": "CITY HALL",
+    "clinic_code": "SGP000179",
+    "clinic": "K N CHIN & ASSOCIATES  PTE LTD",
+    "address": "3 TEMASEK BOULEVARD  #02-400 SUNTEC CITY MALL",
+    "postal": 38983,
+    "tel": 63372522,
+    "fax": 63346656,
+    "operating_hours_mon___fri": "8.30AM-5.30PM",
+    "sat": "8.30AM-12.30PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "remarks": "LAST REGISTRATION ENDS 30MINS BEFORE CLOSING TIME.",
+    "location": {
+      "lat": 1.295968,
+      "lng": 103.858967
+    }
+  },
+  {
+    "area": "CITY HALL",
+    "clinic_code": "SGP000018",
+    "clinic": "BETHESDA MEDICAL CENTRE PTE LTD",
+    "address": "3 TEMASEK BOULEVARD  #B1-124 SUNTEC CITY MALL",
+    "postal": 38983,
+    "tel": 63378933,
+    "fax": 68843633,
+    "operating_hours_mon___fri": "8.30AM-1.00PM   \n2.00PM-5.30PM",
+    "sat": "9.00AM-12.00PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "remarks": "Patients to be registered 30 mins before closing",
+    "location": {
+      "lat": 1.295968,
+      "lng": 103.858967
+    }
+  },
+  {
+    "area": "CITY HALL",
+    "clinic_code": "SGP000309",
+    "clinic": "SHALOM MEDICAL DENTAL GROUP",
+    "address": "BLK 231 BAIN STREET #03-57 BRAS BASAH COMPLEX",
+    "postal": 180231,
+    "tel": 63371884,
+    "fax": 63376976,
+    "operating_hours_mon___fri": "9.00AM-12.30PM,\n2.00PM-5.00PM",
+    "sat": "9.00AM-1.00PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.297105,
+      "lng": 103.853681
+    }
+  },
+  {
+    "area": "CITY HALL",
+    "clinic_code": "SGP000609",
+    "clinic": "THE CLINIC @ CAMPUS PTE LTD",
+    "address": "70 STAMFORD  ROAD #B1-45",
+    "postal": 178901,
+    "tel": 63339300,
+    "fax": 63339301,
+    "operating_hours_mon___fri": "8.30AM-1.00PM   \n2.00PM-5.00PM",
+    "sat": "8.30AM-12.30PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.296653,
+      "lng": 103.8505969
+    }
+  },
+  {
+    "area": "CITY HALL",
+    "clinic_code": "SGP000361",
+    "clinic": "THE MEDICAL PRACTICE PTE LTD",
+    "address": "1 RAFFLES LINK #01-03A ONE RAFFLES LINK",
+    "postal": 39393,
+    "tel": 63329086,
+    "fax": 62386053,
+    "operating_hours_mon___fri": "8.30AM-12.15PM   \n1.30PM-5.15PM",
+    "sat": "8.30AM-12.15PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.292009,
+      "lng": 103.85588
+    }
+  },
+  {
+    "area": "CITY HALL",
+    "clinic_code": "SGP000722",
+    "clinic": "CRAWFURD  MEDICAL",
+    "address": "3 TEMASEK BOULEVARD  #02-482 SUNTEC CITY MALL (NORTH WING BETWEEN TOWER 1 & 2)",
+    "postal": 38983,
+    "tel": 68049580,
+    "fax": 63419757,
+    "operating_hours_mon___fri": "8.30AM-12.30PM,\n2.00PM-6.00PM",
+    "sat": "8.30AM-1.00PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.295968,
+      "lng": 103.858967
+    }
+  },
+  {
+    "area": "CLEMENTI",
+    "clinic_code": "SGP000357",
+    "clinic": "THE JURONG DISPENSARY",
+    "address": "BLK 443 CLEMENTI AVENUE 3 #01-77",
+    "postal": 120443,
+    "tel": 67774494,
+    "fax": 67771075,
+    "operating_hours_mon___fri": "8.30AM-12.30PM   \n2.30PM-5.00PM",
+    "sat": "8.30AM-12.30PM",
+    "sun": "CLOSED",
+    "public_holiday": "CLOSED",
+    "location": {
+      "lat": 1.314195,
+      "lng": 103.764019
+    }
+  }
+]

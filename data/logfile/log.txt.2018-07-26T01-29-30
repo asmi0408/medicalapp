@@ -1,0 +1,531 @@
+2018-07-25T12:30:23.555+0800 I CONTROL  [main] Trying to start Windows service 'MongoDB'
+2018-07-25T12:30:23.629+0800 I CONTROL  [initandlisten] MongoDB starting : pid=4444 port=27017 dbpath=c:\Project\medicalapp\data 64-bit host=DESKTOP-JMRA6EG
+2018-07-25T12:30:23.629+0800 I CONTROL  [initandlisten] targetMinOS: Windows 7/Windows Server 2008 R2
+2018-07-25T12:30:23.630+0800 I CONTROL  [initandlisten] db version v4.0.0
+2018-07-25T12:30:23.630+0800 I CONTROL  [initandlisten] git version: 3b07af3d4f471ae89e8186d33bbb1d5259597d51
+2018-07-25T12:30:23.630+0800 I CONTROL  [initandlisten] allocator: tcmalloc
+2018-07-25T12:30:23.630+0800 I CONTROL  [initandlisten] modules: none
+2018-07-25T12:30:23.630+0800 I CONTROL  [initandlisten] build environment:
+2018-07-25T12:30:23.630+0800 I CONTROL  [initandlisten]     distmod: 2008plus-ssl
+2018-07-25T12:30:23.630+0800 I CONTROL  [initandlisten]     distarch: x86_64
+2018-07-25T12:30:23.630+0800 I CONTROL  [initandlisten]     target_arch: x86_64
+2018-07-25T12:30:23.630+0800 I CONTROL  [initandlisten] options: { service: true, storage: { dbPath: "c:\Project\medicalapp\data" }, systemLog: { destination: "file", path: "C:\Project\Medicalapp\data\logfile\log.txt" } }
+2018-07-25T12:30:23.638+0800 I STORAGE  [initandlisten] Detected data files in c:\Project\medicalapp\data created by the 'wiredTiger' storage engine, so setting the active storage engine to 'wiredTiger'.
+2018-07-25T12:30:23.639+0800 I STORAGE  [initandlisten] wiredtiger_open config: create,cache_size=7620M,session_max=20000,eviction=(threads_min=4,threads_max=4),config_base=false,statistics=(fast),log=(enabled=true,archive=true,path=journal,compressor=snappy),file_manager=(close_idle_time=100000),statistics_log=(wait=0),verbose=(recovery_progress),
+2018-07-25T12:30:24.044+0800 I STORAGE  [initandlisten] WiredTiger message [1532493024:44135][4444:140732884991056], txn-recover: Main recovery loop: starting at 4/8448
+2018-07-25T12:30:24.335+0800 I STORAGE  [initandlisten] WiredTiger message [1532493024:335357][4444:140732884991056], txn-recover: Recovering log 4 through 5
+2018-07-25T12:30:24.494+0800 I STORAGE  [initandlisten] WiredTiger message [1532493024:493933][4444:140732884991056], txn-recover: Recovering log 5 through 5
+2018-07-25T12:30:24.647+0800 I STORAGE  [initandlisten] WiredTiger message [1532493024:646525][4444:140732884991056], txn-recover: Set global recovery timestamp: 0
+2018-07-25T12:30:24.662+0800 I RECOVERY [initandlisten] WiredTiger recoveryTimestamp. Ts: Timestamp(0, 0)
+2018-07-25T12:30:24.711+0800 I CONTROL  [initandlisten] 
+2018-07-25T12:30:24.711+0800 I CONTROL  [initandlisten] ** WARNING: Access control is not enabled for the database.
+2018-07-25T12:30:24.711+0800 I CONTROL  [initandlisten] **          Read and write access to data and configuration is unrestricted.
+2018-07-25T12:30:24.711+0800 I CONTROL  [initandlisten] 
+2018-07-25T12:30:24.711+0800 I CONTROL  [initandlisten] ** WARNING: This server is bound to localhost.
+2018-07-25T12:30:24.711+0800 I CONTROL  [initandlisten] **          Remote systems will be unable to connect to this server. 
+2018-07-25T12:30:24.711+0800 I CONTROL  [initandlisten] **          Start the server with --bind_ip <address> to specify which IP 
+2018-07-25T12:30:24.711+0800 I CONTROL  [initandlisten] **          addresses it should serve responses from, or with --bind_ip_all to
+2018-07-25T12:30:24.711+0800 I CONTROL  [initandlisten] **          bind to all interfaces. If this behavior is desired, start the
+2018-07-25T12:30:24.711+0800 I CONTROL  [initandlisten] **          server with --bind_ip 127.0.0.1 to disable this warning.
+2018-07-25T12:30:24.711+0800 I CONTROL  [initandlisten] 
+2018-07-25T12:30:25.250+0800 I FTDC     [initandlisten] Initializing full-time diagnostic data capture with directory 'c:/Project/medicalapp/data/diagnostic.data'
+2018-07-25T12:30:25.330+0800 I NETWORK  [initandlisten] waiting for connections on port 27017
+2018-07-25T12:30:25.333+0800 I STORAGE  [initandlisten] Service running
+2018-07-25T21:24:16.984+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:62312 #1 (1 connection now open)
+2018-07-25T21:24:16.994+0800 I NETWORK  [conn1] received client metadata from 127.0.0.1:62312 conn1: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-25T21:26:53.356+0800 I NETWORK  [conn1] end connection 127.0.0.1:62312 (0 connections now open)
+2018-07-25T21:26:55.650+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:62516 #2 (1 connection now open)
+2018-07-25T21:26:55.654+0800 I NETWORK  [conn2] received client metadata from 127.0.0.1:62516 conn2: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-25T21:28:59.661+0800 I NETWORK  [conn2] end connection 127.0.0.1:62516 (0 connections now open)
+2018-07-25T21:29:01.973+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:62687 #3 (1 connection now open)
+2018-07-25T21:29:01.976+0800 I NETWORK  [conn3] received client metadata from 127.0.0.1:62687 conn3: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-25T21:29:11.152+0800 I NETWORK  [conn3] end connection 127.0.0.1:62687 (0 connections now open)
+2018-07-25T21:29:13.511+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:62703 #4 (1 connection now open)
+2018-07-25T21:29:13.515+0800 I NETWORK  [conn4] received client metadata from 127.0.0.1:62703 conn4: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-25T21:30:07.425+0800 I NETWORK  [conn4] end connection 127.0.0.1:62703 (0 connections now open)
+2018-07-25T21:30:09.828+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:62786 #5 (1 connection now open)
+2018-07-25T21:30:09.832+0800 I NETWORK  [conn5] received client metadata from 127.0.0.1:62786 conn5: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-25T21:30:37.488+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:62825 #6 (2 connections now open)
+2018-07-25T21:30:37.494+0800 I NETWORK  [conn6] received client metadata from 127.0.0.1:62825 conn6: { driver: { name: "nodejs", version: "3.0.7" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.2.1, LE, mongodb-core: 3.0.7", application: { name: "MongoDB Compass Community" } }
+2018-07-25T21:30:38.630+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:62828 #7 (3 connections now open)
+2018-07-25T21:30:39.635+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:62831 #8 (4 connections now open)
+2018-07-25T21:30:40.639+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:62834 #9 (5 connections now open)
+2018-07-25T21:30:41.643+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:62837 #10 (6 connections now open)
+2018-07-25T21:42:07.851+0800 I NETWORK  [conn5] end connection 127.0.0.1:62786 (5 connections now open)
+2018-07-25T21:42:10.209+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:63847 #11 (6 connections now open)
+2018-07-25T21:42:10.213+0800 I NETWORK  [conn11] received client metadata from 127.0.0.1:63847 conn11: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-25T21:44:37.974+0800 I NETWORK  [conn11] end connection 127.0.0.1:63847 (5 connections now open)
+2018-07-25T21:44:40.361+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:64050 #12 (6 connections now open)
+2018-07-25T21:44:40.366+0800 I NETWORK  [conn12] received client metadata from 127.0.0.1:64050 conn12: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-25T21:45:25.363+0800 I NETWORK  [conn12] end connection 127.0.0.1:64050 (5 connections now open)
+2018-07-25T21:45:27.731+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:64117 #13 (6 connections now open)
+2018-07-25T21:45:27.735+0800 I NETWORK  [conn13] received client metadata from 127.0.0.1:64117 conn13: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-25T21:49:49.950+0800 I NETWORK  [conn13] end connection 127.0.0.1:64117 (5 connections now open)
+2018-07-25T21:49:52.234+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:64453 #14 (6 connections now open)
+2018-07-25T21:49:52.238+0800 I NETWORK  [conn14] received client metadata from 127.0.0.1:64453 conn14: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-25T21:54:27.555+0800 I NETWORK  [conn14] end connection 127.0.0.1:64453 (5 connections now open)
+2018-07-25T21:54:29.888+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:64844 #15 (6 connections now open)
+2018-07-25T21:54:29.892+0800 I NETWORK  [conn15] received client metadata from 127.0.0.1:64844 conn15: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-25T21:56:11.104+0800 I NETWORK  [conn15] end connection 127.0.0.1:64844 (5 connections now open)
+2018-07-25T21:58:26.426+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:65147 #16 (6 connections now open)
+2018-07-25T21:58:26.431+0800 I NETWORK  [conn16] received client metadata from 127.0.0.1:65147 conn16: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-25T21:58:51.228+0800 I NETWORK  [conn16] end connection 127.0.0.1:65147 (5 connections now open)
+2018-07-25T21:58:53.593+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:65180 #17 (6 connections now open)
+2018-07-25T21:58:53.598+0800 I NETWORK  [conn17] received client metadata from 127.0.0.1:65180 conn17: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-25T21:59:47.975+0800 I NETWORK  [conn17] end connection 127.0.0.1:65180 (5 connections now open)
+2018-07-25T21:59:50.320+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:65257 #18 (6 connections now open)
+2018-07-25T21:59:50.324+0800 I NETWORK  [conn18] received client metadata from 127.0.0.1:65257 conn18: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-25T22:01:53.962+0800 I NETWORK  [conn18] end connection 127.0.0.1:65257 (5 connections now open)
+2018-07-25T22:01:56.304+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:65410 #19 (6 connections now open)
+2018-07-25T22:01:56.309+0800 I NETWORK  [conn19] received client metadata from 127.0.0.1:65410 conn19: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-25T22:02:52.628+0800 I NETWORK  [conn19] end connection 127.0.0.1:65410 (5 connections now open)
+2018-07-25T22:02:54.923+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:65487 #20 (6 connections now open)
+2018-07-25T22:02:54.927+0800 I NETWORK  [conn20] received client metadata from 127.0.0.1:65487 conn20: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-25T22:08:45.786+0800 I NETWORK  [conn20] end connection 127.0.0.1:65487 (5 connections now open)
+2018-07-25T22:08:48.081+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:49596 #21 (6 connections now open)
+2018-07-25T22:08:48.087+0800 I NETWORK  [conn21] received client metadata from 127.0.0.1:49596 conn21: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-25T22:11:09.250+0800 I NETWORK  [conn21] end connection 127.0.0.1:49596 (5 connections now open)
+2018-07-25T22:11:11.562+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:49803 #22 (6 connections now open)
+2018-07-25T22:11:11.566+0800 I NETWORK  [conn22] received client metadata from 127.0.0.1:49803 conn22: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-25T22:11:44.054+0800 I NETWORK  [conn22] end connection 127.0.0.1:49803 (5 connections now open)
+2018-07-25T22:11:51.117+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:49858 #23 (6 connections now open)
+2018-07-25T22:11:51.121+0800 I NETWORK  [conn23] received client metadata from 127.0.0.1:49858 conn23: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-25T22:12:45.383+0800 I NETWORK  [conn23] end connection 127.0.0.1:49858 (5 connections now open)
+2018-07-25T22:12:47.708+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:49937 #24 (6 connections now open)
+2018-07-25T22:12:47.718+0800 I NETWORK  [conn24] received client metadata from 127.0.0.1:49937 conn24: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-25T22:12:54.944+0800 I NETWORK  [conn24] end connection 127.0.0.1:49937 (5 connections now open)
+2018-07-25T22:12:57.281+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:49952 #25 (6 connections now open)
+2018-07-25T22:12:57.287+0800 I NETWORK  [conn25] received client metadata from 127.0.0.1:49952 conn25: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-25T22:13:03.122+0800 I NETWORK  [conn25] end connection 127.0.0.1:49952 (5 connections now open)
+2018-07-25T22:13:05.497+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:49966 #26 (6 connections now open)
+2018-07-25T22:13:05.503+0800 I NETWORK  [conn26] received client metadata from 127.0.0.1:49966 conn26: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-25T22:13:54.753+0800 I NETWORK  [conn26] end connection 127.0.0.1:49966 (5 connections now open)
+2018-07-25T22:13:57.040+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:50065 #27 (6 connections now open)
+2018-07-25T22:13:57.044+0800 I NETWORK  [conn27] received client metadata from 127.0.0.1:50065 conn27: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-25T22:32:55.511+0800 I NETWORK  [conn27] end connection 127.0.0.1:50065 (5 connections now open)
+2018-07-25T22:32:57.913+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:55495 #28 (6 connections now open)
+2018-07-25T22:32:57.918+0800 I NETWORK  [conn28] received client metadata from 127.0.0.1:55495 conn28: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-25T22:33:06.967+0800 I NETWORK  [conn28] end connection 127.0.0.1:55495 (5 connections now open)
+2018-07-25T22:33:09.421+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:55524 #29 (6 connections now open)
+2018-07-25T22:33:09.425+0800 I NETWORK  [conn29] received client metadata from 127.0.0.1:55524 conn29: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-25T22:33:52.589+0800 I NETWORK  [conn29] end connection 127.0.0.1:55524 (5 connections now open)
+2018-07-25T22:33:54.959+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:56401 #30 (6 connections now open)
+2018-07-25T22:33:54.964+0800 I NETWORK  [conn30] received client metadata from 127.0.0.1:56401 conn30: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-25T22:39:17.105+0800 I NETWORK  [conn30] end connection 127.0.0.1:56401 (5 connections now open)
+2018-07-25T22:39:19.467+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:58567 #31 (6 connections now open)
+2018-07-25T22:39:19.471+0800 I NETWORK  [conn31] received client metadata from 127.0.0.1:58567 conn31: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-25T22:40:15.326+0800 I NETWORK  [conn31] end connection 127.0.0.1:58567 (5 connections now open)
+2018-07-25T22:40:17.632+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:58653 #32 (6 connections now open)
+2018-07-25T22:40:17.636+0800 I NETWORK  [conn32] received client metadata from 127.0.0.1:58653 conn32: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-25T22:44:29.064+0800 I NETWORK  [conn32] end connection 127.0.0.1:58653 (5 connections now open)
+2018-07-25T22:44:31.457+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:59393 #33 (6 connections now open)
+2018-07-25T22:44:31.462+0800 I NETWORK  [conn33] received client metadata from 127.0.0.1:59393 conn33: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-25T22:44:56.196+0800 I NETWORK  [conn33] end connection 127.0.0.1:59393 (5 connections now open)
+2018-07-25T22:44:58.620+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:59441 #34 (6 connections now open)
+2018-07-25T22:44:58.627+0800 I NETWORK  [conn34] received client metadata from 127.0.0.1:59441 conn34: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-25T22:45:13.310+0800 I NETWORK  [conn34] end connection 127.0.0.1:59441 (5 connections now open)
+2018-07-25T22:45:15.768+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:59471 #35 (6 connections now open)
+2018-07-25T22:45:15.773+0800 I NETWORK  [conn35] received client metadata from 127.0.0.1:59471 conn35: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-25T22:54:17.995+0800 I NETWORK  [conn35] end connection 127.0.0.1:59471 (5 connections now open)
+2018-07-25T22:56:45.854+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:61681 #36 (6 connections now open)
+2018-07-25T22:56:45.858+0800 I NETWORK  [conn36] received client metadata from 127.0.0.1:61681 conn36: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-25T23:01:38.899+0800 I NETWORK  [conn36] end connection 127.0.0.1:61681 (5 connections now open)
+2018-07-25T23:01:41.389+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:62443 #37 (6 connections now open)
+2018-07-25T23:01:41.394+0800 I NETWORK  [conn37] received client metadata from 127.0.0.1:62443 conn37: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-25T23:07:19.460+0800 I NETWORK  [conn37] end connection 127.0.0.1:62443 (5 connections now open)
+2018-07-25T23:07:22.013+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:64019 #38 (6 connections now open)
+2018-07-25T23:07:22.019+0800 I NETWORK  [conn38] received client metadata from 127.0.0.1:64019 conn38: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-25T23:08:29.883+0800 I NETWORK  [conn38] end connection 127.0.0.1:64019 (5 connections now open)
+2018-07-25T23:08:32.294+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:64554 #39 (6 connections now open)
+2018-07-25T23:08:32.299+0800 I NETWORK  [conn39] received client metadata from 127.0.0.1:64554 conn39: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-25T23:13:44.911+0800 I NETWORK  [conn39] end connection 127.0.0.1:64554 (5 connections now open)
+2018-07-25T23:13:47.419+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:60612 #40 (6 connections now open)
+2018-07-25T23:13:47.427+0800 I NETWORK  [conn40] received client metadata from 127.0.0.1:60612 conn40: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-25T23:14:03.480+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:61229 #41 (7 connections now open)
+2018-07-25T23:14:23.760+0800 I NETWORK  [conn41] end connection 127.0.0.1:61229 (6 connections now open)
+2018-07-25T23:14:23.760+0800 I NETWORK  [conn40] end connection 127.0.0.1:60612 (5 connections now open)
+2018-07-25T23:14:26.217+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:61914 #42 (6 connections now open)
+2018-07-25T23:14:26.221+0800 I NETWORK  [conn42] received client metadata from 127.0.0.1:61914 conn42: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-25T23:15:16.661+0800 I NETWORK  [conn42] end connection 127.0.0.1:61914 (5 connections now open)
+2018-07-25T23:16:26.955+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:59235 #43 (6 connections now open)
+2018-07-25T23:16:26.961+0800 I NETWORK  [conn43] received client metadata from 127.0.0.1:59235 conn43: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-25T23:17:06.415+0800 I NETWORK  [conn43] end connection 127.0.0.1:59235 (5 connections now open)
+2018-07-25T23:17:09.064+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:59236 #44 (6 connections now open)
+2018-07-25T23:17:09.070+0800 I NETWORK  [conn44] received client metadata from 127.0.0.1:59236 conn44: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-25T23:18:25.113+0800 I NETWORK  [conn44] end connection 127.0.0.1:59236 (5 connections now open)
+2018-07-25T23:18:27.542+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:61943 #45 (6 connections now open)
+2018-07-25T23:18:27.549+0800 I NETWORK  [conn45] received client metadata from 127.0.0.1:61943 conn45: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-25T23:18:50.490+0800 I NETWORK  [conn45] end connection 127.0.0.1:61943 (5 connections now open)
+2018-07-25T23:18:52.989+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:64570 #46 (6 connections now open)
+2018-07-25T23:18:52.993+0800 I NETWORK  [conn46] received client metadata from 127.0.0.1:64570 conn46: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-25T23:21:06.110+0800 I NETWORK  [conn46] end connection 127.0.0.1:64570 (5 connections now open)
+2018-07-25T23:21:08.599+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:64730 #47 (6 connections now open)
+2018-07-25T23:21:08.603+0800 I NETWORK  [conn47] received client metadata from 127.0.0.1:64730 conn47: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-25T23:21:14.038+0800 I NETWORK  [conn47] end connection 127.0.0.1:64730 (5 connections now open)
+2018-07-25T23:21:16.509+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:61551 #48 (6 connections now open)
+2018-07-25T23:21:16.513+0800 I NETWORK  [conn48] received client metadata from 127.0.0.1:61551 conn48: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-25T23:24:43.376+0800 I NETWORK  [conn48] end connection 127.0.0.1:61551 (5 connections now open)
+2018-07-25T23:24:45.825+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:54329 #49 (6 connections now open)
+2018-07-25T23:24:45.830+0800 I NETWORK  [conn49] received client metadata from 127.0.0.1:54329 conn49: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-25T23:26:36.660+0800 I NETWORK  [conn49] end connection 127.0.0.1:54329 (5 connections now open)
+2018-07-25T23:26:39.214+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:61175 #50 (6 connections now open)
+2018-07-25T23:26:39.222+0800 I NETWORK  [conn50] received client metadata from 127.0.0.1:61175 conn50: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-25T23:28:01.840+0800 I NETWORK  [conn50] end connection 127.0.0.1:61175 (5 connections now open)
+2018-07-25T23:28:04.503+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:49421 #51 (6 connections now open)
+2018-07-25T23:28:04.508+0800 I NETWORK  [conn51] received client metadata from 127.0.0.1:49421 conn51: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-25T23:28:51.744+0800 I NETWORK  [conn51] end connection 127.0.0.1:49421 (5 connections now open)
+2018-07-25T23:28:54.401+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:49494 #52 (6 connections now open)
+2018-07-25T23:28:54.405+0800 I NETWORK  [conn52] received client metadata from 127.0.0.1:49494 conn52: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-25T23:30:23.357+0800 I NETWORK  [conn52] end connection 127.0.0.1:49494 (5 connections now open)
+2018-07-25T23:30:26.008+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:49597 #53 (6 connections now open)
+2018-07-25T23:30:26.012+0800 I NETWORK  [conn53] received client metadata from 127.0.0.1:49597 conn53: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-25T23:30:39.701+0800 I NETWORK  [conn53] end connection 127.0.0.1:49597 (5 connections now open)
+2018-07-25T23:30:42.135+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:49630 #54 (6 connections now open)
+2018-07-25T23:30:42.140+0800 I NETWORK  [conn54] received client metadata from 127.0.0.1:49630 conn54: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-25T23:35:46.423+0800 I NETWORK  [conn54] end connection 127.0.0.1:49630 (5 connections now open)
+2018-07-25T23:35:49.380+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:61871 #55 (6 connections now open)
+2018-07-25T23:35:49.385+0800 I NETWORK  [conn55] received client metadata from 127.0.0.1:61871 conn55: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-25T23:37:54.009+0800 I NETWORK  [conn55] end connection 127.0.0.1:61871 (5 connections now open)
+2018-07-25T23:37:56.500+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:62013 #56 (6 connections now open)
+2018-07-25T23:37:56.504+0800 I NETWORK  [conn56] received client metadata from 127.0.0.1:62013 conn56: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-25T23:40:34.018+0800 I NETWORK  [conn56] end connection 127.0.0.1:62013 (5 connections now open)
+2018-07-25T23:40:36.465+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:61972 #57 (6 connections now open)
+2018-07-25T23:40:36.469+0800 I NETWORK  [conn57] received client metadata from 127.0.0.1:61972 conn57: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-25T23:42:14.025+0800 I NETWORK  [conn57] end connection 127.0.0.1:61972 (5 connections now open)
+2018-07-26T00:03:17.611+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:49482 #58 (6 connections now open)
+2018-07-26T00:03:17.616+0800 I NETWORK  [conn58] received client metadata from 127.0.0.1:49482 conn58: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-26T00:09:49.711+0800 I NETWORK  [conn58] end connection 127.0.0.1:49482 (5 connections now open)
+2018-07-26T00:09:52.159+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:62132 #59 (6 connections now open)
+2018-07-26T00:09:52.163+0800 I NETWORK  [conn59] received client metadata from 127.0.0.1:62132 conn59: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-26T00:11:00.522+0800 I NETWORK  [conn59] end connection 127.0.0.1:62132 (5 connections now open)
+2018-07-26T00:11:58.232+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:62279 #60 (6 connections now open)
+2018-07-26T00:11:58.238+0800 I NETWORK  [conn60] received client metadata from 127.0.0.1:62279 conn60: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-26T00:12:16.236+0800 I NETWORK  [conn60] end connection 127.0.0.1:62279 (5 connections now open)
+2018-07-26T00:12:18.782+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:62318 #61 (6 connections now open)
+2018-07-26T00:12:18.791+0800 I NETWORK  [conn61] received client metadata from 127.0.0.1:62318 conn61: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-26T00:12:51.019+0800 I NETWORK  [conn61] end connection 127.0.0.1:62318 (5 connections now open)
+2018-07-26T00:12:59.209+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:62368 #62 (6 connections now open)
+2018-07-26T00:12:59.213+0800 I NETWORK  [conn62] received client metadata from 127.0.0.1:62368 conn62: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-26T00:13:25.898+0800 I NETWORK  [conn62] end connection 127.0.0.1:62368 (5 connections now open)
+2018-07-26T00:13:28.237+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:62405 #63 (6 connections now open)
+2018-07-26T00:13:28.241+0800 I NETWORK  [conn63] received client metadata from 127.0.0.1:62405 conn63: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-26T00:14:09.041+0800 I NETWORK  [conn63] end connection 127.0.0.1:62405 (5 connections now open)
+2018-07-26T00:14:11.346+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:62457 #64 (6 connections now open)
+2018-07-26T00:14:11.351+0800 I NETWORK  [conn64] received client metadata from 127.0.0.1:62457 conn64: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-26T00:15:38.764+0800 I NETWORK  [conn64] end connection 127.0.0.1:62457 (5 connections now open)
+2018-07-26T00:15:41.077+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:62564 #65 (6 connections now open)
+2018-07-26T00:15:41.081+0800 I NETWORK  [conn65] received client metadata from 127.0.0.1:62564 conn65: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-26T00:17:49.508+0800 I NETWORK  [conn65] end connection 127.0.0.1:62564 (5 connections now open)
+2018-07-26T00:17:51.816+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:62716 #66 (6 connections now open)
+2018-07-26T00:17:51.820+0800 I NETWORK  [conn66] received client metadata from 127.0.0.1:62716 conn66: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-26T00:18:51.361+0800 I NETWORK  [conn66] end connection 127.0.0.1:62716 (5 connections now open)
+2018-07-26T00:19:13.328+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:62813 #67 (6 connections now open)
+2018-07-26T00:19:13.332+0800 I NETWORK  [conn67] received client metadata from 127.0.0.1:62813 conn67: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-26T00:19:54.986+0800 I NETWORK  [conn67] end connection 127.0.0.1:62813 (5 connections now open)
+2018-07-26T00:19:57.306+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:62867 #68 (6 connections now open)
+2018-07-26T00:19:57.310+0800 I NETWORK  [conn68] received client metadata from 127.0.0.1:62867 conn68: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-26T00:21:36.823+0800 I NETWORK  [conn68] end connection 127.0.0.1:62867 (5 connections now open)
+2018-07-26T00:21:39.331+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:62984 #69 (6 connections now open)
+2018-07-26T00:21:39.335+0800 I NETWORK  [conn69] received client metadata from 127.0.0.1:62984 conn69: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-26T00:22:16.755+0800 I NETWORK  [conn69] end connection 127.0.0.1:62984 (5 connections now open)
+2018-07-26T00:22:19.328+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:63041 #70 (6 connections now open)
+2018-07-26T00:22:19.332+0800 I NETWORK  [conn70] received client metadata from 127.0.0.1:63041 conn70: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-26T00:22:31.308+0800 I NETWORK  [conn70] end connection 127.0.0.1:63041 (5 connections now open)
+2018-07-26T00:22:33.672+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:63065 #71 (6 connections now open)
+2018-07-26T00:22:33.676+0800 I NETWORK  [conn71] received client metadata from 127.0.0.1:63065 conn71: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-26T00:25:13.489+0800 I NETWORK  [conn71] end connection 127.0.0.1:63065 (5 connections now open)
+2018-07-26T00:25:15.884+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:51318 #72 (6 connections now open)
+2018-07-26T00:25:15.888+0800 I NETWORK  [conn72] received client metadata from 127.0.0.1:51318 conn72: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-26T00:26:41.098+0800 I NETWORK  [conn72] end connection 127.0.0.1:51318 (5 connections now open)
+2018-07-26T00:26:43.501+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:51420 #73 (6 connections now open)
+2018-07-26T00:26:43.506+0800 I NETWORK  [conn73] received client metadata from 127.0.0.1:51420 conn73: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-26T00:27:03.584+0800 I NETWORK  [conn73] end connection 127.0.0.1:51420 (5 connections now open)
+2018-07-26T00:27:06.026+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:64064 #74 (6 connections now open)
+2018-07-26T00:27:06.030+0800 I NETWORK  [conn74] received client metadata from 127.0.0.1:64064 conn74: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-26T00:27:16.755+0800 I NETWORK  [conn74] end connection 127.0.0.1:64064 (5 connections now open)
+2018-07-26T00:27:21.591+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:64094 #75 (6 connections now open)
+2018-07-26T00:27:21.596+0800 I NETWORK  [conn75] received client metadata from 127.0.0.1:64094 conn75: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-26T00:27:37.016+0800 I NETWORK  [conn75] end connection 127.0.0.1:64094 (5 connections now open)
+2018-07-26T00:27:39.584+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:64120 #76 (6 connections now open)
+2018-07-26T00:27:39.589+0800 I NETWORK  [conn76] received client metadata from 127.0.0.1:64120 conn76: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-26T00:27:48.222+0800 I NETWORK  [conn76] end connection 127.0.0.1:64120 (5 connections now open)
+2018-07-26T00:27:50.710+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:53003 #77 (6 connections now open)
+2018-07-26T00:27:50.715+0800 I NETWORK  [conn77] received client metadata from 127.0.0.1:53003 conn77: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-26T00:28:27.251+0800 I NETWORK  [conn77] end connection 127.0.0.1:53003 (5 connections now open)
+2018-07-26T00:28:29.628+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:53048 #78 (6 connections now open)
+2018-07-26T00:28:29.632+0800 I NETWORK  [conn78] received client metadata from 127.0.0.1:53048 conn78: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-26T00:28:44.075+0800 I NETWORK  [conn78] end connection 127.0.0.1:53048 (5 connections now open)
+2018-07-26T00:28:46.413+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:53076 #79 (6 connections now open)
+2018-07-26T00:28:46.417+0800 I NETWORK  [conn79] received client metadata from 127.0.0.1:53076 conn79: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-26T00:30:42.657+0800 I NETWORK  [conn79] end connection 127.0.0.1:53076 (5 connections now open)
+2018-07-26T00:30:44.968+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:61827 #80 (6 connections now open)
+2018-07-26T00:30:44.972+0800 I NETWORK  [conn80] received client metadata from 127.0.0.1:61827 conn80: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-26T00:31:20.247+0800 I NETWORK  [conn80] end connection 127.0.0.1:61827 (5 connections now open)
+2018-07-26T00:31:22.685+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:61872 #81 (6 connections now open)
+2018-07-26T00:31:22.691+0800 I NETWORK  [conn81] received client metadata from 127.0.0.1:61872 conn81: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-26T00:31:45.472+0800 I NETWORK  [conn81] end connection 127.0.0.1:61872 (5 connections now open)
+2018-07-26T00:31:47.899+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:61909 #82 (6 connections now open)
+2018-07-26T00:31:47.904+0800 I NETWORK  [conn82] received client metadata from 127.0.0.1:61909 conn82: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-26T00:32:22.977+0800 I NETWORK  [conn82] end connection 127.0.0.1:61909 (5 connections now open)
+2018-07-26T00:32:25.404+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:61963 #83 (6 connections now open)
+2018-07-26T00:32:25.408+0800 I NETWORK  [conn83] received client metadata from 127.0.0.1:61963 conn83: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-26T00:34:10.175+0800 I NETWORK  [conn83] end connection 127.0.0.1:61963 (5 connections now open)
+2018-07-26T00:34:12.570+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:62088 #84 (6 connections now open)
+2018-07-26T00:34:12.574+0800 I NETWORK  [conn84] received client metadata from 127.0.0.1:62088 conn84: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-26T00:34:33.250+0800 I NETWORK  [conn84] end connection 127.0.0.1:62088 (5 connections now open)
+2018-07-26T00:34:35.622+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:62121 #85 (6 connections now open)
+2018-07-26T00:34:35.626+0800 I NETWORK  [conn85] received client metadata from 127.0.0.1:62121 conn85: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-26T00:35:42.454+0800 I NETWORK  [conn85] end connection 127.0.0.1:62121 (5 connections now open)
+2018-07-26T00:35:44.779+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:62215 #86 (6 connections now open)
+2018-07-26T00:35:44.786+0800 I NETWORK  [conn86] received client metadata from 127.0.0.1:62215 conn86: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-26T00:36:53.843+0800 I NETWORK  [conn86] end connection 127.0.0.1:62215 (5 connections now open)
+2018-07-26T00:36:56.250+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:56758 #87 (6 connections now open)
+2018-07-26T00:36:56.255+0800 I NETWORK  [conn87] received client metadata from 127.0.0.1:56758 conn87: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-26T00:38:16.377+0800 I NETWORK  [conn87] end connection 127.0.0.1:56758 (5 connections now open)
+2018-07-26T00:38:18.876+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:56854 #88 (6 connections now open)
+2018-07-26T00:38:18.884+0800 I NETWORK  [conn88] received client metadata from 127.0.0.1:56854 conn88: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-26T01:45:58.541+0800 I NETWORK  [conn8] end connection 127.0.0.1:62831 (5 connections now open)
+2018-07-26T01:45:58.541+0800 I NETWORK  [conn9] end connection 127.0.0.1:62834 (4 connections now open)
+2018-07-26T01:45:58.542+0800 I NETWORK  [conn10] end connection 127.0.0.1:62837 (3 connections now open)
+2018-07-26T01:45:58.542+0800 I NETWORK  [conn6] end connection 127.0.0.1:62825 (2 connections now open)
+2018-07-26T01:48:54.977+0800 I NETWORK  [conn88] end connection 127.0.0.1:56854 (1 connection now open)
+2018-07-26T01:48:57.802+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:62869 #89 (2 connections now open)
+2018-07-26T01:48:57.807+0800 I NETWORK  [conn89] received client metadata from 127.0.0.1:62869 conn89: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-26T01:50:45.402+0800 I NETWORK  [conn89] end connection 127.0.0.1:62869 (1 connection now open)
+2018-07-26T01:50:47.862+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:64177 #90 (2 connections now open)
+2018-07-26T01:50:47.867+0800 I NETWORK  [conn90] received client metadata from 127.0.0.1:64177 conn90: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-26T01:51:15.874+0800 I NETWORK  [conn90] end connection 127.0.0.1:64177 (1 connection now open)
+2018-07-26T01:51:53.112+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:64259 #91 (2 connections now open)
+2018-07-26T01:51:53.118+0800 I NETWORK  [conn91] received client metadata from 127.0.0.1:64259 conn91: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-26T01:52:59.652+0800 I NETWORK  [conn91] end connection 127.0.0.1:64259 (1 connection now open)
+2018-07-26T01:53:02.149+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:62895 #92 (2 connections now open)
+2018-07-26T01:53:02.155+0800 I NETWORK  [conn92] received client metadata from 127.0.0.1:62895 conn92: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-26T01:55:14.907+0800 I NETWORK  [conn92] end connection 127.0.0.1:62895 (1 connection now open)
+2018-07-26T01:55:17.321+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:60567 #93 (2 connections now open)
+2018-07-26T01:55:17.325+0800 I NETWORK  [conn93] received client metadata from 127.0.0.1:60567 conn93: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-26T02:01:24.649+0800 I NETWORK  [conn93] end connection 127.0.0.1:60567 (1 connection now open)
+2018-07-26T02:01:27.227+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:62906 #94 (2 connections now open)
+2018-07-26T02:01:27.232+0800 I NETWORK  [conn94] received client metadata from 127.0.0.1:62906 conn94: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-26T02:02:27.182+0800 I NETWORK  [conn94] end connection 127.0.0.1:62906 (1 connection now open)
+2018-07-26T02:04:01.932+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:63159 #95 (2 connections now open)
+2018-07-26T02:04:01.937+0800 I NETWORK  [conn95] received client metadata from 127.0.0.1:63159 conn95: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-26T02:04:34.289+0800 I NETWORK  [conn95] end connection 127.0.0.1:63159 (1 connection now open)
+2018-07-26T02:04:36.807+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:63207 #96 (2 connections now open)
+2018-07-26T02:04:36.813+0800 I NETWORK  [conn96] received client metadata from 127.0.0.1:63207 conn96: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-26T02:05:55.449+0800 I NETWORK  [conn96] end connection 127.0.0.1:63207 (1 connection now open)
+2018-07-26T02:05:57.912+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:63311 #97 (2 connections now open)
+2018-07-26T02:05:57.917+0800 I NETWORK  [conn97] received client metadata from 127.0.0.1:63311 conn97: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-26T02:07:48.652+0800 I NETWORK  [conn97] end connection 127.0.0.1:63311 (1 connection now open)
+2018-07-26T02:07:51.301+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:63457 #98 (2 connections now open)
+2018-07-26T02:07:51.306+0800 I NETWORK  [conn98] received client metadata from 127.0.0.1:63457 conn98: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-26T02:11:11.956+0800 I NETWORK  [conn98] end connection 127.0.0.1:63457 (1 connection now open)
+2018-07-26T02:11:14.478+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:61750 #99 (2 connections now open)
+2018-07-26T02:11:14.482+0800 I NETWORK  [conn99] received client metadata from 127.0.0.1:61750 conn99: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-26T02:12:40.975+0800 I NETWORK  [conn99] end connection 127.0.0.1:61750 (1 connection now open)
+2018-07-26T02:14:03.471+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:61951 #100 (2 connections now open)
+2018-07-26T02:14:03.476+0800 I NETWORK  [conn100] received client metadata from 127.0.0.1:61951 conn100: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-26T02:14:57.472+0800 I NETWORK  [conn100] end connection 127.0.0.1:61951 (1 connection now open)
+2018-07-26T02:17:27.262+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:62192 #101 (2 connections now open)
+2018-07-26T02:17:27.267+0800 I NETWORK  [conn101] received client metadata from 127.0.0.1:62192 conn101: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-26T02:18:06.989+0800 I NETWORK  [conn101] end connection 127.0.0.1:62192 (1 connection now open)
+2018-07-26T02:18:09.576+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:62243 #102 (2 connections now open)
+2018-07-26T02:18:09.580+0800 I NETWORK  [conn102] received client metadata from 127.0.0.1:62243 conn102: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-26T02:18:31.802+0800 I NETWORK  [conn102] end connection 127.0.0.1:62243 (1 connection now open)
+2018-07-26T02:18:34.237+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:62275 #103 (2 connections now open)
+2018-07-26T02:18:34.244+0800 I NETWORK  [conn103] received client metadata from 127.0.0.1:62275 conn103: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-26T02:18:56.221+0800 I NETWORK  [conn103] end connection 127.0.0.1:62275 (1 connection now open)
+2018-07-26T02:18:59.013+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:62319 #104 (2 connections now open)
+2018-07-26T02:18:59.017+0800 I NETWORK  [conn104] received client metadata from 127.0.0.1:62319 conn104: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-26T02:24:12.257+0800 I NETWORK  [conn104] end connection 127.0.0.1:62319 (1 connection now open)
+2018-07-26T02:25:21.948+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:62769 #105 (2 connections now open)
+2018-07-26T02:25:21.955+0800 I NETWORK  [conn105] received client metadata from 127.0.0.1:62769 conn105: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-26T02:25:41.679+0800 I NETWORK  [conn105] end connection 127.0.0.1:62769 (1 connection now open)
+2018-07-26T02:26:21.415+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:62853 #106 (2 connections now open)
+2018-07-26T02:26:21.419+0800 I NETWORK  [conn106] received client metadata from 127.0.0.1:62853 conn106: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-26T02:26:28.268+0800 I NETWORK  [conn106] end connection 127.0.0.1:62853 (1 connection now open)
+2018-07-26T02:27:07.254+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:62915 #107 (2 connections now open)
+2018-07-26T02:27:07.262+0800 I NETWORK  [conn107] received client metadata from 127.0.0.1:62915 conn107: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-26T02:27:08.406+0800 I NETWORK  [conn107] end connection 127.0.0.1:62915 (1 connection now open)
+2018-07-26T02:27:10.856+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:62920 #108 (2 connections now open)
+2018-07-26T02:27:10.861+0800 I NETWORK  [conn108] received client metadata from 127.0.0.1:62920 conn108: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-26T02:27:22.210+0800 I STORAGE  [conn108] createCollection: medicalapp.users with generated UUID: 4b65942d-b055-4ef1-ba44-a3024f3a65f3
+2018-07-26T02:27:38.452+0800 I NETWORK  [conn108] end connection 127.0.0.1:62920 (1 connection now open)
+2018-07-26T02:27:40.983+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:62964 #109 (2 connections now open)
+2018-07-26T02:27:40.988+0800 I NETWORK  [conn109] received client metadata from 127.0.0.1:62964 conn109: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-26T02:27:46.692+0800 I NETWORK  [conn109] end connection 127.0.0.1:62964 (1 connection now open)
+2018-07-26T02:27:49.219+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:62975 #110 (2 connections now open)
+2018-07-26T02:27:49.223+0800 I NETWORK  [conn110] received client metadata from 127.0.0.1:62975 conn110: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-26T02:28:08.237+0800 I NETWORK  [conn110] end connection 127.0.0.1:62975 (1 connection now open)
+2018-07-26T02:28:10.709+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:63014 #111 (2 connections now open)
+2018-07-26T02:28:10.713+0800 I NETWORK  [conn111] received client metadata from 127.0.0.1:63014 conn111: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-26T02:28:20.718+0800 I NETWORK  [conn111] end connection 127.0.0.1:63014 (1 connection now open)
+2018-07-26T02:28:23.211+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:63036 #112 (2 connections now open)
+2018-07-26T02:28:23.219+0800 I NETWORK  [conn112] received client metadata from 127.0.0.1:63036 conn112: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-26T02:28:27.758+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:63048 #113 (3 connections now open)
+2018-07-26T02:28:28.764+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:63051 #114 (4 connections now open)
+2018-07-26T02:28:29.771+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:63054 #115 (5 connections now open)
+2018-07-26T02:28:30.778+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:63057 #116 (6 connections now open)
+2018-07-26T02:29:09.443+0800 I COMMAND  [conn114] CMD: drop medicalapp.user
+2018-07-26T02:29:09.444+0800 I STORAGE  [conn114] Finishing collection drop for medicalapp.user (e08ae770-09ab-4509-a6d2-03b648b36671).
+2018-07-26T02:29:16.175+0800 I COMMAND  [conn113] CMD: drop medicalapp.users
+2018-07-26T02:29:16.176+0800 I STORAGE  [conn113] Finishing collection drop for medicalapp.users (4b65942d-b055-4ef1-ba44-a3024f3a65f3).
+2018-07-26T02:29:27.063+0800 I STORAGE  [conn112] createCollection: medicalapp.users with generated UUID: 52ee029e-6ac1-402f-81d6-2468b8e1478d
+2018-07-26T02:35:47.862+0800 I NETWORK  [conn112] end connection 127.0.0.1:63036 (5 connections now open)
+2018-07-26T02:35:50.194+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:63574 #117 (6 connections now open)
+2018-07-26T02:35:50.198+0800 I NETWORK  [conn117] received client metadata from 127.0.0.1:63574 conn117: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-26T02:37:52.306+0800 I NETWORK  [conn117] end connection 127.0.0.1:63574 (5 connections now open)
+2018-07-26T02:37:54.873+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:61893 #118 (6 connections now open)
+2018-07-26T02:37:54.877+0800 I NETWORK  [conn118] received client metadata from 127.0.0.1:61893 conn118: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-26T02:39:04.352+0800 I NETWORK  [conn118] end connection 127.0.0.1:61893 (5 connections now open)
+2018-07-26T02:39:06.975+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:61992 #119 (6 connections now open)
+2018-07-26T02:39:06.979+0800 I NETWORK  [conn119] received client metadata from 127.0.0.1:61992 conn119: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-26T02:39:39.010+0800 I NETWORK  [conn119] end connection 127.0.0.1:61992 (5 connections now open)
+2018-07-26T02:40:09.231+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:62082 #120 (6 connections now open)
+2018-07-26T02:40:09.235+0800 I NETWORK  [conn120] received client metadata from 127.0.0.1:62082 conn120: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-26T02:40:12.261+0800 I NETWORK  [conn120] end connection 127.0.0.1:62082 (5 connections now open)
+2018-07-26T02:40:14.809+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:62091 #121 (6 connections now open)
+2018-07-26T02:40:14.815+0800 I NETWORK  [conn121] received client metadata from 127.0.0.1:62091 conn121: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-26T02:43:25.683+0800 I NETWORK  [conn121] end connection 127.0.0.1:62091 (5 connections now open)
+2018-07-26T02:43:28.167+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:62314 #122 (6 connections now open)
+2018-07-26T02:43:28.172+0800 I NETWORK  [conn122] received client metadata from 127.0.0.1:62314 conn122: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-26T02:43:53.490+0800 I NETWORK  [conn122] end connection 127.0.0.1:62314 (5 connections now open)
+2018-07-26T02:43:56.031+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:62350 #123 (6 connections now open)
+2018-07-26T02:43:56.035+0800 I NETWORK  [conn123] received client metadata from 127.0.0.1:62350 conn123: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-26T02:45:52.600+0800 I NETWORK  [conn123] end connection 127.0.0.1:62350 (5 connections now open)
+2018-07-26T02:45:55.120+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:62492 #124 (6 connections now open)
+2018-07-26T02:45:55.124+0800 I NETWORK  [conn124] received client metadata from 127.0.0.1:62492 conn124: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-26T02:46:51.745+0800 I NETWORK  [conn124] end connection 127.0.0.1:62492 (5 connections now open)
+2018-07-26T02:47:11.107+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:61085 #125 (6 connections now open)
+2018-07-26T02:47:11.113+0800 I NETWORK  [conn125] received client metadata from 127.0.0.1:61085 conn125: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-26T02:49:49.556+0800 I NETWORK  [conn125] end connection 127.0.0.1:61085 (5 connections now open)
+2018-07-26T02:50:01.396+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:61307 #126 (6 connections now open)
+2018-07-26T02:50:01.401+0800 I NETWORK  [conn126] received client metadata from 127.0.0.1:61307 conn126: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-26T02:52:21.956+0800 I NETWORK  [conn126] end connection 127.0.0.1:61307 (5 connections now open)
+2018-07-26T02:52:24.628+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:61500 #127 (6 connections now open)
+2018-07-26T02:52:24.633+0800 I NETWORK  [conn127] received client metadata from 127.0.0.1:61500 conn127: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-26T02:53:50.205+0800 I NETWORK  [conn127] end connection 127.0.0.1:61500 (5 connections now open)
+2018-07-26T02:53:52.633+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:61617 #128 (6 connections now open)
+2018-07-26T02:53:52.638+0800 I NETWORK  [conn128] received client metadata from 127.0.0.1:61617 conn128: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-26T02:56:30.149+0800 I NETWORK  [conn128] end connection 127.0.0.1:61617 (5 connections now open)
+2018-07-26T02:56:32.665+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:61805 #129 (6 connections now open)
+2018-07-26T02:56:32.670+0800 I NETWORK  [conn129] received client metadata from 127.0.0.1:61805 conn129: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-26T02:56:43.591+0800 I NETWORK  [conn129] end connection 127.0.0.1:61805 (5 connections now open)
+2018-07-26T02:56:53.694+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:61852 #130 (6 connections now open)
+2018-07-26T02:56:53.698+0800 I NETWORK  [conn130] received client metadata from 127.0.0.1:61852 conn130: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-26T02:58:56.358+0800 I NETWORK  [conn130] end connection 127.0.0.1:61852 (5 connections now open)
+2018-07-26T02:58:58.974+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:50636 #131 (6 connections now open)
+2018-07-26T02:58:58.978+0800 I NETWORK  [conn131] received client metadata from 127.0.0.1:50636 conn131: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-26T02:59:46.272+0800 I NETWORK  [conn131] end connection 127.0.0.1:50636 (5 connections now open)
+2018-07-26T02:59:48.766+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:50692 #132 (6 connections now open)
+2018-07-26T02:59:48.772+0800 I NETWORK  [conn132] received client metadata from 127.0.0.1:50692 conn132: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-26T03:00:18.014+0800 I NETWORK  [conn132] end connection 127.0.0.1:50692 (5 connections now open)
+2018-07-26T03:00:20.456+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:50731 #133 (6 connections now open)
+2018-07-26T03:00:20.460+0800 I NETWORK  [conn133] received client metadata from 127.0.0.1:50731 conn133: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-26T03:00:34.421+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:50756 #134 (7 connections now open)
+2018-07-26T03:01:42.844+0800 I NETWORK  [conn133] end connection 127.0.0.1:50731 (6 connections now open)
+2018-07-26T03:01:42.844+0800 I NETWORK  [conn134] end connection 127.0.0.1:50756 (5 connections now open)
+2018-07-26T03:01:45.312+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:61785 #135 (6 connections now open)
+2018-07-26T03:01:45.316+0800 I NETWORK  [conn135] received client metadata from 127.0.0.1:61785 conn135: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-26T03:03:28.222+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:61926 #136 (7 connections now open)
+2018-07-26T03:06:59.150+0800 I NETWORK  [conn136] end connection 127.0.0.1:61926 (6 connections now open)
+2018-07-26T03:06:59.150+0800 I NETWORK  [conn135] end connection 127.0.0.1:61785 (5 connections now open)
+2018-07-26T03:07:01.629+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:62184 #137 (6 connections now open)
+2018-07-26T03:07:01.636+0800 I NETWORK  [conn137] received client metadata from 127.0.0.1:62184 conn137: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-26T03:07:08.585+0800 I NETWORK  [conn137] end connection 127.0.0.1:62184 (5 connections now open)
+2018-07-26T03:07:11.090+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:62205 #138 (6 connections now open)
+2018-07-26T03:07:11.095+0800 I NETWORK  [conn138] received client metadata from 127.0.0.1:62205 conn138: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-26T03:07:25.779+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:62238 #139 (7 connections now open)
+2018-07-26T03:08:03.585+0800 I NETWORK  [conn138] end connection 127.0.0.1:62205 (6 connections now open)
+2018-07-26T03:08:03.585+0800 I NETWORK  [conn139] end connection 127.0.0.1:62238 (5 connections now open)
+2018-07-26T03:08:06.127+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:62290 #140 (6 connections now open)
+2018-07-26T03:08:06.131+0800 I NETWORK  [conn140] received client metadata from 127.0.0.1:62290 conn140: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-26T03:08:12.932+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:62303 #141 (7 connections now open)
+2018-07-26T03:11:08.076+0800 I NETWORK  [conn140] end connection 127.0.0.1:62290 (6 connections now open)
+2018-07-26T03:11:08.077+0800 I NETWORK  [conn141] end connection 127.0.0.1:62303 (5 connections now open)
+2018-07-26T03:11:12.870+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:62537 #142 (6 connections now open)
+2018-07-26T03:11:12.874+0800 I NETWORK  [conn142] received client metadata from 127.0.0.1:62537 conn142: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-26T03:13:05.361+0800 I NETWORK  [conn142] end connection 127.0.0.1:62537 (5 connections now open)
+2018-07-26T03:13:07.845+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:62676 #143 (6 connections now open)
+2018-07-26T03:13:07.851+0800 I NETWORK  [conn143] received client metadata from 127.0.0.1:62676 conn143: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-26T03:15:39.274+0800 I NETWORK  [conn143] end connection 127.0.0.1:62676 (5 connections now open)
+2018-07-26T03:15:41.723+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:62851 #144 (6 connections now open)
+2018-07-26T03:15:41.727+0800 I NETWORK  [conn144] received client metadata from 127.0.0.1:62851 conn144: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-26T03:17:31.572+0800 I NETWORK  [conn144] end connection 127.0.0.1:62851 (5 connections now open)
+2018-07-26T03:17:40.340+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:56731 #145 (6 connections now open)
+2018-07-26T03:17:40.345+0800 I NETWORK  [conn145] received client metadata from 127.0.0.1:56731 conn145: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-26T03:18:46.534+0800 I NETWORK  [conn145] end connection 127.0.0.1:56731 (5 connections now open)
+2018-07-26T03:18:48.868+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:56828 #146 (6 connections now open)
+2018-07-26T03:18:48.872+0800 I NETWORK  [conn146] received client metadata from 127.0.0.1:56828 conn146: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-26T03:19:06.347+0800 I NETWORK  [conn146] end connection 127.0.0.1:56828 (5 connections now open)
+2018-07-26T03:19:08.855+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:56851 #147 (6 connections now open)
+2018-07-26T03:19:08.860+0800 I NETWORK  [conn147] received client metadata from 127.0.0.1:56851 conn147: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-26T03:19:25.695+0800 I NETWORK  [conn147] end connection 127.0.0.1:56851 (5 connections now open)
+2018-07-26T03:19:28.071+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:56882 #148 (6 connections now open)
+2018-07-26T03:19:28.075+0800 I NETWORK  [conn148] received client metadata from 127.0.0.1:56882 conn148: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-26T03:19:49.878+0800 I NETWORK  [conn148] end connection 127.0.0.1:56882 (5 connections now open)
+2018-07-26T03:19:52.230+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:56922 #149 (6 connections now open)
+2018-07-26T03:19:52.235+0800 I NETWORK  [conn149] received client metadata from 127.0.0.1:56922 conn149: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-26T03:20:12.119+0800 I NETWORK  [conn149] end connection 127.0.0.1:56922 (5 connections now open)
+2018-07-26T03:20:14.606+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:56957 #150 (6 connections now open)
+2018-07-26T03:20:14.610+0800 I NETWORK  [conn150] received client metadata from 127.0.0.1:56957 conn150: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-26T03:21:39.908+0800 I NETWORK  [conn150] end connection 127.0.0.1:56957 (5 connections now open)
+2018-07-26T03:21:42.258+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:57069 #151 (6 connections now open)
+2018-07-26T03:21:42.263+0800 I NETWORK  [conn151] received client metadata from 127.0.0.1:57069 conn151: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-26T03:22:01.291+0800 I NETWORK  [conn151] end connection 127.0.0.1:57069 (5 connections now open)
+2018-07-26T03:22:03.876+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:57102 #152 (6 connections now open)
+2018-07-26T03:22:03.879+0800 I NETWORK  [conn152] received client metadata from 127.0.0.1:57102 conn152: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-26T03:22:08.725+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:57113 #153 (7 connections now open)
+2018-07-26T03:26:04.184+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:61747 #154 (8 connections now open)
+2018-07-26T03:26:15.145+0800 I NETWORK  [conn152] end connection 127.0.0.1:57102 (7 connections now open)
+2018-07-26T03:26:15.145+0800 I NETWORK  [conn154] end connection 127.0.0.1:61747 (6 connections now open)
+2018-07-26T03:26:15.145+0800 I NETWORK  [conn153] end connection 127.0.0.1:57113 (5 connections now open)
+2018-07-26T03:26:17.474+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:61764 #155 (6 connections now open)
+2018-07-26T03:26:17.478+0800 I NETWORK  [conn155] received client metadata from 127.0.0.1:61764 conn155: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-26T03:29:00.542+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:61987 #156 (7 connections now open)
+2018-07-26T03:40:30.241+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:62959 #157 (8 connections now open)
+2018-07-26T03:45:06.663+0800 I NETWORK  [conn155] end connection 127.0.0.1:61764 (7 connections now open)
+2018-07-26T03:45:06.663+0800 I NETWORK  [conn156] end connection 127.0.0.1:61987 (6 connections now open)
+2018-07-26T03:45:06.663+0800 I NETWORK  [conn157] end connection 127.0.0.1:62959 (5 connections now open)
+2018-07-26T03:45:09.299+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:55416 #158 (6 connections now open)
+2018-07-26T03:45:09.305+0800 I NETWORK  [conn158] received client metadata from 127.0.0.1:55416 conn158: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-26T03:46:00.371+0800 I NETWORK  [conn158] end connection 127.0.0.1:55416 (5 connections now open)
+2018-07-26T03:46:02.994+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:55481 #159 (6 connections now open)
+2018-07-26T03:46:03.000+0800 I NETWORK  [conn159] received client metadata from 127.0.0.1:55481 conn159: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-26T03:46:04.910+0800 I NETWORK  [conn159] end connection 127.0.0.1:55481 (5 connections now open)
+2018-07-26T03:46:07.666+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:55489 #160 (6 connections now open)
+2018-07-26T03:46:07.670+0800 I NETWORK  [conn160] received client metadata from 127.0.0.1:55489 conn160: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-26T03:46:14.528+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:55505 #161 (7 connections now open)
+2018-07-26T03:46:39.283+0800 I NETWORK  [conn161] end connection 127.0.0.1:55505 (6 connections now open)
+2018-07-26T03:46:39.284+0800 I NETWORK  [conn160] end connection 127.0.0.1:55489 (5 connections now open)
+2018-07-26T03:46:41.708+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:55543 #162 (6 connections now open)
+2018-07-26T03:46:41.713+0800 I NETWORK  [conn162] received client metadata from 127.0.0.1:55543 conn162: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-26T03:46:49.001+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:55559 #163 (7 connections now open)
+2018-07-26T03:50:11.691+0800 I NETWORK  [conn162] end connection 127.0.0.1:55543 (6 connections now open)
+2018-07-26T03:50:11.691+0800 I NETWORK  [conn163] end connection 127.0.0.1:55559 (5 connections now open)
+2018-07-26T03:50:14.359+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:60610 #164 (6 connections now open)
+2018-07-26T03:50:14.364+0800 I NETWORK  [conn164] received client metadata from 127.0.0.1:60610 conn164: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-26T03:50:21.255+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:60629 #165 (7 connections now open)
+2018-07-26T03:53:00.435+0800 I NETWORK  [conn165] end connection 127.0.0.1:60629 (6 connections now open)
+2018-07-26T03:53:00.435+0800 I NETWORK  [conn164] end connection 127.0.0.1:60610 (5 connections now open)
+2018-07-26T03:53:57.038+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:61948 #166 (6 connections now open)
+2018-07-26T03:53:57.043+0800 I NETWORK  [conn166] received client metadata from 127.0.0.1:61948 conn166: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-26T03:54:09.764+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:61975 #167 (7 connections now open)
+2018-07-26T03:55:19.861+0800 I NETWORK  [conn166] end connection 127.0.0.1:61948 (6 connections now open)
+2018-07-26T03:55:19.861+0800 I NETWORK  [conn167] end connection 127.0.0.1:61975 (5 connections now open)
+2018-07-26T03:55:22.353+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:62070 #168 (6 connections now open)
+2018-07-26T03:55:22.357+0800 I NETWORK  [conn168] received client metadata from 127.0.0.1:62070 conn168: { driver: { name: "nodejs", version: "3.1.1" }, os: { type: "Windows_NT", name: "win32", architecture: "x64", version: "10.0.17134" }, platform: "Node.js v8.11.3, LE, mongodb-core: 3.1.0" }
+2018-07-26T04:03:37.530+0800 I NETWORK  [listener] connection accepted from 127.0.0.1:62725 #169 (7 connections now open)
+2018-07-26T04:03:46.390+0800 I NETWORK  [conn7] end connection 127.0.0.1:62828 (6 connections now open)
+2018-07-26T04:03:46.393+0800 I NETWORK  [conn115] end connection 127.0.0.1:63054 (5 connections now open)
+2018-07-26T04:03:46.394+0800 I NETWORK  [conn116] end connection 127.0.0.1:63057 (4 connections now open)
+2018-07-26T04:03:46.394+0800 I NETWORK  [conn114] end connection 127.0.0.1:63051 (3 connections now open)
+2018-07-26T04:03:46.395+0800 I NETWORK  [conn113] end connection 127.0.0.1:63048 (2 connections now open)
+2018-07-26T04:25:47.442+0800 I NETWORK  [conn168] end connection 127.0.0.1:62070 (1 connection now open)
+2018-07-26T04:25:47.443+0800 I NETWORK  [conn169] end connection 127.0.0.1:62725 (0 connections now open)
+2018-07-26T04:25:49.634+0800 I CONTROL  [serviceShutdown] got SERVICE_CONTROL_PRESHUTDOWN request from Windows Service Control Manager, will terminate after current cmd ends
+2018-07-26T04:25:49.635+0800 I NETWORK  [serviceShutdown] shutdown: going to close listening sockets...
+2018-07-26T04:25:49.636+0800 I CONTROL  [serviceShutdown] Shutting down free monitoring
+2018-07-26T04:25:49.636+0800 I FTDC     [serviceShutdown] Shutting down full-time diagnostic data capture
+2018-07-26T04:25:49.641+0800 I STORAGE  [serviceShutdown] WiredTigerKVEngine shutting down
+2018-07-26T04:25:49.756+0800 I STORAGE  [serviceShutdown] shutdown: removing fs lock...
+2018-07-26T04:25:49.757+0800 I CONTROL  [serviceShutdown] now exiting

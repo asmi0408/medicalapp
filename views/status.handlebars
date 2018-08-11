@@ -1,0 +1,48 @@
+{{#user}}
+<h3>Welcome to your portal, {{name}}!</h3>
+{{/user}} {{#submit}} {{#if employee}}
+<h4>Your Employees</h4>
+{{/if}} {{/submit}}
+<div id="accordion">
+  {{#each submit}} {{#each employee}}
+  <div class="card">
+    <div class="card-header" id="{{_id}}" data-toggle="collapse" data-target="#c{{_id}}" aria-expanded="true" aria-controls="collapseOne">
+      <h5 class="mb-0">
+        {{#mc}}
+        {{#if acknowledged}}
+        {{else}}
+        {{{new1 this}}}
+        {{/if}}{{/mc}}
+        <div class="chip">
+          <img src="/img/user.png"> {{name}}
+        </div>
+      </h5>
+    </div>
+    <div id="c{{_id}}" class="collapse" aria-labelledby="{{_id}}" data-parent="#accordion">
+      {{#each mc}}
+      <div class="card-body">
+        {{#if this}}
+        {{{counting @index}}}
+        {{{bodyparts date dateto clinic task uploadmc}}}
+        {{/if}}
+        {{#if this}} {{{submitMC date _id uploadmc user._id ./user.id acknowledged uploadmc}}} {{/if}}
+      </div>
+      {{/each}}
+    </div>
+  </div>
+  {{/each}} {{/each}}
+</div>
+<h4>Your requests</h4>
+{{#each submit}} {{#each this.mc}}
+<div class="card card-body mb-2">
+  <div class="chip">
+    <img src="/img/user.png"> {{#user}} {{name}} {{/user}}
+  </div>
+        {{#if this}}
+        {{{bodyparts date dateto clinic task uploadmc}}}
+        {{/if}}
+  {{#if this}} {{{submitMC date _id uploadmc user._id ./user.id acknowledged uploadmc}}} {{/if}}
+</div>
+{{else}}
+<h4>You have not made any requests</h4>
+{{/each}} {{/each}}
