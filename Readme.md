@@ -15,10 +15,10 @@ cd medicalapp
 If at all possible, we recommend you use git to download code rather than zips of a repository.  This is prefereable because if the repo is updated, then syncing those changes requires just one command (`git pull`) and usually any merging can be done automatically.  Git is very powerful and we heartily encourages you to become familiar with it.
 
 
-Alternatively you may download and unpack the [zip](https://github.com/asmi0408/medicalapp/blob/master/archive/medicalapp.zip)
+Alternatively you may download and unpack the [zip](https://github.com/asmi0408/medicalapp/raw/master/archive/medicalapp.zip)
 which on linux can be achieved using
 ```bash
-wget https://github.com/asmi0408/medicalapp/blob/master/archive/medicalapp.zip
+wget https://github.com/asmi0408/medicalapp/raw/master/archive/medicalapp.zip
 unzip medicalapp.zip
 cd medicalapp
 ```
